@@ -1,0 +1,26 @@
+Created attachment details
+starter patch ContextConfig tolerant file URLs Context Config
+ContextConfig processServletContainerInitializers processResourceJARs hard coded accept jar URLs Context Config process Servlet Container Initializers process Resource JARs
+encounter file URL JarScanner scanAllDirectories true throw ClassCastException Jar Scanner scan Directories Class Cast Exception
+attached patch update Tomcat start
+verified modified processServletContainerInitializers picks javax servlet ServletContainerInitializer file directory process Servlet Container Initializers Servlet Container Initializer
+processResourceJARs lazy modified simply ignore file URLs BaseDirContext doesn accept jar URLs META INF resources locations process Resource JARs Base Dir Context
+Tomcat support Web Tools Platform fixed
+JarScanner scanAllDirectories true usable feature serving web application projects development workspace work fully Jar Scanner scan Directories
+patch sufficient
+feature WTP multiple web content folders web application projects
+Tomcat support WTP enable customized FileDirContext handle File Dir Context
+VirtualDirContext hacks Virtual Dir Context
+handle META INF resources directories processResourceJARs doesn process Resource JARs
+order
+benefit processResourceJARs add file URLs BaseDirContext jar URLs process Resource JARs Base Dir Context
+marking severity major bit deadline
+week WTP change JarScanner Jar Scanner
+web fragment xml files won picked serving projects workspace
+stuff
+won critical feature
+deadline WTP maintenance release late September
+Serving web application projects workspace Tomcat wouldn fully functional months
+Addressing fine
+Cheers
+Larry

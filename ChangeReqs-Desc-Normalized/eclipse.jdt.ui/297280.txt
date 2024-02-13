@@ -1,0 +1,34 @@
+User Agent
+Mozilla Windows
+
+Windows
+
+Gecko Firefox NET CLR
+Build Identifier
+
+bug occurs user runs single JUnit test selecting test method chosing JUnit Test context menu
+BeforeClass method defined throws exception JUnit view tree test method Unrooted Tests test class Class
+nodes marked crosses ticks Failure Trace
+expect tree Test method
+Test class Test method
+expect red cross tree click bring stack trace exception
+Reproducible
+
+Steps Reproduce
+import org junit BeforeClass Class
+import org junit Test
+public class BugExample BeforeClass Bug Class
+public static void beforeClass Class
+throw RuntimeException Test Runtime Exception
+public void test throws Exception
+
+JUnit project classpath
+
+Create class default package
+
+Select method named test
+
+click JUnit Test
+
+Open JUnit view expand Unrooted Tests node
+find nodes marked crosses ticks Failure Trace

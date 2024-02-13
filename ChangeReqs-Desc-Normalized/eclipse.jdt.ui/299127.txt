@@ -1,0 +1,13 @@
+Build Identifier
+
+Java Build Path properties select button Add JARs
+JAR Selection dialog pops filter jars text entered textbox top
+insert blank textbox Refresh Filter crashes NullPointerException Null Pointer Exception
+Reproducible
+
+Steps Reproduce
+Java Build Path properties Java project select button Add JARs
+
+Set focus text box top dialog press space bar
+
+Result Refresh Filter crashes NullPointerException Null Pointer Exception

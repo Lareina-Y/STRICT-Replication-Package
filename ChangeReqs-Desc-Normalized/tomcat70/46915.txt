@@ -1,0 +1,11 @@
+Created attachment details
+modified foreach jsp file reads properties file
+issue ResourceBundle JSTL tomcat Resource Bundle
+problem code messageString resourceBundle message String resource Bundle
+code resolve result printing
+messageString variable set code fmt setBundle basename LocalStrings scope session var messageString message String set Bundle Local Strings message String
+tested jsp tomcat webapp
+issue reproducible JSTL JSTL JDK
+working fine Tomcat
+Attached sample foreach jsp modified code read property file webapps examples WEB INF classes folder tomcat installation directory
+place file examples webapp view source

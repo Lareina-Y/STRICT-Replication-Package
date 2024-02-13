@@ -1,0 +1,11 @@
+Eclipse version Build
+
+Steps Reproduce Create fragment project Set externalized strings compiler option Error
+Windows Preferences Plug Development Compilers Usage
+Externalized Strings MANIFEST source Click quick Bundle header Select Externalize Bundle header Externalization works Switch Overview Notice field General
+externalized Type text field click field Note
+externalized string key appears field problem applicable Provider field problem occur plug project fragment projects
+investigation simply model changed event
+fired
+modelChanged method GeneralInformationSection model Changed General
+recieving event trigger refresh

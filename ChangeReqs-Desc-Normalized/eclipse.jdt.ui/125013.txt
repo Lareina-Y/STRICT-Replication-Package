@@ -1,0 +1,395 @@
+ZRH plug ins started target workbench selected threads dump trace syncExec call PreferenceForwarder waits holding JavaModelManager waited main thread main thread waits lock reconciler waits woken main thread deadlock result sync Exec Preference Forwarder Java Model Manager
+org eclipse core launcher Main localhost Suspended
+Thread main Suspended
+waiting
+JavaModelManager Java Model Manager
+JavaModelManager containerGet IJavaProject IPath Java Model Manager container IJava Project
+
+JavaModelManager getClasspathContainer IPath IJavaProject Java Model Manager Classpath Container IJava Project
+
+ClasspathEntry validateClasspathEntry IJavaProject IClasspathEntry boolean boolean Classpath Entry validate Classpath Entry IJava Project IClasspath Entry
+
+JavaProject getResolvedClasspath IClasspathEntry IPath boolean boolean Map Java Project Resolved Classpath IClasspath Entry
+
+DeltaProcessingState ProjectUpdateInfo updateProjectReferencesIfNecessary Delta Processing Project Update Info update Project References
+
+DeltaProcessingState performClasspathResourceChange JavaProject IClasspathEntry IClasspathEntry IClasspathEntry boolean Delta Processing perform Classpath Resource Change Java Project IClasspath Entry IClasspath Entry IClasspath Entry
+
+SetClasspathOperation updateProjectReferencesIfNecessary Set Classpath Operation update Project References
+
+SetClasspathOperation executeOperation Set Classpath Operation execute Operation
+
+SetClasspathOperation JavaModelOperation IProgressMonitor Set Classpath Operation Java Model Operation IProgress Monitor
+
+Workspace IWorkspaceRunnable ISchedulingRule int IProgressMonitor IWorkspace Runnable IScheduling Rule IProgress Monitor
+
+SetClasspathOperation JavaModelOperation runOperation IProgressMonitor Set Classpath Operation Java Model Operation Operation IProgress Monitor
+
+JavaProject setRawClasspath IClasspathEntry IPath IProgressMonitor boolean IClasspathEntry boolean boolean Java Project set Raw Classpath IClasspath Entry IProgress Monitor IClasspath Entry
+
+JavaCore IProgressMonitor Java Core IProgress Monitor
+
+BatchOperation executeOperation Batch Operation execute Operation
+
+BatchOperation JavaModelOperation IProgressMonitor Batch Operation Java Model Operation IProgress Monitor
+
+Workspace IWorkspaceRunnable ISchedulingRule int IProgressMonitor IWorkspace Runnable IScheduling Rule IProgress Monitor
+
+JavaCore IWorkspaceRunnable ISchedulingRule IProgressMonitor Java Core IWorkspace Runnable IScheduling Rule IProgress Monitor
+
+JavaCore setClasspathContainer IPath IJavaProject IClasspathContainer IProgressMonitor Java Core set Classpath Container IJava Project IClasspath Container IProgress Monitor
+
+JREContainerInitializer initialize IPath IJavaProject JREContainer Initializer IJava Project
+
+JavaModelManager initializeContainer IJavaProject IPath Java Model Manager initialize Container IJava Project
+
+JavaModelManager IProgressMonitor Java Model Manager IProgress Monitor
+
+Workspace IWorkspaceRunnable ISchedulingRule int IProgressMonitor IWorkspace Runnable IScheduling Rule IProgress Monitor
+
+JavaModelManager initializeAllContainers IJavaProject IPath Java Model Manager initialize Containers IJava Project
+
+JavaModelManager getClasspathContainer IPath IJavaProject Java Model Manager Classpath Container IJava Project
+
+JavaCore getClasspathContainer IPath IJavaProject Java Core Classpath Container IJava Project
+
+JavaProject getResolvedClasspath IClasspathEntry IPath boolean boolean Map Java Project Resolved Classpath IClasspath Entry
+
+JavaProject getResolvedClasspath boolean boolean boolean Java Project Resolved Classpath
+
+DeltaProcessingState initializeRoots Delta Processing initialize Roots
+
+BatchOperation JavaModelOperation IProgressMonitor Batch Operation Java Model Operation IProgress Monitor
+
+Workspace IWorkspaceRunnable ISchedulingRule int IProgressMonitor IWorkspace Runnable IScheduling Rule IProgress Monitor
+
+JavaCore IWorkspaceRunnable ISchedulingRule IProgressMonitor Java Core IWorkspace Runnable IScheduling Rule IProgress Monitor
+
+JavaCore setClasspathContainer IPath IJavaProject IClasspathContainer IProgressMonitor Java Core set Classpath Container IJava Project IClasspath Container IProgress Monitor
+
+JREContainerInitializer initialize IPath IJavaProject JREContainer Initializer IJava Project
+
+JavaModelManager initializeContainer IJavaProject IPath Java Model Manager initialize Container IJava Project
+
+JavaModelManager getClasspathContainer IPath IJavaProject Java Model Manager Classpath Container IJava Project
+
+JavaCore getClasspathContainer IPath IJavaProject Java Core Classpath Container IJava Project
+
+JavaProject getResolvedClasspath IClasspathEntry IPath boolean boolean Map Java Project Resolved Classpath IClasspath Entry
+
+JavaProject getResolvedClasspath boolean boolean boolean Java Project Resolved Classpath
+
+JavaModelManager determineIfOnClasspath IResource IJavaProject Java Model Manager determine Classpath IJava Project
+
+JavaModelManager create IFolder IJavaProject Java Model Manager IJava Project
+
+JavaModelManager create IResource IJavaProject Java Model Manager IJava Project
+
+JavaCore create IResource Java Core
+
+ResourceAdapterFactory getAdapter Object Class Resource Adapter Factory Adapter
+
+AdapterFactoryProxy getAdapter Object Class Adapter Factory Proxy Adapter
+
+AdapterManager getAdapter Object Class Adapter Manager Adapter
+
+Folder PlatformObject getAdapter Class Platform Object Adapter
+
+NamePatternFilter select Viewer Object Object Pattern Filter
+
+PackageExplorerPart PackageExplorerProblemTreeViewer filter Object Object ViewerFilter Package Explorer Package Explorer Problem Tree Viewer Viewer Filter
+
+PackageExplorerPart PackageExplorerProblemTreeViewer isExpandable Object Package Explorer Package Explorer Problem Tree Viewer Expandable
+
+PackageExplorerPart PackageExplorerProblemTreeViewer AbstractTreeViewer updatePlus Item Object Package Explorer Package Explorer Problem Tree Viewer Abstract Tree Viewer update
+
+PackageExplorerPart PackageExplorerProblemTreeViewer AbstractTreeViewer createTreeItem Widget Object int Package Explorer Package Explorer Problem Tree Viewer Abstract Tree Viewer create Tree Item
+
+AbstractTreeViewer Abstract Tree Viewer
+
+BusyIndicator showWhile Display Runnable Busy Indicator
+
+PackageExplorerPart PackageExplorerProblemTreeViewer AbstractTreeViewer createChildren Widget Package Explorer Package Explorer Problem Tree Viewer Abstract Tree Viewer create Children
+
+PackageExplorerPart PackageExplorerProblemTreeViewer TreeViewer createChildren Widget Package Explorer Package Explorer Problem Tree Viewer Tree Viewer create Children
+
+AbstractTreeViewer Abstract Tree Viewer
+
+PackageExplorerPart PackageExplorerProblemTreeViewer StructuredViewer preservingSelection Runnable Package Explorer Package Explorer Problem Tree Viewer Structured Viewer preserving Selection
+
+PackageExplorerPart PackageExplorerProblemTreeViewer preservingSelection Runnable Package Explorer Package Explorer Problem Tree Viewer preserving Selection
+
+PackageExplorerPart PackageExplorerProblemTreeViewer AbstractTreeViewer inputChanged Object Object Package Explorer Package Explorer Problem Tree Viewer Abstract Tree Viewer input Changed
+
+PackageExplorerPart PackageExplorerProblemTreeViewer ContentViewer setInput Object Package Explorer Package Explorer Problem Tree Viewer Content Viewer set Input
+
+PackageExplorerPart PackageExplorerProblemTreeViewer StructuredViewer setInput Object Package Explorer Package Explorer Problem Tree Viewer Structured Viewer set Input
+
+PackageExplorerPart createPartControl Composite Package Explorer create Control
+
+ViewReference createPartHelper View Reference create Helper
+
+ViewReference createPart View Reference create
+
+ViewReference WorkbenchPartReference getPart boolean View Reference Workbench Reference
+
+ViewPane PartPane setVisible boolean View Pane Pane set Visible
+
+ViewPane setVisible boolean View Pane set Visible
+
+PresentablePart setVisible boolean Presentable set Visible
+
+PresentablePartFolder select IPresentablePart Presentable Folder IPresentable
+
+LeftToRightTabOrder select IPresentablePart Left Tab Order IPresentable
+
+TabbedStackPresentation selectPart IPresentablePart Tabbed Stack Presentation select IPresentable
+
+ViewStack PartStack refreshPresentationSelection View Stack Stack refresh Presentation Selection
+
+ViewStack PartStack createControl Composite StackPresentation View Stack Stack create Control Stack Presentation
+
+ViewStack PartStack createControl Composite View Stack Stack create Control
+
+ViewSashContainer PartSashContainer createControl Composite View Sash Container Sash Container create Control
+
+PerspectiveHelper activate Composite Perspective Helper
+
+Perspective onActivate Activate
+
+WorkbenchPage onActivate Workbench Activate
+
+WorkbenchWindow Workbench Window
+
+BusyIndicator showWhile Display Runnable Busy Indicator
+
+WorkbenchWindow setActivePage IWorkbenchPage Workbench Window set Active IWorkbench
+
+WorkbenchWindow restoreState IMemento IPerspectiveDescriptor Workbench Window restore IPerspective Descriptor
+
+Workbench doRestoreState IMemento MultiStatus Restore Multi Status
+
+Workbench access Workbench IMemento MultiStatus Multi Status
+
+Workbench
+
+Workbench runStartupWithProgress int Runnable Startup Progress
+
+Workbench restoreState IMemento restore
+
+Workbench access Workbench IMemento
+
+Workbench
+
+SafeRunner ISafeRunnable Safe Runner ISafe Runnable
+
+Platform ISafeRunnable ISafe Runnable
+
+Workbench restoreState restore
+
+WorkbenchConfigurer restoreState Workbench Configurer restore
+
+IDEWorkbenchAdvisor WorkbenchAdvisor openWindows IDEWorkbench Advisor Workbench Advisor open Windows
+
+Workbench init Display
+
+Workbench runUI
+
+Workbench createAndRunWorkbench Display WorkbenchAdvisor create Workbench Workbench Advisor
+
+PlatformUI createAndRunWorkbench Display WorkbenchAdvisor Platform create Workbench Workbench Advisor
+
+IDEApplication Object
+
+PlatformActivator Object Platform Activator
+
+EclipseAppLauncher runApplication Object Eclipse App Launcher Application
+
+EclipseAppLauncher start Object Eclipse App Launcher
+
+EclipseStarter Object Eclipse Starter
+
+EclipseStarter String Runnable Eclipse Starter
+
+NativeMethodAccessorImpl invoke Method Object Object Native Method Accessor Impl
+native method
+NativeMethodAccessorImpl invoke Object Object Native Method Accessor Impl
+
+DelegatingMethodAccessorImpl invoke Object Object Delegating Method Accessor Impl
+
+Method invoke Object Object
+
+Main invokeFramework String URL invoke Framework
+
+Main basicRun String basic
+
+Main String
+
+Main main String
+
+Thread Framework Event Dispatcher Suspended
+owns
+HashMap Hash Map
+waiting
+RunnableLock Runnable Lock
+Object wait long
+native method
+RunnableLock Object wait Runnable Lock
+
+UISynchronizer Synchronizer syncExec Runnable sync Exec
+
+UISynchronizer syncExec Runnable sync Exec
+
+Display syncExec Runnable sync Exec
+
+WorkingSetManager AbstractWorkingSetManager firePropertyChange String Object Object Working Set Manager Abstract Working Set Manager fire Property Change
+
+WorkingSetManager AbstractWorkingSetManager getUpdater WorkingSetDescriptor Working Set Manager Abstract Working Set Manager Updater Working Set Descriptor
+
+WorkingSetManager AbstractWorkingSetManager bundleChanged BundleEvent Working Set Manager Abstract Working Set Manager bundle Changed Bundle Event
+
+BundleContextImpl dispatchEvent Object Object int Object Bundle Context Impl dispatch Event
+
+EventManager dispatchEvent EventListeners ListElement EventDispatcher int Object Event Manager dispatch Event Event Listeners List Element Event Dispatcher
+
+EventManager EventThread Event Manager Event Thread
+
+Thread org eclipse jdt internal text JavaReconciler Suspended Java Reconciler
+owns
+JavaModelManager Java Model Manager
+owns
+Object
+waiting
+RunnableLock Runnable Lock
+Object wait long
+native method
+RunnableLock Object wait Runnable Lock
+
+UISynchronizer Synchronizer syncExec Runnable sync Exec
+
+UISynchronizer syncExec Runnable sync Exec
+
+Display syncExec Runnable sync Exec
+
+PreferencesAdapter firePropertyChangeEvent String Object Object Preferences Adapter fire Property Change Event
+
+PreferencesAdapter PropertyChangeListener propertyChange Preferences PropertyChangeEvent Preferences Adapter Property Change Listener property Change Property Change Event
+
+Preferences
+
+SafeRunner ISafeRunnable Safe Runner ISafe Runnable
+
+PreferenceForwarder Preferences firePropertyChangeEvent String Object Object Preference Forwarder fire Property Change Event
+
+PreferenceForwarder preferenceChange IEclipsePreferences PreferenceChangeEvent Preference Forwarder preference Change IEclipse Preferences Preference Change Event
+
+EclipsePreferences Eclipse Preferences
+
+SafeRunner ISafeRunnable Safe Runner ISafe Runnable
+
+InstancePreferences EclipsePreferences firePreferenceEvent String Object Object Instance Preferences Eclipse Preferences fire Preference Event
+
+InstancePreferences EclipsePreferences String String Instance Preferences Eclipse Preferences
+
+JavaModelManager variablePut String IPath Java Model Manager variable
+
+JavaModelManager updateVariableValues String IPath IProgressMonitor Java Model Manager update Variable Values IProgress Monitor
+
+JavaCore setClasspathVariables String IPath IProgressMonitor Java Core set Classpath Variables IProgress Monitor
+
+JavaCore setClasspathVariable String IPath IProgressMonitor Java Core set Classpath Variable IProgress Monitor
+
+EclipseHomeInitializer resetEclipseHomeVariable Eclipse Initializer reset Eclipse Variable
+
+EclipseHomeInitializer initialize String Eclipse Initializer
+
+JavaCore getClasspathVariable String Java Core Classpath Variable
+
+JavaCore getResolvedVariablePath IPath Java Core Resolved Variable Path
+
+JavaCore getResolvedClasspathEntry IClasspathEntry Java Core Resolved Classpath Entry IClasspath Entry
+
+JavaProject getResolvedClasspath IClasspathEntry IPath boolean boolean Map Java Project Resolved Classpath IClasspath Entry
+
+JavaProject getResolvedClasspath boolean boolean boolean Java Project Resolved Classpath
+
+DeltaProcessingState initializeRoots Delta Processing initialize Roots
+
+BatchOperation JavaModelOperation IProgressMonitor Batch Operation Java Model Operation IProgress Monitor
+
+Workspace IWorkspaceRunnable ISchedulingRule int IProgressMonitor IWorkspace Runnable IScheduling Rule IProgress Monitor
+
+JavaCore IWorkspaceRunnable ISchedulingRule IProgressMonitor Java Core IWorkspace Runnable IScheduling Rule IProgress Monitor
+
+JavaCore setClasspathContainer IPath IJavaProject IClasspathContainer IProgressMonitor Java Core set Classpath Container IJava Project IClasspath Container IProgress Monitor
+
+ModelEntry updateClasspathContainer boolean Model Entry update Classpath Container
+
+RequiredPluginsInitializer initialize IPath IJavaProject Required Plugins Initializer IJava Project
+
+JavaModelManager initializeContainer IJavaProject IPath Java Model Manager initialize Container IJava Project
+
+JavaModelManager getClasspathContainer IPath IJavaProject Java Model Manager Classpath Container IJava Project
+
+JavaCore getClasspathContainer IPath IJavaProject Java Core Classpath Container IJava Project
+
+JavaProject getResolvedClasspath IClasspathEntry IPath boolean boolean Map Java Project Resolved Classpath IClasspath Entry
+
+JavaProject getResolvedClasspath boolean boolean boolean Java Project Resolved Classpath
+
+JavaProject buildStructure OpenableElementInfo IProgressMonitor Map IResource Java Project build Structure Openable Element Info IProgress Monitor
+
+JavaProject Openable generateInfos Object HashMap IProgressMonitor Java Project generate Infos Hash Map IProgress Monitor
+
+JavaProject JavaElement openWhenClosed Object IProgressMonitor Java Project Java Element open Closed IProgress Monitor
+
+JavaProject JavaElement getElementInfo IProgressMonitor Java Project Java Element Element Info IProgress Monitor
+
+JavaProject JavaElement getElementInfo Java Project Java Element Element Info
+
+JavaProject getJavaProjectElementInfo Java Project Java Project Element Info
+
+JavaProject newNameLookup ICompilationUnit Java Project Lookup ICompilation Unit
+
+CancelableNameEnvironment SearchableEnvironment init JavaProject ICompilationUnit Cancelable Environment Searchable Environment Java Project ICompilation Unit
+
+CancelableNameEnvironment SearchableEnvironment init JavaProject WorkingCopyOwner Cancelable Environment Searchable Environment Java Project Working Copy Owner
+
+CancelableNameEnvironment init JavaProject WorkingCopyOwner IProgressMonitor Cancelable Environment Java Project Working Copy Owner IProgress Monitor
+
+CompilationUnitProblemFinder process CompilationUnitDeclaration ICompilationUnit char Parser WorkingCopyOwner HashMap boolean boolean IProgressMonitor Compilation Unit Problem Finder Compilation Unit Declaration ICompilation Unit Working Copy Owner Hash Map IProgress Monitor
+
+CompilationUnitProblemFinder process ICompilationUnit char WorkingCopyOwner HashMap boolean boolean IProgressMonitor Compilation Unit Problem Finder ICompilation Unit Working Copy Owner Hash Map IProgress Monitor
+
+ReconcileWorkingCopyOperation makeConsistent CompilationUnit IProblemRequestor Reconcile Working Copy Operation Consistent Compilation Unit IProblem Requestor
+
+ReconcileWorkingCopyOperation executeOperation Reconcile Working Copy Operation execute Operation
+
+ReconcileWorkingCopyOperation JavaModelOperation IProgressMonitor Reconcile Working Copy Operation Java Model Operation IProgress Monitor
+
+ReconcileWorkingCopyOperation JavaModelOperation runOperation IProgressMonitor Reconcile Working Copy Operation Java Model Operation Operation IProgress Monitor
+
+CompilationUnit reconcile int boolean boolean WorkingCopyOwner IProgressMonitor Compilation Unit Working Copy Owner IProgress Monitor
+
+CompilationUnit reconcile int boolean WorkingCopyOwner IProgressMonitor Compilation Unit Working Copy Owner IProgress Monitor
+
+JavaReconcilingStrategy Java Reconciling Strategy
+
+SafeRunner ISafeRunnable Safe Runner ISafe Runnable
+
+Platform ISafeRunnable ISafe Runnable
+
+JavaReconcilingStrategy reconcile boolean Java Reconciling Strategy
+
+JavaReconcilingStrategy initialReconcile Java Reconciling Strategy initial Reconcile
+
+JavaCompositeReconcilingStrategy CompositeReconcilingStrategy initialReconcile Java Composite Reconciling Strategy Composite Reconciling Strategy initial Reconcile
+
+JavaCompositeReconcilingStrategy initialReconcile Java Composite Reconciling Strategy initial Reconcile
+
+JavaReconciler MonoReconciler initialProcess Java Reconciler Mono Reconciler initial Process
+
+JavaReconciler initialProcess Java Reconciler initial Process
+
+AbstractReconciler BackgroundThread Abstract Reconciler Background Thread
+

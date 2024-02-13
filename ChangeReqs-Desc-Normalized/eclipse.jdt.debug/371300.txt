@@ -1,0 +1,51 @@
+Build Identifier
+
+JavaRuntime computeVMInstall ILaunchConfiguration method returns workspace metadata plugins org eclipse core runtime settings org eclipse jdt launching prefs workspace default compatible version launch configuration Java Runtime compute VMInstall ILaunch Configuration
+issue creates lot confusion user
+behaviour noticed discovered maven eclipse plugin
+IMHO JavaRuntime computeVMInstall ILaunchConfiguration return workspace default JVM preference file Java Runtime compute VMInstall ILaunch Configuration
+JREContainerInitializer JREContainer Initializer
+public static IVMInstall resolveVM IExecutionEnvironment environment method modified returns default workspace resolve IExecution Environment
+public static IVMInstall resolveVM IExecutionEnvironment environment resolve IExecution Environment
+JREContainer DEBUG JRE CONTAINER
+System println JRE CONTAINER resolveVM IExecutionEnvironment NLS resolve IExecution Environment
+IVMInstall environment getDefaultVM Default
+null
+IVMInstall installs environment getCompatibleVMs strictly compatible default Compatible VMs
+installs length JREContainer DEBUG JRE CONTAINER
+System println COMPATIBLE VMS NLS
+int
+installs length
+
+IVMInstall install installs
+environment isStrictlyCompatible install Strictly Compatible
+install
+installs length JREContainer DEBUG JRE CONTAINER
+System println tPerfect Match getName NLS Perfect
+break failing
+null installs length
+JavaRuntime getDefaultVMInstall Java Runtime Default VMInstall
+installs length JREContainer DEBUG JRE CONTAINER
+System println tFirst Match getName NLS
+JREContainer DEBUG JRE CONTAINER
+System println tUser Default getName NLS User
+return
+Reproducible
+
+Steps Reproduce
+instructions behaviour confusion maven
+behaviour plugin
+
+JVM installed JRE JDK
+
+Eclipse starts discovers JRE automatically adds default JRE workspace
+
+add JDK preferences workspace default
+
+create project plugin execution environment project set
+compile project maven install time
+works
+maven clean
+maven install
+Maven complains JDK installed
+user JDK preferences set workspace default creates lot confusion

@@ -1,0 +1,20 @@
+Created attachment details
+default Java import method
+Build
+
+Steps Reproduce
+
+Download ZIP file attached DoubleIt folder Eclipse subproject service war Double
+
+import DoubleIt Eclipse Double
+File Java Project Create Project existing Source
+Choose DoubleIt folder click Double
+
+default source code import loading service war target generated sources correctly creates subsequent classpath problems manually changed
+org contract doubleit folder loads correctly org schema doubleit unsure
+
+classpath entry default incorrect source file detection classpath classpathentry excluding org schema doubleit kind src path service war target generated sources classpathentry kind src path service war target generated sources org schema doubleit
+default classpath classpathentry kind src path service war target generated sources
+incorrect default Eclipse complain classes org schema doubleit package package empty string
+attaching screenshots showing bad default good default Navigator view consequences bad default Note
+screenshots Eclipse verified problem
