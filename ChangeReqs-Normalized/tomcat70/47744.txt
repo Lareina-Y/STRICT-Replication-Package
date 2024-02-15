@@ -1,0 +1,50 @@
+Memory leak SSL Java security manager
+Created attachment details
+zip main bug
+test client JSP server patch
+SSL java security manager Tomcat leaks memory servlets
+access cert path cipher request properties
+servlet JSP asks
+properties request loaded
+JSSESupport class
+offending method calculates key size attempts cache
+SSLSession
+security manager fine
+security
+manager runs AccessControlContext time Access Control Context
+Retrieving cache return null putting
+SSLSession cache leaks memory
+JVM bug
+Tomcat fault Tomcat exercising
+Popular web service tools Apache CXF retrieve cert properties
+request invocation
+Depending policy file leak
+slow requiring thousands millions requests
+
+fast case requiring crash instance Tomcat
+limited gig memory
+note
+SSLSession collected
+memory leak isn permanent
+turn SSLSession timeout wait
+amount time specific session
+bug
+continuously session trip
+JSSESession attempting keysize
+case
+long connected clients stream
+minutes negatively
+attached zip test client script bat guys easily adapted test client jsp trips JSSESupport call method simplest policy file demonstrate policy file
+issue
+attached
+patch fixes issue zip good
+measure
+recommend setting invocation count test
+client
+jconsole tool attached tomcat monitor
+memory
+notice test large chunk memory
+returned garbage collector
+apply patch
+update tomcat coyote jar load test notice memory
+consumption stays return baseline

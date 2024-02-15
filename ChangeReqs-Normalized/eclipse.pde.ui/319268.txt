@@ -1,0 +1,6 @@
+Bug PDE confused PDE projects
+development workspace combination PDE regular java projects
+PDE projects happen META INF MANIFEST
+projects PDE PLUGIN NATURE PDE parses META INF MANIFEST files considers find resolution dependencies proper PDE projects
+unexpected invalid dependencies pollute compile classpath workspace importantly runtime problems Eclipse applications JUnit Plug tests launched workspace
+trivial check PDE natures org eclipse pde internal core WorkspaceModelManager isXXXProject methods interested Workspace Model Manager XXXProject

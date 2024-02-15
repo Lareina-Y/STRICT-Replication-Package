@@ -1,0 +1,18 @@
+JSP Generation error recursive tagfile structure
+addendum
+Version combobox
+scenario
+menu decribed tree structure
+rendering menu tagfile render menuitem renders
+current item leaf item clicking action
+node item clicking opens level submenu
+rendering submenu calling tagfile body
+worked fine tomcat
+clear pseudo code original code
+voluminous
+tagfile render menuitem tagx jsp root jsp directive attribute menu item choose test menu item isNode div node menu item label div forEach var item items menu item children PROBLEM TOMCAT tags render menuitem menu item item forEach div leaf menu item label div choose jsp root Node
+faulty behaviour
+tomcat generated Java Source tagfile reveals
+body doTag method empty emits html Tag
+compilation
+silently error warning logfiles

@@ -1,0 +1,12 @@
+Bug META INF package bundle manifest
+order provide jsr support define service implementation jsr java compiler
+order define file called javax tool JavaCompiler META INF services folder Java Compiler
+folder located source folder order copied output folder
+package explorer META INF services java resources
+order visible plugins test plugin add Export Package bundle manifest
+Export Package
+org eclipse jdt compiler tool
+META INF services
+error Package META INF services exist plug
+error free
+reproduce problem check project org eclipse jdt compiler tool dev eclipse org

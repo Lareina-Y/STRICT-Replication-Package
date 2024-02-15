@@ -1,0 +1,24 @@
+Bug Console input text properly eclipse console panel
+Build
+
+Steps Reproduce
+Create Java Project
+Create class TryTest Test
+import java BufferedReader Buffered Reader
+import java IOException
+import java InputStreamReader Input Stream Reader
+public class TryTest Test
+public static void main String args
+BufferedReader buffer BufferedReader InputStreamReader System Buffered Reader Buffered Reader Input Stream Reader
+
+System println buffer readLine catch IOException read
+printStackTrace print Stack Trace
+
+Java Application
+
+console panel input del del hit enter
+abc displayed expected
+native console class file runs properly
+
+problem introduced version version works fine expected
+problem impacts applications elcipse console user IME input texts IME input suggestions input text disapear input complete captured eclipse console

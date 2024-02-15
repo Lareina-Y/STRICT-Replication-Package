@@ -1,0 +1,16 @@
+Http NioProcessor correct release Nio Processor
+org apache coyote http Http NioProtocol Http ConnectionHandler Nio Protocol Connection Handler
+code segment Override
+public void release SocketWrapper NioChannel socket Socket Wrapper Nio Channel
+Http NioProcessor processor connections remove socket Nio Processor
+processor null
+processor recycle
+recycledProcessors offer processor recycled Processors
+Override
+public void release SocketWrapper NioChannel socket Socket Wrapper Nio Channel
+Http NioProcessor processor connections remove socket getSocket Nio Processor Socket
+processor null
+processor recycle
+recycledProcessors offer processor recycled Processors
+type connections ConcurrentHashMap NioChannel Http NioProcessor Concurrent Hash Map Nio Channel Nio Processor
+ConcurrentHashMap SocketWrapper NioChannel Http NioProcessor Concurrent Hash Map Socket Wrapper Nio Channel Nio Processor

@@ -1,0 +1,14 @@
+Bug Nested generic type names correctly displayed
+Test case Java
+import java util Vector
+import java util Set
+public class Test
+public static void main String
+args
+Vector Set String Vector Set String
+System println breakpoint
+Launch debug mode breakpoint
+option qualified names Variables view displays
+Vector Vector
+
+Vector Set String Vector

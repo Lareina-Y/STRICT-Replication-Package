@@ -1,0 +1,14 @@
+Bug typing Automatically close brace work properly
+Build
+simple code
+condition return false
+insert brace single statement block
+type brace return simply hit Enter
+condition return false
+Java editor preference Automatically close braces checked
+expect code
+condition
+return false
+code
+condition return false
+code compile bit annoying

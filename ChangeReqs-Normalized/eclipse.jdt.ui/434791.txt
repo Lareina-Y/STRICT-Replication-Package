@@ -1,0 +1,24 @@
+Bug inline quick assist Delete key work Inline local variable
+command Quick Assist Inline local variable bound Ctrl Alt Preferences General combination activated local variable inlined pressing Delete key
+Delete key starts working characters selected Shift arrow key caret jumps location pressing Ctrl Ctrl Left
+reproduce bug source
+import java util ArrayList Array List
+import java util function Supplier
+import java util stream Collector
+import java util stream Collectors
+class DeleteKey Delete Key
+public void inline inline collectionFactory pressing Ctrl Alt caret collection Factory
+Supplier ArrayList collectionFactory ArrayList Array List collection Factory Array List
+Collector ArrayList collection Collectors toCollection collectionFactory Array List Collection collection Factory
+Steps
+
+Open Preferences General find Quick Assist Inline local variable bind key combination Ctrl Alt Arrow press
+
+Move caret middle variable collectionFactory collection Factory
+
+Press Ctrl Alt Arrow key combination
+
+Press Delete doesn delete
+Tested Eclipse SDK Version
+Luna Build
+

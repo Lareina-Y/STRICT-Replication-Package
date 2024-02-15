@@ -1,0 +1,28 @@
+Bug Java Editor Disconnecting Debug Session
+Build
+Build
+
+Steps Reproduce
+
+multi threading problem easy reproduce
+
+stack trace problem investigation
+
+Scenario Symptom
+Remote debug session
+Clicking Java Editor lead disconnection remote
+Severity major rare problem debugging impossible scenarios
+confronted debug scenario problem reproducable minutes
+allowed finding
+Involved classes
+org eclipse jface text TextViewerHoverManager Text Viewer Hover Manager
+org eclipse jdt internal debug JavaDebugHover Java Debug Hover
+org eclipse jdi internal connect PacketReceiveManager Packet Receive Manager
+
+TextViewerHoverManager Java Editor compute hover content seperated Thread Text Viewer Hover Manager
+debugging JavaDebugHover Java Debug Hover
+implementation recieves remote
+clicking Java Editor TextEvent created Text Event
+result TextViewerHoverManager force termination current hover computation interrupting thread Text Viewer Hover Manager
+moment JavaDebugHover receiving remote waiting PacketReceiveManager PacketReceiveManager disconnects connection Java Debug Hover Packet Receive Manager Packet Receive Manager
+attached text file stack trace code snippets

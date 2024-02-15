@@ -1,0 +1,26 @@
+Bug content assist Constructor completion ignores outer type completing type arguments
+Build Identifier
+
+completing initializer variable generalized type content assist ignores outer type type parameter
+type
+List SelectDirective Option Select Directive
+type Ctrl Space select ArrayList list inserted Array List
+List SelectDirective Option ArrayList Option Select Directive Array List
+outer type SelectDirective skipped wrong Select Directive
+Reproducible
+
+Steps Reproduce
+
+Create class structure
+class SelectDirective Select Directive
+class Option
+public class Main
+public static void main String args
+
+Type method main
+List SelectDirective Option Select Directive
+
+Press Ctrl Space select ArrayList dropdown list Array List
+
+Code errors inserted
+List SelectDirective Option ArrayList Option Select Directive Array List

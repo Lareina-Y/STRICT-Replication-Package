@@ -1,0 +1,5 @@
+Bug Binary compatibility breakage
+protected method removed AbstractLauncherTab Abstract Launcher Tab
+
+protected method createStartingSpace Composite parent int span removed API class AbstractLauncherTab create Starting Space Abstract Launcher Tab
+breaks binary compatibility

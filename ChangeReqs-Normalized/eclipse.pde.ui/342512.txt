@@ -1,0 +1,26 @@
+Bug Plug Manifest Editor adds garbage mnemonics saving
+Build Identifier
+
+
+RedHat Linux Enterprise Red Hat
+Eclipse SDK
+Version
+
+Build
+
+Plug Manifest Editor add garbage mnemonics
+save plugin xml
+Sample Menu changed Sample Menu Menu Sample Action changed Sample Action tion
+Expressions popular formats
+DBCS mnemonics
+Reproducible
+
+Steps Reproduce
+Import Project bugXXXXX zip attached report bug XXXXX
+project plug project generated Template
+Open plugin xml Plug Manifest Editor
+Click Tab Extensions
+Verify Menu Sample Menu Menu Action Sample Action tion
+corrupted
+Edit Sample Menu Sample Action
+Save file labels corrupted

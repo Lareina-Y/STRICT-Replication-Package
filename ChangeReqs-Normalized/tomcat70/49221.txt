@@ -1,0 +1,7 @@
+javax servlet http Cookie setDomain default charset set Domain
+javax servlet http Cookie setDomain String pattern set Domain
+code
+domain pattern toLowerCase Case
+result depends default Locale
+safer fixed locale
+Local ENGLISH

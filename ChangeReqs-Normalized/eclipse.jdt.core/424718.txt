@@ -1,0 +1,18 @@
+Bug compiler API compatibility AST TypeReference Type Reference
+API JDK
+additional intermal parameters language
+type annotations
+org eclipse jdt internal compiler ast TypeReference Type Reference
+changed signature method
+public static final TypeReference baseTypeReference int baseType int dim Type Reference base Type Reference base Type
+
+public static final TypeReference baseTypeReference int baseType int dim Annotation dimAnnotations Type Reference base Type Reference base Type dim Annotations
+breaks instance popular compiler extension lombok
+http code google projectlombok issues detail
+add compatibility functions
+public static final TypeReference baseTypeReference int baseType int dim compatibility function Type Reference base Type Reference base Type
+return baseTypeReference baseType dim null base Type Reference base Type
+
+kind compatibility functions simple prevent breaking external plugins rise acceptance eclipse version
+internal package aware external plugins compilers languages popular topic nowadays nice compiler APIs AST
+kindly request add function lombok works fine additional method

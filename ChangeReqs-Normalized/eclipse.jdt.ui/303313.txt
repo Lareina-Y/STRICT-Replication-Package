@@ -1,0 +1,123 @@
+Bug Test failures SurroundWithTests AllAllRefactoringTests Surround Tests Refactoring Tests
+AllAllRefactoringTests failures SurroundWithTests Refactoring Tests Surround Tests
+testNoException test Exception
+testAlreadyCaught test Caught
+testRuntimeException test Runtime Exception
+testThenStatement test Statement
+SurroundWithTests green Surround Tests
+debugged problem
+visible
+Thread main Suspended
+owns
+RunnableLock Runnable Lock
+SelectionAwareSourceRangeComputer initializeRanges Selection Aware Source Range Computer initialize Ranges
+
+SelectionAwareSourceRangeComputer computeSourceRange ASTNode Selection Aware Source Range Computer compute Source Range
+
+ASTRewriteAnalyzer getExtendedRange ASTNode ASTRewrite Analyzer Extended Range
+
+ASTRewriteAnalyzer getExtendedOffset ASTNode ASTRewrite Analyzer Extended Offset
+
+ASTRewriteAnalyzer ParagraphListRewriter ASTRewriteAnalyzer ListRewriter rewriteList ASTNode StructuralPropertyDescriptor int String ASTRewrite Analyzer Paragraph List Rewriter ASTRewrite Analyzer List Rewriter rewrite List Structural Property Descriptor
+
+ASTRewriteAnalyzer rewriteParagraphList ASTNode StructuralPropertyDescriptor int int int int ASTRewrite Analyzer rewrite Paragraph List Structural Property Descriptor
+
+ASTRewriteAnalyzer visit Block ASTRewrite Analyzer
+
+Block accept ASTVisitor
+
+Block ASTNode accept ASTVisitor
+
+ASTRewrite internalRewriteAST char LineInformation String List Map ASTNode RecoveryScannerData internal Rewrite AST Recovery Scanner Data
+
+ASTRewrite rewriteAST rewrite AST
+
+SurroundWithTryCatchRefactoring createChange IProgressMonitor Surround Catch Refactoring create Change IProgress Monitor
+
+CreateChangeOperation IProgressMonitor Create Change Operation IProgress Monitor
+
+PerformRefactoringOperation IProgressMonitor Perform Refactoring Operation IProgress Monitor
+
+BatchOperation executeOperation Batch Operation execute Operation
+
+BatchOperation JavaModelOperation IProgressMonitor Batch Operation Java Model Operation IProgress Monitor
+
+Workspace IWorkspaceRunnable ISchedulingRule int IProgressMonitor IWorkspace Runnable IScheduling Rule IProgress Monitor
+
+JavaCore IWorkspaceRunnable ISchedulingRule IProgressMonitor Java Core IWorkspace Runnable IScheduling Rule IProgress Monitor
+
+JavaCore IWorkspaceRunnable IProgressMonitor Java Core IWorkspace Runnable IProgress Monitor
+
+SurroundWithTests AbstractSelectionTestCase performTest ICompilationUnit Refactoring int String boolean Surround Tests Abstract Selection Test Case perform Test ICompilation Unit
+
+SurroundWithTests performTest IPackageFragment String String int Surround Tests perform Test IPackage Fragment
+
+SurroundWithTests tryCatchTest Surround Tests Catch Test
+
+SurroundWithTests testAlreadyCaught Surround Tests test Caught
+
+problem buffer closed Buffer getText returns Text
+buffer closed
+Thread main Suspended breakpoint Buffer
+owns
+BufferManager Buffer Manager
+owns
+RunnableLock Runnable Lock
+Buffer close
+
+BufferCache closeBuffers Buffer Cache close Buffers
+
+BufferManager addBuffer IBuffer Buffer Manager add Buffer
+
+CompilationUnit openBuffer IProgressMonitor Object Compilation Unit open Buffer IProgress Monitor
+
+CompilationUnit buildStructure OpenableElementInfo IProgressMonitor Map IResource Compilation Unit build Structure Openable Element Info IProgress Monitor
+
+CompilationUnit Openable generateInfos Object HashMap IProgressMonitor Compilation Unit generate Infos Hash Map IProgress Monitor
+
+CompilationUnit JavaElement openWhenClosed Object IProgressMonitor Compilation Unit Java Element open Closed IProgress Monitor
+
+CompilationUnit JavaElement getElementInfo IProgressMonitor Compilation Unit Java Element Element Info IProgress Monitor
+
+CompilationUnit JavaElement getElementInfo Compilation Unit Java Element Element Info
+
+CompilationUnit JavaElement getChildren Compilation Unit Java Element Children
+
+CompilationUnit JavaElement getChildrenOfType int Compilation Unit Java Element Children Type
+
+CompilationUnit getTypes Compilation Unit Types
+
+CompilationUnit getAllTypes Compilation Unit Types
+
+ContextSensitiveImportRewriteContext findInContext String String int Context Sensitive Import Rewrite Context find Context
+
+ImportRewrite internalAddImport String ImportRewrite ImportRewriteContext Import Rewrite internal Add Import Import Rewrite Import Rewrite Context
+
+ImportRewrite addImport ITypeBinding ImportRewrite ImportRewriteContext Import Rewrite add Import IType Binding Import Rewrite Import Rewrite Context
+
+SurroundWithTryCatchRefactoring createTryCatchStatement IBuffer String Surround Catch Refactoring create Catch Statement
+
+SurroundWithTryCatchRefactoring createChange IProgressMonitor Surround Catch Refactoring create Change IProgress Monitor
+
+CreateChangeOperation IProgressMonitor Create Change Operation IProgress Monitor
+
+PerformRefactoringOperation IProgressMonitor Perform Refactoring Operation IProgress Monitor
+
+BatchOperation executeOperation Batch Operation execute Operation
+
+BatchOperation JavaModelOperation IProgressMonitor Batch Operation Java Model Operation IProgress Monitor
+
+Workspace IWorkspaceRunnable ISchedulingRule int IProgressMonitor IWorkspace Runnable IScheduling Rule IProgress Monitor
+
+JavaCore IWorkspaceRunnable ISchedulingRule IProgressMonitor Java Core IWorkspace Runnable IScheduling Rule IProgress Monitor
+
+JavaCore IWorkspaceRunnable IProgressMonitor Java Core IWorkspace Runnable IProgress Monitor
+
+SurroundWithTests AbstractSelectionTestCase performTest ICompilationUnit Refactoring int String boolean Surround Tests Abstract Selection Test Case perform Test ICompilation Unit
+
+SurroundWithTests performTest IPackageFragment String String int Surround Tests perform Test IPackage Fragment
+
+SurroundWithTests tryCatchTest Surround Tests Catch Test
+
+SurroundWithTests testRuntimeException Surround Tests test Runtime Exception
+

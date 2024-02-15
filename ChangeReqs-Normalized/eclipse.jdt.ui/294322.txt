@@ -1,0 +1,21 @@
+Bug jar exporter Runnable JAR Export problem special characters included JAR JAR filenames
+User Agent
+Mozilla
+
+Linux
+
+Gecko Firefox Debian
+Build Identifier
+
+exporting Runnable JAR File Eclipse project JAR files class loader included runnable JAR
+JAR JAR class loader problems loading classes JAR files filenames special characters
+running runnable JAR InvocationTargetException caused NoClassDefFoundError thrown Invocation Target Exception Class Def Error
+Reproducible
+
+Steps Reproduce
+
+Export Runnable JAR File Eclipse project references JAR library
+
+Select option Package required libraries generated JAR Export dialog
+
+Execute runnable JAR

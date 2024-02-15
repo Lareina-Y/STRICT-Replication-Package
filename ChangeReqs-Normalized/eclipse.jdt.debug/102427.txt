@@ -1,0 +1,11 @@
+Bug inspect display static import methods
+
+public class Helper
+public static int getValue
+import static Helper
+public class Doer
+public void doit
+int getValue
+debugging select getValue method doit execute
+display inspect error indicating method getValue
+undefined type Doer

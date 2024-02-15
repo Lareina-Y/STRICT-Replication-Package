@@ -1,0 +1,18 @@
+Bug ClassNotLoaded JDI exception conditional breakpoint Class Loaded
+Build
+
+Follow steps
+
+workbench
+
+Import plugins plugin import wizard copy plugins
+workspace
+
+Add breakpoint org eclipse internal Workbench Object
+
+Set conditional breakpoint
+System println System currentTimeMillis current Time Millis
+
+Debug time workbench launcher
+
+error dialog pop claiming compilation problems

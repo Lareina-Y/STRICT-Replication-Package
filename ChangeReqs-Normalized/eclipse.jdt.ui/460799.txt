@@ -1,0 +1,16 @@
+Bug compare Structured compare editor tree doesn properly format qualified types
+Java structured compare editor doesn properly format qualified types type arguments
+
+Compare class version members
+tree elements
+
+
+
+foo int String
+removed
+package
+import java util ArrayList Array List
+import java util Set
+class
+void foo int ArrayList java lang String Array List
+Set java util

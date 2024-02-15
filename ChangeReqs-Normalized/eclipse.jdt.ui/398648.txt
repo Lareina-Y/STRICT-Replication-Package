@@ -1,0 +1,13 @@
+Bug Javadoc View inserts wrong asterisk link linebreak
+Reproduce Create class Main java Eclipse open href http google Google friend
+public class Main open Javadoc quick preview
+cursor word Main press open Javadoc View Main
+
+text link Google friend
+happen
+text link Goolge friend
+asterisk left side Javadoc
+Javadoc created Javadoc tool asterisk text
+works correctly link linebreak normal Javadoc body tag
+encountered bug link long formatting source insert linbreak
+long links annoying

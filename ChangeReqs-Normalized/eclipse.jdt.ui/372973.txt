@@ -1,0 +1,35 @@
+Bug call hierarchy Selecting element callee hierarchy reveals wrong editor location
+Build Identifier
+Version
+Build
+
+package packageA package
+public class
+public static void
+public static void
+public static void
+package packageB package
+public class
+static void
+packageA package
+packageA package
+static void main
+
+CTRL ALT produces graph
+
+void packageB package
+
+void packageA package
+
+void packageA package
+
+void packageA package
+
+void packageA package
+
+void packageA package
+structure jumps invocation site expected asked focus
+problem clicking
+oscillates invocation site invoked method declaration click
+Reproducible
+

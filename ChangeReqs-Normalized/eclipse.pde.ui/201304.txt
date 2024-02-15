@@ -1,0 +1,6 @@
+Bug ErrorReporter deprecated calls Error Reporter
+org eclipse pde internal core builders ErrorReporter java Error Reporter
+Severity Description Path Resource Location Creation Time
+method connect IPath IProgressMonitor type IFileBufferManager deprecated org eclipse pde core src org eclipse pde internal core builders ErrorReporter java IProgress Monitor IFile Buffer Manager Error Reporter
+method disconnect IPath IProgressMonitor type IFileBufferManager deprecated org eclipse pde core src org eclipse pde internal core builders ErrorReporter java IProgress Monitor IFile Buffer Manager Error Reporter
+method getTextFileBuffer IPath type ITextFileBufferManager deprecated org eclipse pde core src org eclipse pde internal core builders ErrorReporter java Text File Buffer IText File Buffer Manager Error Reporter

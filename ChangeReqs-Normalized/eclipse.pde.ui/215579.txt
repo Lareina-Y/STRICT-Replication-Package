@@ -1,0 +1,9 @@
+Bug ModelEntry getBestCandidate bad choices Model Entry Candidate
+method IPluginModelBase getBestCandidate IPluginModelBase models class org eclipse pde core plugin ModelEntry flaws IPlugin Model Base Candidate IPlugin Model Base Model Entry
+
+logic rejecting disabled bundles completely broken time disabled bundle previous iteration loop
+cases disabled bundle chosen
+
+version comparison select bundle lowest version
+versions installed disabled considered candidate
+opinion enabled plug highest version

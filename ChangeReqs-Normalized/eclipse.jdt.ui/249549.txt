@@ -1,0 +1,14 @@
+Bug quick bad proposal abstract modifier constructors abstract classes
+Build
+
+Steps Reproduce
+
+Create class
+abstract class Test
+public abstract Test
+code wrong
+Eclipse proposes quick fixes Add body correct
+Add abstract modifier sense
+result wrong abstract modifiers quick proposals
+
+bug

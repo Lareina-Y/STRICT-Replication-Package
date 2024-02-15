@@ -1,0 +1,28 @@
+Bug inline Inline constant IAE
+bounds
+
+verifying bug
+Inline constant IAE
+bounds
+
+paste
+package bug
+public class Constant public static final String
+constant
+package bug
+import static bug Constant constant
+public enum EntityType Address Entity Type
+package bug
+import static bug Constant constant
+import bug EntityType Entity Type
+class LeafReflex Leaf Reflex
+String editorId final EntityType type editor Entity Type
+switch type
+case Address return constant
+throw null
+
+delete whitespace EntityType caret Entity Type
+
+save
+
+inline Constant constant exception

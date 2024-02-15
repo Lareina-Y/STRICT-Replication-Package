@@ -1,0 +1,19 @@
+Bug content assist Proposal replace leading chars selection
+
+Inserting proposal replace leading characters selection invoking content assist
+Test Case
+
+set Completion overwrites
+
+
+void test
+String
+getBytes Bytes
+
+select
+
+Ctrl Space
+
+select charAt insert charAtBytes char char Bytes
+EXPECTED
+charAt char

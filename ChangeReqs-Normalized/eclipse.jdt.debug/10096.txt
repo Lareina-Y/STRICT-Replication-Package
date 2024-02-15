@@ -1,0 +1,39 @@
+Bug Eclipse aware launched JVM JRockit
+installing JRockit http jrockit download JRE
+launching Java applications Eclipse stable build Eclipse
+understands JVM launched
+worked previous stable
+build
+works older versions JRockit
+problems demonstrates ways pressing Running man button starting wizard
+clicking Finish program starts wizard flashes stays
+press
+Finish starts instance program program debug view relaunching program History JRE set JRockit
+program starts debug view
+suggested Darin Swanson copying command working
+JRockit modifying JRockit running cmd exe
+
+succeeded problems command
+spaces path changed javaw exe java exe
+feedback renaming javaw exe force Eclipse java exe executable explicitly
+JRE settings output JRockit
+Program Files JRockit JRE bin java exe classpath Workspace
+Workspace ToolsConsole Workspace JUnit Workspace ToolsCommon Wor Tools Console Tools Common
+kspace Xerces Workspace Xerces xercesImpl jar Workspace Xerces xmlParserAP xerces Impl xml Parser
+jar Workspace JFreeChart Workspace JavaMail Workspace JavaMail imap JFree Chart Java Mail Java Mail
+jar Workspace JavaMail mail jar Workspace JavaMail mailapi jar Workspac Java Mail Java Mail
+JavaMail pop jar Workspace JavaMail smtp jar Workspace JavaMail activat Java Mail Java Mail Java Mail
+ion jar net ihse test RunAndQuit Quit
+JRockit build EXCELSIOR Thin Threads Generational Concurre
+Garbage Collector started
+
+output JRockit
+Program Files JRockit JRE noWin bin java exe classpath Worksp Win
+ace Slask Workspace ToolsConsole Workspace JUnit Workspace ToolsCommon Tools Console Tools Common
+Workspace Xerces Workspace Xerces xercesImpl jar Workspace Xerces xmlPa xerces Impl xml
+rserAPIs jar Workspace JFreeChart Workspace JavaMail Workspace JavaMail imap jar Workspace JavaMail mail jar Workspace JavaMail mailapi jar rser APIs JFree Chart Java Mail Java Mail Java Mail Java Mail
+rkspace JavaMail pop jar Workspace JavaMail smtp jar Workspace JavaMail Java Mail Java Mail Java Mail
+ctivation jar net ihse test RunAndQuit Quit
+JRockit build CROSIS Native Threads Generational Concurren
+Garbage Collector started
+

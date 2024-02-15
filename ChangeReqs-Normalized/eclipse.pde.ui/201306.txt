@@ -1,0 +1,6 @@
+Bug XMLErrorReporter deprecated calls XMLError Reporter
+org eclipse pde internal core builders XMLErrorReporter java XMLError Reporter
+Severity Description Path Resource Location Creation Time
+method connect IPath IProgressMonitor type IFileBufferManager deprecated org eclipse pde core src org eclipse pde internal core builders XMLErrorReporter java IProgress Monitor IFile Buffer Manager XMLError Reporter
+method disconnect IPath IProgressMonitor type IFileBufferManager deprecated org eclipse pde core src org eclipse pde internal core builders XMLErrorReporter java IProgress Monitor IFile Buffer Manager XMLError Reporter
+method getTextFileBuffer IPath type ITextFileBufferManager deprecated org eclipse pde core src org eclipse pde internal core builders XMLErrorReporter java Text File Buffer IText File Buffer Manager XMLError Reporter

@@ -1,0 +1,18 @@
+Bug Unable JUnit tests org eclipse jdt junit runtime target platform
+Build
+
+Steps Reproduce
+Create target platform doesn org eclipse jdt org eclipse pde projects situation files folder deselected preferences
+
+Change eclipse preferences point directory
+
+Create Plugin project dependency org junit JUnit test Assert assertTrue true assert True
+
+click test class select JUnit Plug Test
+console starting java process test time process terminated
+Junit view display workspace launch configuration created
+test dies feedback
+
+situation target platform bundles app test dependencies
+won Eclipse endstates needed IDE
+issue resolve Eclipse released Bug

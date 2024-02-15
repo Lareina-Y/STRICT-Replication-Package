@@ -1,0 +1,27 @@
+Bug quick assist Remove extra parenthesis removes comment
+Build
+
+java version
+java vendor Sun Microsystems
+BootLoader constants Boot Loader
+win ARCH win
+Framework arguments product org eclipse epp package jee product
+Command arguments win win arch product org eclipse epp package jee product
+Steps Reproduce
+
+Create class
+class PND
+void foo
+int
+check
+System println
+
+Place cursor open bracket
+
+Quick remove extra parenthesis
+
+Recieve
+
+
+System println comment destroyed
+issues comments removed local variable inlined separate case

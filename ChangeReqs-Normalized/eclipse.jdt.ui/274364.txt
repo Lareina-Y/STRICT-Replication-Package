@@ -1,0 +1,6 @@
+Bug quick NPE ASTNodeFactory method return type missing ASTNode Factory
+
+Invoking quick foo NPE
+public class Snippet
+abstract foo
+Snippet declared interface quick works fine
