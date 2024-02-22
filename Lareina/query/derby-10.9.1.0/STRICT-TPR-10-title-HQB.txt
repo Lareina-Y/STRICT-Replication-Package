@@ -1,0 +1,7 @@
+1400	DRDAStatement places Typ calls setTypDefValues set Typ Def Values DERBY Def method comments code	Cleanup code network server DRDAStatement class
+5561	Connection checkForNullPhysicalConnection check Null Physical Connection member LogicalConnection Logical Connection getWarnings Warnings Physical Point getAutoCommit Auto Commit createStatement create Statement getSchema Schema	Race conditions LogicalConnection checking null physical connection Logical Connection
+5896	tabs drda spaces network code change diff client svn files	Change java drda source code spaces tabs clean tab creep java client
+6000	JDBC support Derby java maintenance public openjdk JDK net spec	Implement support JDBC
+6086	connection jdbcapi custom Statement StatementPoolingTest Statement Pooling Test test methods testing logic boilerplate	Factor logic creating custom connection jdbcapi StatementPoolingTest Statement Pooling Test
+6089	Type Statement getTypeAsInt Type Int registerOutParameter register Parameter client register test NVARCHAR type NCHAR	CallableStatement registerOutParameter client lacks check legal types Callable Statement register Parameter
+6150	connections openDefaultConnection open Default Connection locks Default connection database tests default Connection open	Add automatic cleanup connections opened openDefaultConnection open Default Connection

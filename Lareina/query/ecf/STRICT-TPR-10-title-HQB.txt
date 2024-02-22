@@ -1,0 +1,17 @@
+134483	ECFPlugin Client ClientApplication Client Application ContainerFactory Container Factory Application Container Eclipse Null Pointer provider	Bug Standalone ClientApplication breaks ContainerFactory ECFPlugin Client Application Container Factory
+208667	msn presence client UNAVAILABLE sendPresenceUpdate send Presence Update null Update Personal Pointer Presence	Bug msn MSNContainer sendPresenceUpdate throws NullPointerException UNAVAILABLE send Presence Update Null Pointer Exception
+222824	port Google user talk XMPP provider default Talk gmail work	Bug XMPP doesn work port Google Talk Host
+242950	Container targetID target IRCChannel IRCChannelContainer IRCChannel Container NPE plugin irc provider target ecf	Bug IRCChannelContainer throws NPE disconnect connection timeouts IRCChannel Container
+254833	Bundle BundleContext Bundle Context system service consumer SLP resources ethz org eclipse	Bug Discovery SLP org eclipse ecf internal provider jslp Activator start BundleContext activate jSLP eagerly Bundle Context SLP
+257926	JSLPServiceInfo JSLPService Info SecurityException Security Exception Info Security eclipse IServiceInfo IService Info JSLPService Discovery doesn jslp	Bug Discovery SLP JSLPServiceInfo IServiceInfo doesn throw SecurityException JSLPService Info IService Info Security Exception
+273135	implementation Log LogService Log Service String Service StringBuffer String Buffer details parameter message logging	Bug LogService implementation misses details logging Log Service
+302394	parser tags attribute jSLP SLP HTAB Discovery Bug bad Test SLP	Bug Discovery jSLP Test parser bad tags SLP
+327379	IRemoteCallFactory IRemote Call Factory Remote factory RemoteCallFactory Remote Call Factory Call IRemote Factory remoteservice RestCallFactory Rest Call Factory rest	Bug IRemoteCallFactory IRemote Call Factory
+328772	Throwable Serializable org SerializableStatus Serializable Status core Status eclipse ecf null STATUS	Bug org eclipse ecf core status SerializableStatus STATUS exception org eclipse ecf core status SerializableStatus checkForSerializable Throwable null Serializable Status Serializable Status check Serializable
+332852	Discovery Zoo Bundle startup ZooDiscoveryContainer Zoo Discovery Container Zookeeper BundleActivator Bundle Activator Container Activator Slow	Bug Discovery ZooDiscovery Slow Zookeeper startup timeout BundleActivator start Zoo Discovery Bundle Activator
+342352	RSA foo properties someProperty Property intent private service TCK exports Property	Bug TCK RSA exports private properties
+369023	Trace org git pluginId plugin option Pointer method ecf String System	Bug NullPointerException tracing org eclipse ecf core util Trace catching Null Pointer Exception
+371768	NPE service watchmanager Zoodiscovery annoying needed unpublish Bug unpublishing thrown	Bug Zoodiscovery NPE unpublishing service
+408030	RestClientService Rest Client Service content remoteservice org client Service UTF IRemote Client eclipse	Bug RestClientService ignores content encoding Rest Client Service
+426497	register org listener Listener Service ecf eclipse discovery IService wildcards	Bug org eclipse ecf internal discovery DiscoveryServiceListener register IServiceTyped listener type wildcards Discovery Service Listener IService Typed
+485482	org ecf distribution Discovery Composite eclipse dev empty existing replace	Bug remove code org eclipse ecf provider discovery

@@ -1,0 +1,12 @@
+55	topic channel subscription auto recovery Subscribe HedwigSubscriber Hedwig Subscriber Hedwig succeed Reconnect	SubscribeReconnectRetryTask retry subscription endlessly subscription created Subscribe Reconnect Retry Task
+299	Ledger LedgerFragmentReplicator Ledger Fragment Replicator Keeper code Replicator fragments Book Fragment replication worker	Provide LedgerFragmentReplicator replicate fragments LedgerChecker Ledger Fragment Replicator Ledger Checker
+300	command bookie format paths Directories machine Journal Zookeeper path directories	Create Bookie format command
+337	ensemble Metadata Version Start MetadataVersionException Metadata Version Exception bookies Write bookie entry quroum	Add entry fails MetadataVersionException ensemble morethan bookie failures Metadata Version Exception
+345	bookie ledger Entry IOException IOExceptions mode EntryLogger Entry Logger writable Logger entrylogger	Detect IOExceptions entrylogger bookie ledger dir
+346	LedgerCache Ledger Cache ledger Ledger IOExceptions Cache jira dir detect bookie iterate	Detect IOExceptions LedgerCache bookie ledger dir Ledger Cache
+355	ensemble bookie ledger Ledger client recovery case size NoSuchLedgerException Ledger Exception quorum	Ledger recovery mark ledger closed case slow bookie ensemble recovery add
+431	COOKIES Ledger AbstractZkLedgerManager Abstract Ledger Manager cookie Abstract definition Manager java NODE definitions	Duplicate definition COOKIES NODE
+447	ledger Ledger entries problem entry flush LedgerCacheImpl Ledger Cache Impl experience flushLedger flush Ledger violation	Bookie fail recover flushed ledger flush acknowledged
+472	Bookie servers start deployment process overhead Autorecovery Auditor case option	Provide option start Autorecovery Bookie Servers
+491	doc configuration parameters server hedwig describing Hedwig properly	Hedwig doc configuration
+498	NPE Test Recovery Bookie BookieRecoveryTest Bookie Recovery Test tearDown tear build complaining Jenkins tear	BookieRecoveryTest tearDown NPE Bookie Recovery Test tear

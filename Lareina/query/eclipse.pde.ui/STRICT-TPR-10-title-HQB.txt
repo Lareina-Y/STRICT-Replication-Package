@@ -1,0 +1,15 @@
+168417	plugin eclipse export Script Ant option Build file destination jar	Bug Generated Ant Script export plugin projects working
+182075	Content proposals version bundle Manifest qualifiers Version Assist attribute cut	Bug Manifest Content Assist Version proposals include qualifiers
+185955	Target target Plug Project location Platform platform combo wizard Bug	Bug Target setting Plug Project wizard remembers
+191231	AbstractLauncherTab Abstract Launcher Tab method compatibility Launcher parent Abstract int Tab createStartingSpace create Starting Space removed	Bug Binary compatibility breakage protected method removed AbstractLauncherTab Abstract Launcher Tab
+198965	version feature rule outline icon Editor Feature match red dependency	Bug Feature Editor find feature dependencies correctly
+201304	Error IPath ErrorReporter Error Reporter java Description Manager Creation eclipse Resource method	Bug ErrorReporter deprecated calls Error Reporter
+201306	XMLError XMLErrorReporter XMLError Reporter Buffer IPath java Description Creation Manager eclipse core	Bug XMLErrorReporter deprecated calls XMLError Reporter
+216840	preference bugs bug Continue start problem header Activator adding behavior	Bug Continue validating Bundle Activator exists lazy start header
+216946	test JUnit Eclipse org target process configuration situation workspace platform	Bug Unable JUnit tests org eclipse jdt junit runtime target platform
+226788	project editor cache PDEModelUtility PDEModel Utility Editor input PDEModel calls returns inputContexts input Contexts	Bug PDEModelUtility cache correctly PDEModel Utility
+232463	Platform platform Target target step box Restore pref fresh Defaults	Bug Target Platform pref fully reset Restore Defaults
+274678	file error dialog Browse tab dialogs feature selection exception content	Bug category file selection dialog displays error dialogs searching
+297115	error folder messages party directory class form build message files	Bug error messages don recognize directories
+312466	Model model root bundle WorkspacePluginModelManager Workspace Plugin Model Manager call resource manager Project Plugin	Bug early call modify bundle root leaves WorkspacePluginModelManager initialized Workspace Plugin Model Manager
+429902	product Tycho root git attribute demo files feature features eclipse	Bug Support root level features attribute installMode root product configuration editor install Mode
