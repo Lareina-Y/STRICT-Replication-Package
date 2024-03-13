@@ -29,7 +29,7 @@
 645	Fast locale format week set Format output number Week code	FastDateFormat format outputs incorrect week year locale isn respected Fast Format
 662	Integer MIN Fraction method case code Equals void int test	org apache commons lang math Fraction reduce Integer MIN
 664	code chars Exp String Number Digit Dec Java foundDigit Digit isNumber Number	NumberUtils isNumber String String Number Utils Number
-677	Time Utils Calendar method getInstance Instance isSameLocalTime Local Time HOUR work set False	DateUtils isSameLocalTime work correct Utils Local Time
+677	Time Utils Calendar method getInstance Instance isSameLocalTime Local Time work HOUR set False	DateUtils isSameLocalTime work correct Utils Local Time
 719	year Java SimpleDateFormat Simple Format pattern bug number Simple Format Fast formats	FastDateFormat formats year differently SimpleDateFormat Java Fast Format Simple Format
 746	Number Integer Format upper decode case handles NumberFormatException Number Format Exception Utils hex	NumberUtils handle upper case hex Number Utils
 747	numbers Integer create Long Number hex handle decode NumberUtils Number Utils trivial	NumberUtils handle Long Hex numbers Number Utils

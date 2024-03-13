@@ -48,7 +48,7 @@
 88195	method type outline Type class selects navigation match expanded enclosing	Bug navigation Type search quick outline prefer enclosing type
 88397	IType OpenAction Open Action ITypeParameter IType Parameter Parameter editor types bug class void caret	Bug OpenAction select ITypeParameter Open Action IType Parameter
 91306	text Java editor explorer file navigation open Ctrl hit files	Bug navigation Java file opens text selected
-99330	Illegal Don programmer swallow code Exception creating checking error situation	Bug implementation Don swallow IllegalStateException ASTprovider Illegal Exception
+99330	Illegal Don programmer swallow Exception code creating checking error ASTProvider	Bug implementation Don swallow IllegalStateException ASTprovider Illegal Exception
 100155	note hovering Hover local labels variables type variable int hover	Bug hovering Hover labels local variables
 108247	projects resources press disabled Selected active Ctrl editor selected scope	Bug Selected resources scope disabled Enclosing projects
 111653	bug dialog apply solution problem Goto mentioned remembering GotoLineDialog Goto Dialog request	Bug misc Dialogs remembering location open correct monitor
@@ -129,7 +129,7 @@
 279124	win Boot comments Remove assist java removed Sun package comment	Bug quick assist Remove extra parenthesis removes comment
 279981	result identifier illegal hash won Local hashCode hash Code select Bug Code	Bug Constructor inlining produces illegal result
 283697	missing control creating Override press Add methods suggestions wanted override	Bug quick Add missing Override suggestions
-285852	valid java url path referenced sun library javaee invalid docs	Bug build path Validating Javadoc url
+285852	valid url java path referenced sun library javaee invalid docs	Bug build path Validating Javadoc url
 286221	method refactoring compile move performs produces indicating type error duplicate	Bug move method Move refactoring produce duplicate methods refactoring
 286406	source org Project correctly service path file DoubleIt Double default sources	Bug build path File Java Project identifying source files correctly
 287049	Save Shift class editor unsaved Map press Ctrl Add button	Bug actions Add Import marks editor unsaved

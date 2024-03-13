@@ -48,7 +48,7 @@
 88195	method enclosing class type outline Type precedence trees navigation search	Bug navigation Type search quick outline prefer enclosing type
 88397	IType class public editor Parameter ITypeParameter IType Parameter bug binary press select	Bug OpenAction select ITypeParameter Open Action IType Parameter
 91306	text Java navigation file Ctrl opens open hit selected explorer	Bug navigation Java file opens text selected
-99330	Illegal error implementation code Bug Don avoid checking ASTProvider situation	Bug implementation Don swallow IllegalStateException ASTprovider Illegal Exception
+99330	Illegal error implementation code Bug Don avoid ASTProvider checking situation	Bug implementation Don swallow IllegalStateException ASTprovider Illegal Exception
 100155	hovering local note variable variables Bug int Hover side hover	Bug hovering Hover labels local variables
 108247	projects Selected editor scope press disabled active expect resources Ctrl	Bug Selected resources scope disabled Enclosing projects
 111653	bug Goto dialog remembering apply original location misc open correct	Bug misc Dialogs remembering location open correct monitor
@@ -129,7 +129,7 @@
 279124	comment win extra product class java separate Boot removed variable	Bug quick assist Remove extra parenthesis removes comment
 279981	Local result hash identifier produces illegal won hashCode hash Code Bug select	Bug Constructor inlining produces illegal result
 283697	Add missing press renaming creating suggestions control time Override elem	Bug quick Add missing Override suggestions
-285852	java url valid referenced path click javaee library sun api	Bug build path Validating Javadoc url
+285852	url java valid referenced path click javaee sun docs library	Bug build path Validating Javadoc url
 286221	method public error refactoring move produces classes type Create indicating	Bug move method Move refactoring produce duplicate methods refactoring
 286406	default source org Eclipse doubleit correctly file service path Project	Bug build path File Java Project identifying source files correctly
 287049	Shift class editor Ctrl Add unsaved Save press Map text	Bug actions Add Import marks editor unsaved

@@ -29,7 +29,7 @@
 645	Week week output Locale Format FastDateFormat Fast Format locale SimpleDateFormat Simple Format format program	FastDateFormat format outputs incorrect week year locale isn respected Fast Format
 662	Fraction test Integer case Reduced code borderStyle border Style getDenominator Denominator assert FractionTest Fraction Test	org apache commons lang math Fraction reduce Integer MIN
 664	code hasExp Exp Number Digit isNumber Number String foundDigit Digit return java chars	NumberUtils isNumber String String Number Utils Number
-677	isSameLocalTime Local Time Time method Utils assertFalse assert False DateUtils Utils Calendar cal Assert assert	DateUtils isSameLocalTime work correct Utils Local Time
+677	isSameLocalTime Local Time Time method Utils assertFalse assert False DateUtils Utils Calendar cal Assert set	DateUtils isSameLocalTime work correct Utils Local Time
 719	year Format FastDateFormat Fast Format SimpleDateFormat Simple Format Java pattern Fast Javadoc bug behavior	FastDateFormat formats year differently SimpleDateFormat Java Fast Format Simple Format
 746	Number createNumber create Number NumberFormatException Number Format Exception NumberUtils Number Utils Integer upper decode Format handles create	NumberUtils handle upper case hex Number Utils
 747	Integer Number createNumber create Number numbers create NumberUtils Number Utils handle createLong create Long handles Long	NumberUtils handle Long Hex numbers Number Utils
