@@ -1,9 +1,0 @@
-set JSP breakpoint condition true false hit
-reason
-JavaLineBreakpoint handleConditionalBreakpointEvent call Java Breakpoint handle Conditional Breakpoint Event
-getJavaProject returns null Java Project
-case
-JavaModelManager create IFile IJavaProject assumes File java Java Model Manager IJava Project
-file class file archive file
-JSP file passed
-returns null correct source element

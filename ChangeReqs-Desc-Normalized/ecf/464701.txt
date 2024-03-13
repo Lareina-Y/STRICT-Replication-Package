@@ -1,9 +1,0 @@
-client server OSGI application ECF Zoodiscovery provider remote services discovery
-testing application resiliency noticed unplugging plugging network cable client cases doesn’t remote OSGI services server
-started debugging case case read timeout Zookeeper internally Zoodiscovery reconnecting simultaneously
-Zookeeper internally
-ClientCnxn SendThread case SessionTimeoutException closes socket connection cleanup sends disconnect event watchers reconnects startConnect Client Cnxn Send Thread Session Timeout Exception start Connect
-Zoodiscovery
-ReadRoot process receives disconnect event Zookeeper invokes connect closes existing Zookeeper connection creates Read Root
-connect disconnect connect operation Zoodiscovery closes reopened Zookeeper connection creates connect inconsistent client connection finally established client doesn’t server remote services
-Zoodiscovery trigger disconnect connect cases Zookeeper
