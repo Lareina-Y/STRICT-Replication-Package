@@ -1,0 +1,5 @@
+Add list detection RTFParser
+RTF supports lists parser support HTML tags
+attaching patch implements basic support Word newer lists
+Nested lists supported correctly number formatting options
+test cases adapted existing tests needed

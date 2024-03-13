@@ -1,0 +1,29 @@
+Bugs Frequency API
+existing Frequency API bugs
+addValue Object method add plain Object add
+add instance add fails IllegalArgumentException Illegal Argument Exception
+fact problem call addValue Object add
+plain Object Comparable objects
+
+fixed checking object Comparable
+considerations apply
+getCumFreq Object getCumPct Object methods work objects Cum Freq Cum Pct
+implement Comparable
+getCount Object getPct Object methods don fail Count Pct
+Comparable object class cast exception caught
+return object code final Object OBJ Object
+addValue OBJ fail doesn causing unexpected behaviour System println getCount OBJ add Count
+System println getPct OBJ code Pct
+adding extra checks Comparable
+API improved Comparable Object
+easier implement generics
+compilation
+failures programs pass Object Comparable class
+recoding continue API
+affect time
+behaviour attempt add Comparable object fail
+add valid object
+viable program
+
+add object attempt statistics return
+Exception applying instanceof fail

@@ -1,0 +1,16 @@
+DateFormatUtils format correctly change Calendar TimeZone situations Format Utils Time Zone
+Calendar object constructed ways call Calendar setTimeZone correctly change Calendars fields set Time Zone
+Calling Calenar getTime problem Time
+bug JDK nice DateFormatUtils smart detect resolve problem Format Utils
+unit test fails noformat public void testFormat CalendarIsoMsZulu final String dateTime commonly constructed test Format Calendar Iso Zulu Time
+cal GregorianCalendar unit test work time zone constructing GMT default locale time zone GregorianCalendar cal GregorianCalendar TimeZone getTimeZone GMT Gregorian Calendar Gregorian Calendar Gregorian Calendar Time Zone Time Zone
+cal clear
+cal set
+FastDateFormat format FastDateFormat getInstance yyyy SSS TimeZone getTimeZone GMT Fast Format Fast Format Instance Time Zone Time Zone
+assertEquals dateTime dateTime format format cal noformat unit test passes noformat public void testFormat CalendarIsoMsZulu final String dateTime assert Equals Time Time test Format Calendar Iso Zulu Time
+GregorianCalendar cal GregorianCalendar TimeZone getTimeZone GMT Gregorian Calendar Gregorian Calendar Time Zone Time Zone
+cal clear
+cal set
+cal getTime Time
+FastDateFormat format FastDateFormat getInstance yyyy SSS TimeZone getTimeZone GMT Fast Format Fast Format Instance Time Zone Time Zone
+assertEquals dateTime dateTime format format cal noformat assert Equals Time Time

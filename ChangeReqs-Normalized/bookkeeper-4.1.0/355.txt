@@ -1,0 +1,17 @@
+Ledger recovery mark ledger closed case slow bookie ensemble recovery add
+Scenario
+Ledger created ensemble quorum size written entry
+bookie ensemble
+
+client fence recover ledger
+time ensemble change happen bookie
+bookie connect
+
+recovery fail
+
+bookie
+
+client recover ledger
+
+bookie ensemble doRecoveryRead reading bookie NoSuchLedgerException closing ledger Recovery Read Ledger Exception
+Marking ledger empty client written entry

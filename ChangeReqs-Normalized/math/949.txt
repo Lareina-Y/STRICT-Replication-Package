@@ -1,0 +1,6 @@
+LevenbergMarquardtOptimizer reports iterations Levenberg Marquardt Optimizer
+method LevenbergMarquardtOptimizer getIterations report correct number iterations Levenberg Marquardt Optimizer Iterations
+returns
+quick code SimplexOptimizer calls BaseOptimizer incrementEvaluationsCount test case Simplex Optimizer Base Optimizer increment Evaluations Count
+Notice evaluations count correctly incremented iterations count noformat Test public void testGetIterations setup LevenbergMarquardtOptimizer otim LevenbergMarquardtOptimizer action otim optimize MaxEval Target double Weight double InitialGuess double ModelFunction MultivariateVectorFunction Override public double double point throws IllegalArgumentException return double FastMath pow point ModelFunctionJacobian MultivariateMatrixFunction Override public double double point throws IllegalArgumentException return double FastMath pow point verify assertThat otim getEvaluations greaterThan test Iterations Levenberg Marquardt Optimizer Levenberg Marquardt Optimizer Max Eval Initial Guess Model Function Multivariate Vector Function Illegal Argument Exception Fast Math Model Function Jacobian Multivariate Matrix Function Illegal Argument Exception Fast Math assert Evaluations greater
+assertThat otim getIterations greaterThan noformat assert Iterations greater

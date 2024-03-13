@@ -1,0 +1,7 @@
+AbstractJDBCDiffStorage updateItemPref updating AVG incorrectly cases Abstract JDBCDiff Storage update Item Pref
+JDBC version DiffStorage RunningAverage removePreference case ends making incorrect calculations Diff Storage Running Average remove Preference
+scenario users setting removing lot preferences AVG stored diff table diverges correct
+input updateItemPref SlopeOneRecommender case removePreference preference delta update Item Pref Slope Recommender remove Preference
+code delta
+calculation PEER removedpreference userid count everytime user removes preference
+glance code compute delta preference updateItemPref update Item Pref

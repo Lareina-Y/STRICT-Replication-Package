@@ -1,0 +1,10 @@
+AbstractEstimator Abstract Estimator
+getCovariances guessParametersErrors crash bound parameters Covariances guess Parameters Errors
+methods getCovariances guessParametersErrors org apache commons math estimation AbstractEstimator crash ArrayOutOfBounds exception parameters bound Covariances guess Parameters Errors Abstract Estimator Array Bounds
+reason Jacobian calculated unbound parameters
+code loop parameters
+
+final int cols problem getAllParameters length Parameters
+replaced
+final int cols problem getUnboundParameters length guessParametersErrors dissadvantage bug returned user array smaller size number parameters Unbound Parameters guess Parameters Errors
+Alternatively logic code writes zeros elements covariance matrix bound parameters

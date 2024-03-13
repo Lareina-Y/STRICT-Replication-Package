@@ -1,0 +1,5 @@
+inverseCumulativeProbability BinomialDistribution returns wrong large trials inverse Cumulative Probability Binomial Distribution
+inverseCumulativeProbability method BinomialDistributionImpl class returns wrong large trials inverse Cumulative Probability Binomial Distribution Impl
+code reproduce problem System println BinomialDistributionImpl inverseCumulativeProbability returns Binomial Distribution Impl inverse Cumulative Probability
+fixed cumulativeProbability method returns Infinity NaN cumulative Probability
+result checkedCumulativeProbability method doesn work expected checked Cumulative Probability

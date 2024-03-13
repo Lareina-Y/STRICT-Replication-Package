@@ -1,0 +1,7 @@
+Truncation issue KMeansPlusPlusClusterer KMeans Clusterer
+loop KMeansPlusPlusClusterer chooseInitialClusters defines variable int sum KMeans Clusterer choose Initial Clusters
+variable type double int
+int method truncate distances points square roots integers
+bad distances points typically
+version bug manifested making clusterer return empty clusters
+EmptyClusterStrategy bug fixed Empty Cluster Strategy

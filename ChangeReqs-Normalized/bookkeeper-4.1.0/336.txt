@@ -1,0 +1,8 @@
+bookie readEntries time ensemble failed bookie read Entries
+Scenario
+Start bookies
+Create ledger ensemblesize quorumsize Add entries ledger bookie read entries Output
+entry fetch failed bookie waiting bookie connection timeout failure bookie
+read entry performance
+Impact
+Namenode switching time adding failed bookie readTimeOut read Time

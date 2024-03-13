@@ -1,0 +1,17 @@
+Map updates flushed
+entity map element collection map Embeddable Embeddable public class LocalizedString private String language Localized String
+private String string getters setters Entity public class MultilingualString private long ElementCollection fetch FetchType EAGER private Map String LocalizedString map HashMap String LocalizedString persistent instance entity update member map merge modified entity Multilingual String Element Collection Fetch Type Localized String Hash Map Localized String
+EntityManager Entity Manager
+getTransaction Transaction
+getMap setString foo Map set String
+merge getTransaction commit Transaction
+problem change map saved database
+DEBUG logging flush commit trigger SQL UPDATE
+force update map changing existing
+EntityManager Entity Manager
+getTransaction Transaction
+getMap LocalizedString foo Map Localized String
+merge getTransaction commit Transaction
+change expected UPDATE
+Embeddable hashCode equals implemented changed map equal version case hash Code
+bug dirty checking logic OpenJPA Open JPA

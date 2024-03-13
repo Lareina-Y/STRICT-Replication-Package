@@ -1,0 +1,11 @@
+Coocurrences SimilarityReducer Similarity Reducer
+tests RecommenderJob RowSimilarityJob noticed cases cooccurences similarity calculations SimilarityReducer class Recommender Job Row Similarity Job Similarity Reducer
+RowPair object RowA RowB isn considered RowA RowB Row Pair Row Row Row Row
+problems CoocurencesMapper emits rowpairs form form separating cooccurences Coocurences Mapper
+fact ordering WeightedCoocurrenceArray column isn guaranteed column Weighted Coocurrence Array
+solution simple change compare method RowPair class adapt CooccurencesMapper enforce RowA RowB Row Pair Cooccurences Mapper Row Row
+Hope missed obvious intended behavior
+case enlighten topic
+tests noticed predictions remarkably high RMSE movielens dataset lies
+bit high
+normal values wrong

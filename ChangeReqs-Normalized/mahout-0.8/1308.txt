@@ -1,0 +1,4 @@
+extend CandidateItemsStrategy restricted visibility Candidate Items Strategy
+order implement custom CandidateItemsStrategy extend AbstractCandidateItemsStrategy Candidate Items Strategy Abstract Candidate Items Strategy
+visibility modifier doGetCandidateItems package default Candidate Items
+extended protected

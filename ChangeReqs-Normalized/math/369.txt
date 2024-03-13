@@ -1,0 +1,8 @@
+BisectionSolver solve final UnivariateRealFunction double min double max double initial throws NullPointerException Bisection Solver Univariate Real Function Null Pointer Exception
+Method BisectionSolver solve final UnivariateRealFunction double min double max double initial invokes BisectionSolver solve double min double max throws NullPointerException member variable UnivariateRealSolverImpl null Bisection Solver Univariate Real Function Bisection Solver Null Pointer Exception Univariate Real Solver Impl
+method
+BisectionSolver solve final UnivariateRealFunction double min double max called Bisection Solver Univariate Real Function
+Steps reproduce
+invoke
+BisectionSolver solve someUnivariateFunctionImpl Bisection Solver Univariate Function Impl
+NullPointerException thrown Null Pointer Exception

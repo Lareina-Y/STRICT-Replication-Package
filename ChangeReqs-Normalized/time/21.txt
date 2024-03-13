@@ -1,0 +1,6 @@
+DateTimeFormat parseInto miscalculates year Time Format parse
+appears bug http sourceforge net joda time bugs reported
+code org joda time format TestDateTimeFormatter breaks input mutable time millis mishandled year parse changed java public void testParseInto monthDay feb startOfYear DateTimeFormatter DateTimeFormat forPattern withLocale Locale Test Time Formatter test Parse month Day start Year Time Formatter Time Format Pattern Locale
+MutableDateTime result MutableDateTime NEWYORK Mutable Time Mutable Time
+assertEquals parseInto result assert Equals parse
+assertEquals MutableDateTime NEWYORK result assert Equals Mutable Time

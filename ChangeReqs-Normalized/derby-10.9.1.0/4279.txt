@@ -1,0 +1,27 @@
+Statement cache deadlock
+design flaw statement cache deadlock occur prepared statement
+illustrate
+application embedded Derby driver
+application threads thread connection
+table named MYTABLE column MYCOLUMN
+
+thread prepares executes query SELECT MYCOLUMN MYTABLE
+prepared statement stored statement cache org apache derby impl sql GenericStatement logic Generic Statement
+time prepared statement invalid reason org apache derby impl sql GenericPreparedStatement Generic Prepared Statement
+Thread transaction executes LOCK TABLE MYTABLE EXCLUSIVE MODE
+Thread transaction executes SELECT MYCOLUMN MYTABLE
+statement statement cache
+thread recompile statement
+compile statement thread shared lock MYTABLE
+Thread exclusive lock MYTABLE
+Thread waits
+
+Thread executes SELECT MYCOLUMN MYTABLE
+statement statement cache compiled
+Thread waits statement monitor
+
+deadlock
+Derby eventually detects lock timeout error message descriptive
+stacks time deadlock
+deadlock unique occur properly designed database
+safe transactions simple interleaved sequence deadlock statements require table lock compile sake simplicity LOCK TABLE UPDATE statement fit

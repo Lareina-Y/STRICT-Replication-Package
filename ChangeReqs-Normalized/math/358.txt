@@ -1,0 +1,11 @@
+ODE integrator integration range
+integration range ODE solving handled event
+cases numerical accuracy events detection leads error events location
+test case event handled properly integration cover range fact covers range range code public void testMissedEvent throws IntegratorException DerivativeException final double test Missed Event Integrator Exception Derivative Exception
+final double
+FirstOrderDifferentialEquations ode FirstOrderDifferentialEquations public int getDimension return public void computeDerivatives double double double yDot throws DerivativeException yDot Order Differential Equations Order Differential Equations Dimension compute Derivatives Dot Derivative Exception Dot
+DormandPrince Integrator integrator DormandPrince Integrator Dormand Prince Dormand Prince
+double
+integrator setInitialStepSize set Initial Step Size
+double finalT integrator integrate ode final
+Assert assertEquals finalT code assert Equals final

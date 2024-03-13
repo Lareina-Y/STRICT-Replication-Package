@@ -1,0 +1,13 @@
+java lang StringIndexOutOfBoundsException ComplexFormat parse String source ParsePosition pos String Bounds Exception Complex Format Parse Position
+parse String source ParsePosition pos method ComplexFormat class check imaginary character set produces StringIndexOutOfBoundsException substring method ComplexFormat parse imaginary character int getImaginaryCharacter length Parse Position Complex Format String Bounds Exception Complex Format Imaginary Character
+startIndex pos getIndex start
+int endIndex startIndex start
+source substring startIndex endIndex compareTo getImaginaryCharacter start compare Imaginary Character
+encoutered exception typing JTextFied ComplexFormat set AbstractFormatter JText Fied Complex Format Abstract Formatter
+user types imaginary complex number exception
+Solution
+setting length imaginary character check source
+proposal
+int
+source getImaginaryCharacter getImaginaryCharacter length Imaginary Character Imaginary Character
+

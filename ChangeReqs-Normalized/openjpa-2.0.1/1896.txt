@@ -1,0 +1,14 @@
+OpenJPA store POJOs record exists Open JPA
+POJO created java constructor merge store newly constructed object data updating pre existing record matching identity
+major bug applications objects natural key OpenJPA Open JPA
+case filesystem
+crawl filesystem generates data objects file path natural key
+objects stored database
+Previous crawls encountered files merge operation latest data POJO stored pre existing record
+attempt execute merge persist independently constructed object matching record identity database triggers error database layer OpenJPA attempts execute insert pre existing primary key throwing Open JPA
+org apache openjpa lib jdbc ReportingSQLException Reporting SQLException
+ERROR
+duplicate key violates unique constraint file pkey prepstmnt INSERT file locationString location version folder VALUES params code discussion Rick Curtis users openjpa apache org list version field POJO unmanaged set location String
+ASSUMPTION record exists database wasn loaded database place persist attempted
+recommend database QUERIED FIND record exists version field set correspondingly attempting merge thread Ricks comments links Github recreate problem
+http bit hfPjTI

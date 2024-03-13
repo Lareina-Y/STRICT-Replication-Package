@@ -1,0 +1,17 @@
+addDays MutableDateTime add Days Mutable Time
+DST transition summer winter time zone adding amount days mutable time object object
+code java final MutableDateTime mdt MutableDateTime DateTimeZone forID Europe Berlin Mutable Time Mutable Time Time Zone
+System println Start mdt mdt toInstant getMillis Instant Millis
+mdt addHours add Hours
+System println addHours mdt mdt toInstant getMillis add Hours Instant Millis
+mdt addHours add Hours
+System println addHours mdt mdt toInstant getMillis add Hours Instant Millis
+mdt addDays add Days
+System println addDays mdt mdt toInstant getMillis prints Start add Days Instant Millis
+addHours add Hours
+addHours add Hours
+change time addDays add Days
+error time changed hour methods addMonths addYears problem add Months add Years
+addSeconds addMinutes addHours add Seconds add Minutes add Hours
+tested version
+repeat test Joda invocation addDays change add Days

@@ -1,0 +1,18 @@
+FastDateFormat format outputs incorrect week year locale isn respected Fast Format
+FastDateFormat doesn respect locale creation outputting week year format Fast Format
+settings system locale firstDayOfWeek minimalDaysInFirstWeek depending year result incorrect week number output Day Week minimal Days Week
+simple test program demonstrate problem comparing SimpleDateFormat week number code import java util Calendar Simple Format
+import java util
+import java util Locale
+import java text SimpleDateFormat Simple Format
+import org apache commons lang time FastDateFormat Fast Format
+public class FastDateFormatWeekBugDemo public static void main String args Locale setDefault Locale Fast Format Week Bug Demo set Default
+Locale locale Locale
+Calendar cal Calendar getInstance setting locale doesn change outcome cal set Instance
+cal getTime Time
+System println Target
+FastDateFormat fdf FastDateFormat getInstance EEEE week locale Fast Format Fast Format Instance
+SimpleDateFormat sdf SimpleDateFormat EEEE week locale Simple Format Simple Format
+System println FastDateFormat fdf format output FastDateFormat Fast Format Fast Format
+fredag week System println SimpleDateFormat sdf format output SimpleDateFormat Simple Format Simple Format
+fredag week code passed Locale setDefault FastDateFormat SimpleDateFormat output correct week number set Default Fast Format Simple Format

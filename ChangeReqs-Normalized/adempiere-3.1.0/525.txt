@@ -1,0 +1,12 @@
+Process Generate Sales order bug
+Process Generate Sales order work correctly product current vendors
+Scenario
+
+Create product current vendors
+Create Sales order product
+Complete prepare order
+Start process Generate Sales order
+dialog box Choose product vendors
+Execute process
+BUG
+product current vendor Adempiere creates purchase order vendor selected process dialog box

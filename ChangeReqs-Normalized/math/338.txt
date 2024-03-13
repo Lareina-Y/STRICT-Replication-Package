@@ -1,0 +1,15 @@
+Wrong parameter step size guess Embedded Runge Kutta methods
+space application DOP detected bad parameter call method initializeStep class AdaptiveStepsizeIntegrator initialize Step Adaptive Stepsize Integrator
+DormandPrince Integrator subclass EmbeddedRungeKuttaIntegrator perform call initializeStep method integrate problem array scale parameter call initializeStep theory Hairer book Solving Ordinary Differential Equations Dormand Prince Embedded Runge Kutta Integrator initialize Step initialize Step
+Nonstiff Problems scaling
+sci Atol Rtoli EmbeddedRungeKuttaIntegrator Embedded Runge Kutta Integrator
+sci Atoli Note Gragg Bulirsch Stoer integrator good implementation sci Atol Rtoli performs call method initializeStep method initializeStep error leads wrong step size perform Euler step initialize Step initialize Step
+time unvisible user
+space application Euler step wrong step size bigger exception occur satellite hits ground bug algorithm rescale method GraggBulirschStoerIntegrator exemple Gragg Bulirsch Stoer Integrator
+final double scale double length
+vecAbsoluteTolerance null int vec Absolute Tolerance
+scale length final double Math max Math abs Math abs
+scale scalAbsoluteTolerance scalRelativeTolerance int scal Absolute Tolerance scal Relative Tolerance
+scale length final double Math max Math abs Math abs
+scale vecAbsoluteTolerance vecRelativeTolerance hNew initializeStep equations getOrder scale stepStart yDotK yTmp yDotK vec Absolute Tolerance vec Relative Tolerance initialize Step Order step Start Dot Tmp Dot
+length message hearing Vincent Morand
