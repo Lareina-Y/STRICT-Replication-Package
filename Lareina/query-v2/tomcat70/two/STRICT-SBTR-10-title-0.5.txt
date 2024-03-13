@@ -1,0 +1,33 @@
+33356	foo bar JasperException Jasper Exception jasper attribute Jasper error problem prefix rtexprvalue	Incorrect parsing tag attributes
+37326	JSP servlet including Error HTTPMonitorFilter HTTPMonitor Filter HTTPMonitor sendError send Error Exception included fragments	error reported jsp include existent target
+38553	clientAuth client ssl certificate client tomcat authenticate CONFIDENTIAL credentials private jsp	Wrong HTTP code failed CLIENT CERT authentication
+41059	Loader clearReferences clear References WebAppClassLoader Web App Class Loader unload App code deploys hot deploy running	WebAppClassLoader clearReferences code break running threads Web App Class Loader clear References
+42039	Tomcat Servlet	Tomcat doesn output stack trace UnavailableException Unavailable Exception
+42503	servlet JSP ServletContext Servlet Context apache Servlet	ServletContext getResourceAsStream returns stale data Servlet Context Resource Stream
+42693	tags TOMCAT jsp tomcat item renders tagfile Node rendering tagx	JSP Generation error recursive tagfile structure
+43706	passed failed test tests WebdavServlet Webdav Servlet webdav WebDAV Web DAV warning litmus Webdav	litmus warning WebdavServlet Webdav Servlet
+43868	MBean MBeanServer MBean Server Invoke Attribute getInvoke Invoke Getter remove setAttribute set Attribute removeRole remove Role ManagedBean Managed Bean	MBeanServer invoke issue MBean Server
+46105	UTF setCharacterEncoding set Character Encoding charset useBobyEncodingForURI Boby Encoding URI Encoding	URIEncoding doesn affect form authentication redirect
+46915	tomcat setBundle set Bundle jsp Bundle String var folder messageString message String directory resourceBundle resource Bundle	Unable ResourceBundle Tomcat Resource Bundle
+47111	String caching resources apache StringManager String Manager bug docu	caching resources docu StringManager String Manager
+47378	FacesServlet Faces Servlet JSF Servlet directory jsf file Faces	file ignores servlet mapping
+47413	empty foo null bar bug undefined	difference composite expressions
+47568	Tomcat TestTomcat Test Tomcat set tear setUp set tearDown tear	TestTomcat fails delete work directory Test Tomcat
+47744	Tomcat servlet JSP jsp JSSESupport thousands cache patch millions memory	Memory leak SSL Java security manager
+47820	Servlet Tomcat addServlet add Servlet	Static utility methods Tomcat instance methods
+48113	Member Hostname memberDisappeared member Disappeared getHostname Hostname MemberImpl Member Impl member membership	Member hostname components printed signed bits
+48117	filename security InputSource Input Source file sercurity ContextConfig Context Config Input Config Context	misspellings javadoc class org apache catalina startup ContextConfig Context Config
+48139	Tomcat attachment Javadoc details	Tomcat Javadoc unthrown exception fixes
+48172	jsp Jsp jspReloadCount jsp Reload Count JspRuntimeContext Jsp Runtime Context code Atomic AtomicInteger Atomic Integer codeSource code Source	JspRuntimeContext synch problems Jsp Runtime Context
+48387	RemoteIpFilter Remote Filter RemoteIpValve Remote Valve protocolHeaderSslValue protocol Header Ssl protocolHeaderHttpsValue protocol Header Https getter Https Ssl Filter Remote setter	RemoteIpFilter parameters consistent RemoteIpValve Remote Filter Remote Valve
+49118	StringBuilder String Builder String HttpServlet Http Servlet toTrace Trace Trace Http Servlet	Inefficient String concatenation loop
+49132	init envCtx env Ctx exception initCtx init Ctx Exception throwing throws Ctx Initial env	JNDI working
+49144	ContextConfig Context Config context initialized initialize contextDigester context Digester Context setting accessing accesses set	Incorrect lazy initialization update static fields
+49221	setDomain set Domain Domain	javax servlet http Cookie setDomain default charset set Domain
+49290	JarScanner Jar Scanner servlet ServletContainerInitializer Servlet Container Initializer scanAllDirectories scan Directories Servlet Jar jar ContextConfig Context Config processServletContainerInitializers process Servlet Container Initializers file	JarScanner scanAllDirectories true Tomcat start Jar Scanner scan Directories
+49340	redeploy deployed deploy start started undeploy reload	Webapp unavailable deploy start
+49721	jsp tomcat file files servlet	Fail access resources jsp files jar file supported servlet
+50127	SimpleTCPCluster Simple TCPCluster NPE code null places TCPCluster potential object Created	NPEs SimpleTCPCluster Simple TCPCluster
+51641	processor Http Processors apache recycledProcessors recycled Processors http socket Processor Socket Concurrent	Http NioProcessor correct release Nio Processor
+51972	URL URLs html Absolute foo http bar relative Redirect sendRedirect send Redirect	sendRedirect support protocol relative URLs send Redirect
+54115	HttpClient Http Client Http sendRequest send Request Request send	Minor enhancements HttpClient test helper class Http Client

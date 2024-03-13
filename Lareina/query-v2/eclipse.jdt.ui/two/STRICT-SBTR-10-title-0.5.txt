@@ -1,0 +1,240 @@
+9517	project Project view perspective	Bug Browser Perspective project doesn project view
+12044	search Search find	Bug search find constant references class files source attached
+13243	reselect deselect package types	Bug Browsing package remains types deleted
+13916	linePtr Ptr Ptr	Bug api IScanner Scanner linePtr Ptr
+13921	values property project build Ant DPROPERTY	Bug Desire project property settings Ant integration
+14837	folder Create search packages package actions Java creating selected menu	Bug Java Search actions shouldn enabled folder selected packages view
+17317	preference options color Preferences Appearance	Bug Preference taller screen
+22655	Java JavaCC Java directory select Packages files package Select	Bug Types Refresh adds list entries java file browsing
+24082	Order OPTION SORT Preference PREF JavaElementSorter Java Element Sorter pref Sorter MembersOrderPreferencePage Members Order Preference	Bug refesh JavaElementSorter Java Element Sorter
+24271	folders Folder Java folder Eclipse packages sorted simple Folders Sort	Bug Source Folders Sort Java Packages Simple Folders
+27194	Bug JDT bug Matcher copies StringMatcher String Matcher String matches	Bug StringMatcher bug matches String Matcher
+28277	view perspective decorators Types double refresh click	Bug Double clicking Types view refreshes decorators
+28698	file summary read tells editor outline Bug work Ctrl Works	Bug Ctrl outline work file editor read
+30412	package packages	Bug ClassCastException selecting package java browsing perspective Class Cast Exception
+31300	Resource closed resources open Repository projects RepositoryProvider Repository Provider saveparticipant	Bug RepositoryProvider isShared problems closed projects API Repository Provider Shared
+36427	IJavaElement IJava Element Filter NamePatternFilter Pattern Filter IJava issue Bug filters	Bug org eclipse jdt internal filters NamePatternFilter adapt IJavaElement general issue Pattern Filter IJava Element
+38499	hover disappears reappears mouse Mac MacOS Mac	Bug Source Hover oszillates
+41688	outliner note add Java editor class incorrect tree reconciling Outline	Bug misc incorrect reconciling Java Outline
+42208	gray black hover	Bug Source hover affordance text black
+43103	testResults test RenameType Rename Type test download downloads Rename	Bug RenameType Refactoring detected Rename Type
+45349	selection replace enter Bug typing int Smart	Bug typing Smart replace selection
+46875	Systemet System data tabs Lines tab bug twoLines Lines bugs type	Bug typing Tabs messed
+47097	semicolon Semicolon ASSIST assist commit enabled smart editor	Bug content assist Pressing Semicolon commit content assist bypasses smart semicolon
+47731	closing JUnit Colors leaks opening view	Bug JUnit view leaks Colors
+49352	problem enter println correct Bug System	Bug typing Smart quotes problem
+49619	comments whitespace formatter format comment blah void formatting param	Bug formatting comment formatter leaves whitespace comments
+51093	opening closes enter	Bug typing Pressing enter opening curly brace closes curly brace repeatedly
+51187	getter setter	Bug content assist filter setters final fields
+52801	spell checking Bug work focus hovers Press	Bug Press focus work spell checking hovers
+53603	expand collapse toolbar action	Bug search search view expand collapse actions
+55349	Delete deletes Text deleted text	Bug Delete key Quick Outline text box deletes text editor
+58098	Names NAMES naming Delete names deleting	Bug Smart cursor positioning java names don work CONSTANT NAMES
+62878	TestCase Test Case Mark Types runTest Test marked type Test enable disable Case	Bug misc Mark Occurrences exceptions types inconsistent
+63400	remove Java removed JavaCore Java Core	Bug elements removed hierarchical search
+64108	Javadoc Java javadoc keywords	Bug Javadoc keywords settings longer work Java Editor
+66646	filter filters filtered explorer package Package element	Bug package explorer doesn inform user filters filter filters element
+67274	drop moved package projects project Drag read simlpy resources click	Bug dnd ccp Package Explorer moving read linked resources project confirmation
+68586	Java compiler bug bugs reconcile	Bug implementation Reconciling robust
+70005	getter setter Getter getF Setter	Bug content assist Missing Getter Setter code assist proposals
+70079	override indicators Bug classes rulers Anonymous function anonymous	Bug rulers override indicators anonymous classes
+75843	Breakpoint WSAJavaMethodEntryBreakpoint WSAJava Method Entry Breakpoint JDIDebugModel JDIDebug Model WSABreakpointManager WSABreakpoint Manager WSABreakpoint WSAJava Event JDIDebug DebugEvent Debug Event Workbench	Bug Deadlock arised calling JDIDebugModel createMethodEntryBreakpoint JDIDebug Model create Method Entry Breakpoint
+77193	QuickDiff Quick Diff Diff	Bug Properties File Editor doesn QuickDiff hovers Quick Diff
+79793	Pressed pressed deadlocked thread Progress	Bug Deadlock JavaWorkingSetUpdater Java Working Set Updater
+80455	typeBindingOfO type Binding typeBindingOfB type Binding isAssignCompatible Assign Compatible code IType Binding ITypeBinding IType Binding Compatible compiler	Bug ITypeBinding canAssign aware type boxing IType Binding Assign
+81172	spell type report enabled enable checking editor enabling Spell problems	Bug spell checking preferences Spell checking works report problems type enabled
+82839	breakpoint debug icons icon Breakpoint breakpoints don set select appears	Bug misc Breakpoint icons disappear
+84724	search find varargs	Bug search fails find call sites varargs constructors
+88195	type outline types sorting selects Type precedence called matching nested	Bug navigation Type search quick outline prefer enclosing type
+88397	ITypeParameter IType Parameter IType Parameter	Bug OpenAction select ITypeParameter Open Action IType Parameter
+91306	Java Ctrl editor explorer package navigation hit open file Bug	Bug navigation Java file opens text selected
+99330	code IllegalStateExceptions Illegal Exceptions programmer ASTProvider AST error	Bug implementation Don swallow IllegalStateException ASTprovider Illegal Exception
+100155	Hover hover hovering variable local parameter note	Bug hovering Hover labels local variables
+108247	projects resources scope editor computed Enlcosing Ctrl selected Selected active	Bug Selected resources scope disabled Enclosing projects
+111653	dialog GotoLineDialog Goto Dialog Dialog bug problem	Bug misc Dialogs remembering location open correct monitor
+113731	bigger Window bug refactoring preview determine Calling difficult bit RAD	Bug refactoring preview bigger bigger
+120560	JME Javadoc bug Add accessing Bug logging implementation attached	Bug implementation Add logging JME accessing Javadoc attached Javadoc
+121057	installed Installed JREs jres preferences JRE Environments	Bug jres Execution Environments preference updated JRE addition
+124182	incorrect correct error status selection highlighting unchanged	Bug navigation Status loses annotation text selection
+125013	Classpath Preferences propertyChange property Change initialize dispatchEvent dispatch Event Platform preferenceChange preference Change Workbench Synchronizer PreferenceChangeEvent Preference Change Event	Bug misc deadlock PreferencesAdapter firePropertyChangeEvent Preferences Adapter fire Property Change Event
+129354	Java javadoc	Bug Keybinding focus javadoc editor
+133731	assist support Assist	Bug Field Assist Platform define preferences content assist colors
+141492	Copy bug Fully Path path copy resource full paste	Bug Copy Fully Qualified copy full path resources
+143171	save Save History Previous	Bug misc Update conflicts dialog appears save save longer
+150249	Paste paste string concatenation empty doesn double code work quote	Bug typing Pasting contents string string concatenation doesn work string empty string
+152142	NLSSearchPage NLSSearch NLSSearch java NLS list listed eclipse nls	Bug nls NLS key tab search dialog window
+153044	Dependencies JarEntryFile Jar Entry File Problem Jar Open	Bug JarEntryFile return fully qualified path Jar Entry File
+153912	view problem synch folder parent workspace folders navigator project simple	Bug common navigator Java model hiding parent folders sync view
+161282	CTRL TreeSet Tree Set blank type Set Tree finish method underlined	Bug content assist Applying proposal content assist history unresolved type
+165689	spelling menu Ctrl quick works spell checking editors entry problems	Bug spell checking enable quick menu
+167590	settings normal static Eclipse behavior box convert store check refactoring	Bug convert anonymous store settings
+172388	jdk Java java open instance opening Program type FilesJava Files Java text	Bug open type Open Type dialog JRE libraries identical text
+178744	editor refresh edit resource refreshing file Resource txt File	Bug misc Editor opened sync resource refresh action
+185043	Money undo rename refactoring hover repainted money animation change ctrl	Bug rename Undo place refactoring animates info popup
+185113	Sets Working working set project Projects Assign assign sets	Bug working sets Reveal changed element Assign Working Sets
+186291	folder folders project file Project build	Bug build path Output folder source folders stripped project established IDE
+194175	enabled disable search filter searches result Search changed	Bug search Search result filters persisted
+195808	Projection projection Segmented segmented restored implemented region Region isSegmented Segmented reset	Bug projection ProjectionViewer Toggling segmented projection mode fail Projection Viewer
+201096	Type Created findType find Type	Bug templates SWT proposal computer findType call find Type
+201718	Dialog MessageDialog Message Dialog proposal proposals seconds assist	Bug content assist Paramter guessing slow
+202129	working existing set sets	Bug working sets double click add element working set
+215448	Working set working Set	Bug working set doesn Working Set List
+217126	tests yellow performance issue error reliability red Status result number	Bug performance performance tests measure
+224132	Java jar INF breadcrumbs MANIFEST resources META breadcrumb Bug opened	Bug breadcrumb Java resources jar opened
+224183	scrollbar dialog scrollwheel popup scroll hovering hover Hover	Bug hovering Hover popups allocate sufficient amount space
+228506	Template TemplateProposalComputer Template Proposal Computer swt problems MemMonitor Mem Monitor UsageData Usage Data swtBuilderCompletionProposalComputer swt Builder Completion Proposal Computer bugs emf Mem	Bug content assist Don create proposal computer sessionEnded Problem jdt TemplateProposalComputer closing Editor session Ended Template Proposal Computer
+228641	hover hovering Ctrl spelling problem Ignore	Bug hovering Spelling quick Ignore current session update editor hover
+232773	Set working set Working sets	Bug working sets Assign Working Set pre fill selected elements
+233941	refactorings workspaces workspace refactoring History history Refactoring Refactor eclipse folder	Bug ltk Refactoring history workspace refactorings year
+239695	jar File file export Jar selected exporter Export folder selector	Bug jar exporter export JAR project folder project workspace
+239940	Javadoc formatted JavadocView Javadoc View tag tags formatter indented	Bug implementation NPE editing javadoc comment
+243147	folders files breadcrumb projects bug Java	Bug breadcrumb Java projects simple projects
+243284	Constant constant Entity EntityType Entity Type type LeafReflex Leaf Reflex Leaf editorId editor editor Inline	Bug inline Inline constant IAE bounds
+244431	CVS preference outgoing Outgoing cvsroot didn patch dialog Properties property	Bug preferences Outgoing change preferences change
+246635	projects Projects project Project button screen workspace add build Create	Bug build path Add project screen projects
+248659	getFileLength File Length Stream InputStream Input Stream file Length Java JavaDoc Java Doc folder DeletePackageFragmentRootChange Delete Package Fragment Root Change	Bug implementation Deleting source folder leaks file handle
+249549	fixes modifier abstract Steps Add proposals quick proposes code modifiers	Bug quick bad proposal abstract modifier constructors abstract classes
+251356	testresults download tests Bug downloads html bug http	Bug bug breaks JDT Refactoring test
+251824	whitespace indentation isn doesn blank Indentation	Bug save actions clean Correct Indentation blocks Remove trailing whitespace working comments
+252415	radios radio GridLayout Grid Layout Grid Project build layout Layout columns	Bug build path Java Project dialog radios parent
+252591	references jar internal external works lib package jars project Created	Bug render External chained jars correctly displayed
+252779	Invoice parInvoiceId par Invoice invoiceId invoice GETTER setInvoiceId set Invoice SETTER invoice Encapsulate parameter encapsulate	Bug encapsulate field Encapsulate field parameter prefix code style
+255448	Click button preferences preference selection Preferences Code enabled	Bug preferences Code Style preference single selection table
+255449	table Table TableViewer Table Viewer tableViewer table Viewer createTableViewer create Table Viewer	Bug CheckedListDialogField unconventional method setting table style Checked List Dialog Field
+256087	braces type insert Automatically brace code close checked simple compile	Bug typing Automatically close brace work properly
+256574	packageview IJavaElementDelta IJava Element Delta Package IJava Children PackageExplorerContentProvider Package Explorer Content Provider affectedChildren Children explorer Explorer package	Bug package explorer broken code PackageExplorerContentProvider findAddedElement IJavaElementDelta Package Explorer Content Provider find Element IJava Element Delta
+259093	IntroduceParameterObjectTests Introduce Parameter Object Tests IntroduceParameterObjectProcessor Introduce Parameter Object Processor test fixing Tests bug	Bug Reverted latest change IntroduceParameterObjectProcessor test failure Introduce Parameter Object Processor
+259413	preview handler Preview refactoring Java Rename previews select visible start	Bug refactoring Handler conflicts refactoring previews
+261100	dragging Bug drop file bug destination transfer project	Bug common navigator Dragging FileTransfer closed project valid drop File Transfer
+261198	Java eclipse file somebusiness JavaSynchronizationContentProvider Java Synchronization Content Provider business Synchronize Synchronization txt model	Bug nodes missing Java Model Synchronize view
+262389	TextEdit Text Edit ICompilationUnit ICompilation Unit ICompilation called model IJava clients client applyTextEdit apply Text Edit call	Bug Internal code ICompilationUnit applyTextEdit ICompilation Unit apply Text Edit
+262511	java container compiler Container Field fixes error getBar Bar Bar type	Bug quick Wrong quick fixes type visible
+262877	JavaModel Java Model ProjectExplorer Project Explorer Java Model Project Explorer	Bug JavaModel object handled JavaNavigatorLabelProvider Java Model Java Navigator Label Provider
+263751	bug navigator patch Explorer	Bug common navigator Drag Java object Project Explorer Package Explorer assertion failed
+263935	compare java error eclipse problem workingcopy deleted synchronize discarded Override	Bug compare compare holds deleted compilation unit
+264504	error file editor resource compile touched Create reveal references Start	Bug misc Editor create working copy deleted resource
+264999	bold range pattern Open Type matching type IStorage good space	Bug open type matching range bold pattern ends space
+266646	overrider overriderOperation overrider Operation overrideOperation override Operation override CommonDropAdapter Common Drop Adapter	Bug Change CommonDropAdapter method call Common Drop Adapter
+266831	methods Implementation overridden hyperlink	Bug navigation Open Implementation hyperlink overridable methods
+267358	rearranging sorting work working	Bug package explorer working sets dnd sorted drop target
+267554	copyFiles copy Files copy paste Paster cancel ISelection Files File Cancel dispatch	Bug ccp Canceling file copy operation error
+267616	method Backspace Method Ctrl rename QYourArgtype QYour Argtype Delete project delete YourClass Class	Bug rename Rename method fails create method handle
+267776	type qualification package include default completion constructor content strange post	Bug content assist Wrong post qualification constructor anonymous type completion
+271139	rename Rename buttons problem cut	Bug rename button clipped Rename dialog
+272366	Window RefactoringWizard Refactoring Wizard Refactoring LTK window Open ltk opens setWindowTitle set Window Title	Bug ltk LTK RefactoringWizardOpenOperation opens window window title text Refactoring Wizard Open Operation
+272567	Javadoc hover javadoc Rendered	Bug javadoc hovering Rendered Javadoc strip
+274364	NPE ASTNodeFactory ASTNode Factory abstract Snippet class ASTNode Invoking public declared interface	Bug quick NPE ASTNodeFactory method return type missing ASTNode Factory
+275308	RunWith Parameters JUnit JDK test Assert testIsFirst test assert runner runners	Bug JUnit RunWith Parameterized don navigate
+278201	impl IImpl static fixes modifier remove implements void	Bug quick Remove static modifier solution constants interfaces
+279124	Remove parenthesis comment comments remove Loader cursor inlined bracket BootLoader Boot Loader	Bug quick assist Remove extra parenthesis removes comment
+279981	hashCode hash Code result won Code Bug hash compile	Bug Constructor inlining produces illegal result
+283697	override Override	Bug quick Add missing Override suggestions
+285852	javaee java valid invalid javadoc	Bug build path Validating Javadoc url
+286221	move performs method refactoring Duplicate error produces methods compile Steps	Bug move method Move refactoring produce duplicate methods refactoring
+286406	classpath bad source good classpathentry generated DoubleIt Double Double Project folder	Bug build path File Java Project identifying source files correctly
+287049	Import import map Map AddImport Add Import	Bug actions Add Import marks editor unsaved
+287078	endsWth ends Wth ends overwrites Ctrl Completion Assist Content caret	Bug content assist Overwrite mode rendered filtering proposals
+288121	bug Comment Tests fixed degradation test comment Degradation RenameMethodWithOverloadPerfTests Rename Method Overload Perf Tests explainDegradation explain Degradation	Bug perfs Comments applied performance tests obsolete
+289992	IProgressMonitor IProgress Monitor IProgress	Bug IResource setDerived boolean IProgressMonitor IResource setDerived boolean set Derived IProgress Monitor set Derived
+290913	Tests AllTests Tests TestSuite Test Suite Test Suite Testsuite moved suite generated creates	Bug JUnit Testsuites created Testsuite Wizard
+294322	files runnable filenames InvocationTargetException Invocation Target Exception Error loader problem File jar loading	Bug jar exporter Runnable JAR Export problem special characters included JAR JAR filenames
+294763	Dear details doesn Compiler Errors attachment JDT Bug preference resize	Bug Compiler Errors Warnings preference doesn resize
+296229	text Type code prepended tag Javadoc javadoc space preceded inserted	Bug code tag prepended space
+296781	createDialogArea create Dialog Area bugs create problems AlreadyExistsDialog Exists Dialog	Bug AlreadyExistsDialog initializeComposite clones Dialog createDialogArea Exists Dialog initialize Composite create Dialog Area
+296782	bugs code Darmstadt Create problems create darmstadt createDialogArea create Dialog Area Code	Bug CreateProfileDialog createDialogArea extend super implementation Dialog createDialogArea Create Profile Dialog create Dialog Area create Dialog Area
+297280	Class test Bug BugExample Bug RuntimeException Runtime Exception Runtime class BeforeClass Class Test Tests	Bug JUnit view showing BeforeClass exception single test Class
+297593	warning wizard Java message Class wizards discouraged default	Bug type wizards Java class wizard incorrect warning message
+297663	java patch junit Install eclipse install fixes	Bug JUnit JUnit JDT installed dropin
+297709	JDT error editor package item open Bug opened opening link	Bug package explorer JDT error behavior link editor option opening
+298066	patch SingleFileError Single File Error Patch PatchMessages Patch Messages java eclipse Single	Bug nls tooling Refactoring removes comments properties message key
+298520	completing SelectDirective Select Directive Select ArrayList Array List select initializer type Type void content	Bug content assist Constructor completion ignores outer type completing type arguments
+299127	Null blank jars JAR project problem Bug Build NullPointerException Null Pointer Exception	Bug Refresh Filter problem NullPointerException entering blank JAR selection dialog Null Pointer Exception
+300901	Color Colors Appearance	Bug call hierarchy Counter color
+301242	validateMatchRule validate Match Rule validate Search dialogs Undo SearchPattern Search Pattern editor eclipse Java workbench	Bug refactoring clean locked dialogs repeated Undos Java editor
+303313	Surround Tests test Buffer executeOperation execute Operation ASTRewrite open Types SurroundWithTests Surround Tests HashMap Hash Map	Bug Test failures SurroundWithTests AllAllRefactoringTests Surround Tests Refactoring Tests
+303705	IJavaElement IJava Element IJava Element plain flat LevelTreeContentProvider Level Tree Content Provider element hierarchical check search	Bug search Custom search hierarchically java search view
+304174	hashCode hash Code Code hash	Bug hashcode equals Generated equals invalid Object class scope
+304792	move Moving Move	Bug move method Move single function interfaces work
+304927	initializeValidationState initialize Validation Javadoc eclipse refactoring initializeValidationData initialize Validation Data ltk Change patch	Bug Incorrect Javadoc org eclipse ltk core refactoring Change
+305255	bytecode Java jsr jdt preferences option problem target targeting screenshot	Bug preferences Accept jsr build target
+306392	Enum enum staticField static Field EnumType Enum Type static Field staticMetod static Metod	Bug syntax highlighting syntax coloring enum type
+306646	columns column type editing Editors margin Print types Text file	Bug painting Print margin differentiate file type
+306970	String StyledString Styled String Styled insert insertMarks insert Marks Strings originalString original String	Bug Strings insertMarks drops directional punctuation characters StyledString insert Marks Styled String
+308978	RenameTypeParameterTests Rename Type Parameter Tests Tests jdt Parameter tests eclipse Rename	Bug JVME exist JavaElementNameComposer appendTypeParameterLabel Java Element Composer append Type Parameter Label
+309977	Classpath Initializer ClasspathVariableInitializer Classpath Variable Initializer VariableBlock Variable Block initialize ENTRY entry Block Path Variable	Bug Classpath variable initialization doesn fail silently
+311603	library User Build Library Project Libraries select choose path classpath	Bug build path editing user library properties drops classpath entry attributes
+314354	project library Project Steps Add Libraries navigator Build Library java	Bug common navigator Project Explorer refresh adding removing library project
+316155	TestSuite Test Suite test Test dependent dependencies JUnit	Bug JUnit View open source test classes fragments
+317497	Override CloneNotSupportedException Clone Supported Exception Exception Clone Supported option clone return	Bug content assist Overriding content assist suggestion closing brace generates invalid code
+318388	JavaRuntime Java Runtime Bug Java JRE jre MARKER Marker Container CONTAINER jreContainerMarker jre Container Marker	Bug Replace org eclipse jdt launching jreContainerMarker JavaRuntime JRE CONTAINER MARKER jre Container Marker Java Runtime
+320916	accessibility description Read bug content reads entry enhancement preferences small	Bug preferences Content Assist Advanced Read description entry fields
+320983	method Javadoc javadoc hover HTML Implement generic element abstract	Bug hovering Javadoc display properly classes generic type HTML element
+321385	test SearchView Search View ZRHTests AllZRHTests ZRHTests Search Test testRemoveSearchQueries test Remove Search Queries SearchLeakTestWrapper Search Leak Test Wrapper	Bug SearchLeakTestWrapper testRemoveSearchQueries fails build machine Search Leak Test Wrapper test Remove Search Queries
+321608	TestCase Test Case Test test class superclass Suite junit suite Case	Bug JUnit JUnit Test Case wizard confusing class test
+329248	file folder Rename	Bug ltk file folder exist empty input resource rename dialog
+330057	action view actions View Remove	Bug call hierarchy Improve Remove view action
+331028	Number getNums Nums Arrow nums ArrowDown Arrow indentation indented bug Nums println	Bug typing Indentation broken enhanced loop
+331115	comment Bug Replace quick boolean static void flag conditional apply	Bug Replace conditional removes comment
+333541	Whitespace toggled Characters enabled whitespace checkbox characters link java options	Bug preferences whitespace characters toggled whitespace characters dialog opened
+333631	BUG Renaming Bug Rename ZIP property tooling workspace Import result	Bug nls tooling Rename properties key field adds additional
+334864	Junit JUnit Ignore Steps test class don correct tests classes	Bug JUnit Opening test classes JUnit view leads Method Opening test class warning
+335132	larger large implement size method dialog override	Bug actions Override Implement dialog size position saved
+335249	Errors problems	Bug preferences Improve grouping Potential programming problems Errors Warnings
+338089	Generic ArrayList Array List Infer Type Array Arguments instance void List util	Bug quick Infer Generic Type Arguments
+338638	fixes externalization quick Ctrl margin string empty Relevance pressing selection	Bug quick assist quick Relevance externalization quick fixes empty selection
+338673	preferences jre JRE language Preferences Latin problem PreferencesMessages Preferences Messages translation Bug	Bug preferences implementation Encoding problem JRE library preference dropdown box
+339000	UndoManager Undo Manager fOperationHistroy Operation Histroy fOperationHistory Operation History Undo java Histroy History eclipse	Bug Misspelling field UndoManager fOperationHistroy Undo Manager Operation Histroy
+340338	char charAt char Bytes proposal selection getBytes Bytes Ctrl charAtBytes char Bytes	Bug content assist Proposal replace leading chars selection
+341109	Package Remove filters remove library Libraries removes Explorer package explorer	Bug package explorer Remove filters Package Explorer removes filters
+342410	java eclipse download downloads testresults html Assist selected Pick Quick	Bug quick assist Pick selected string tests
+342858	fails Coupon Delete errors getFrequency Frequency CouponChoice Coupon Choice deleted inlining Frequency invocations	Bug inline inlining invocations method work method final enum type
+352785	Extract break method exception switch Refactor Method refactor occurs unexpected	Bug extract method Refactor Extract Method break statement switch NPE
+354766	exception fixing Bug javadoc Exception InnerFinalException Final Exception constructor constructors	Bug Javadoc content content assist info window static class constructors
+358823	screenshot Eclipse correctly work wrongly preference Clean enabled Created attachment	Bug Checkbox wrongly enabled Clean preference
+362404	resource category Resource problem Code Problem CODE compiler programming CategorizedProblem Categorized Problem	Bug preferences warning missing resources wrong category
+364539	Constructor Generate constructor setting set create fields field generate	Bug generate constructor Generate constructor fields globally sets access modifier private
+369319	junit JUnit java JUnitPropertyTester JUnit Property Tester getClass Class Class Tester eclipse	Bug junit interesting warning JUnitPropertyTester JUnit Property Tester
+370952	MyClass Class Paste pasted wizard Type Class error wizards Identifier	Bug type wizards paste qualified type wizard
+372973	invocation package invoked callee call packageA package packageB package	Bug call hierarchy Selecting element callee hierarchy reveals wrong editor location
+374920	preferences preference Tab dialogs tab editor buttons Bracket rest controls	Bug preferences intuitive tab order editor preferences dialog
+377318	Encapsulate ENCAPSULATE Field EncapsulateField Encapsulate Field FIELD field encapsulate	Bug encapsulate field Encapsulate field interface introduces methods compilation errors
+378068	update patch ImportOrganizeTest Import Organize Test bug Import Bug bugs	Bug Update ImportOrganizeTest FUP bug bug Import Organize Test
+383491	path files source Path Link reference file link Attachment	Bug Unable reference virtual folder Java source attachment path
+387536	comments add comment adds	Bug type wizards generate main method stub ignores generate comments setting
+388342	check checked Eclipse Check Checked Wizard wizards wizard IDE Java	Bug type wizards Main Method Stub Check Box Class Wizard Stays Checked Time Loads
+390546	ruler warning appears margin error markers marker Bug supertype displayed	Bug rulers Quick invoked warning error vertical ruler
+391389	Rename rename RenameResourceWizard Rename Resource Wizard RenameResourceProcessor Rename Resource Processor screen changing Conditions resource Resource condition	Bug ltk Rename refactoring control file
+393932	ImportRewrite Import Rewrite Refactoring CompilationUnitRewrite Compilation Unit Rewrite Import ImportRewriteContext Import Rewrite Context Compilation Rewrite Type TType	Bug refactoring pull destination type creates bogus import nested type
+394296	SuppressWarnings Suppress Warnings Clean cleanup Remove ArrayList Array List Override unnecessary Suppress Warnings Overrides	Bug clean Clean doesn work warnings suppressed
+395919	parameter setting variables local settings Parameter variable Local	Bug preferences syntax coloring Preview incorrect parameter variables setting
+396823	ICompilationUnit ICompilation Unit JavaModelUtil Java Model Util ICompilation Java Util util	Bug JavaModelUtil isPackageInfo ICompilationUnit util applicable Java Model Util Package Info ICompilation Unit
+397842	Class class folder ClassFileEditor Class File Editor project source Source Build opened open	Bug Class file incorrect content
+398648	link Eclipse source java Google Javadoc side href bug google	Bug Javadoc View inserts wrong asterisk link linebreak
+401418	bug Bug test case	Bug clean Add test case bug
+408072	Menu MenuManager Menu Manager java NLS org ExternalActionManager External Action Manager eclipse Callback flagged Instance	Bug nls tooling Interface flagged missing NLS key
+411641	number content prefix assist consequence void pops point System Template	Bug content assist Unnecessary content assist popup decimal
+416016	COMPILER Java JavaCore Java Core CODEGEN preferences preference Javadoc	Bug preferences Add support target compiler preference
+416401	preference choose button select Java click project Project compiler Compiler	Bug preferences Incorrect enablement Inline finally blocks preference option
+416998	Variable VariableDeclaration Variable Declaration type update Type getType Type Patch	Bug Update callers ASTNodes getType VariableDeclaration handle null type inferred lambda parameter Type Variable Declaration
+419692	bugs bug	Bug Java Type Indicator decorator image leak
+421383	monitor display resolution displays Graphics	Bug Graphics Scaling issues high DPI displays
+421506	contributions contributors Eclipse save	Bug Suggestion align Additional Save actions desired code Eclipse contribution guidelines
+422506	methods type implementation Type adornment interfaces interface abstract abstractness attachment	Bug render Abstract method interface adornment
+422792	quick Convert Bug loop work Iterator assist raw collection	Bug quick assist Convert loop Iterator raw collection
+425109	Type TypeMismatchQuickFixTests Type Mismatch Quick Tests TypeMismatch Type Mismatch quick Srikanth Sankaran Tests types Bug reply	Bug quick Failures TypeMismatchQuickFixTests IProblem ReturnTypeMismatch Type Mismatch Quick Tests Return Type Mismatch
+427227	TypeParameter Type Parameter Bug Parameter jdt	Bug Handle TypeParameter annotations change modifiers Type Parameter
+432125	error replaces emptyList empty List compile unchecked btw generic quick extends Bug	Bug quick Expression unchecked conversion Replace quick insert wild cards compile error
+432781	Project project navigator Explorer projects	Bug common navigator Java Elements content extension Java projects Project Explorer
+434269	Java BorderPane Border Pane JavaDoc Java Doc JavaFX Java centerProperty center Property center Pane Border Javadoc	Bug hovering Support showing Javadoc JavaFX properties Java
+434791	Delete Inline inlined ArrayList Array List collection Collection Factory Supplier Collectors delete	Bug inline quick assist Delete key work Inline local variable
+437398	paste copy	Bug ccp Don select extension file paste
+437847	Import ImportContainer Import Container type empty Hierarchy hierarchy blank error Bug event	Bug type hierarchy invoking Quick Type Hierarchy import declarations yields error
+440930	Member members member	Bug Java member types implicitly static consistent icons
+442614	String Char characters StringLiteral String Literal char chars StringBuffer String Buffer	Bug Extract merge string char literal escaping
+443410	test Tests tests Bug bug RenameTypePerfAcceptanceTests Rename Type Perf Acceptance Tests failure comment testCold test Cold reply	Bug RenameTypePerfAcceptanceTests testCold fails Rename Type Perf Acceptance Tests test Cold
+460799	types type ArrayList Array List compare List Compare Array	Bug compare Structured compare editor tree doesn properly format qualified types
+462948	Abstract abstract	Bug render Abstract method content assist adornment
+465521	Classpath JUnit junit jdt JUnitClasspathFixProcessor JUnit Classpath Processor Comparator comparatorlogs JUnitClasspathFixProposal JUnit Classpath Proposal buildtime buildlogs	Bug comparator errors class files
+466252	template finally bug templates catch block Ctrl	Bug templates finally template catch block
+491756	project Applies view ExtensionState Extension perspective Extension Project explorer Explorer	Bug Project Explorer ExtensionState applied Extension
+492173	Java project side JDT bad theme investigate people Created missing	Bug Missing styling Java project wizard

@@ -1,0 +1,7 @@
+18	cVerbose Verbose generated Test Zone java verbose Time false DateTimeZoneBuilder Time Zone Builder test	NPE DateTimeZoneBuilder Time Zone Builder
+21	Time time parse year parseInto parse joda result DateTimeFormat Time Format Locale bug	DateTimeFormat parseInto miscalculates year Time Format parse
+28	chronology year GJChronology Local start assert expectedEnd expected pass job expected	Questionable behaviour GJChronology dates pass
+42	Offset negative Time hour minutes documentation Hours forOffsetHoursMinutes Offset Hours Minutes handle range	DateTimeZone forOffsetHoursMinutes handle negative offset hour Time Zone Offset Hours Minutes
+43	offset method max min Time apply DateTimeZone Time Zone valid limited parse	Ensure max min valid offset
+77	add time addDays add Days mdt MutableDateTime Mutable Time Instant addHours add Hours println getMillis Millis Time	addDays MutableDateTime add Days Mutable Time
+88	Partial hourOfDay hour Day int constructed invalid throws Type java Time hour	Constructing invalid Partials

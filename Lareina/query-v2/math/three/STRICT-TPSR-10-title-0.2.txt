@@ -1,0 +1,60 @@
+60	Parse Fraction source Format pos String ProperFractionFormat Proper Fraction Format function result input	math Function math fraction ProperFractionFormat parse String ParsePosition return illogical result Proper Fraction Format Parse Position
+85	Sum reg Simple Errors Regression getSumSquaredErrors Sum Squared Errors Squared SimpleRegression Simple Regression void assert	math SimpleRegression getSumSquaredErrors Simple Regression Sum Squared Errors
+167	ConvergenceException Convergence Exception Exception Distribution CDF Impl Probability throws evaluate cumulativeProbability cumulative Probability double	ConvergenceException normal CDF Convergence Exception
+175	test chi Chi Test Square expected observed sum double squared	chiSquare double expected long observed returning incorrect test statistic chi Square
+198	Format ComplexFormat Complex Format Complex String length source Parse Exception int substring	java lang StringIndexOutOfBoundsException ComplexFormat parse String source ParsePosition pos String Bounds Exception Complex Format Parse Position
+200	parameters Parameters problem guessParametersErrors guess Parameters Errors int length cols code AbstractEstimator Abstract Estimator crash	AbstractEstimator getCovariances guessParametersErrors crash bound parameters Abstract Estimator Covariances guess Parameters Errors
+209	vector length matrix result Impl RealMatrixImpl Real Matrix Impl Matrix Real create input	RealMatrixImpl operate result vector dimensions wrong Real Matrix Impl
+221	Complex code complex res program println equals class comp numbers	Result multiplying equals complex numbers wrong
+238	Math MathUtils Math Utils test powers Utils fails gcd high product Equals	MathUtils gcd fails high power Math Utils
+241	Math binomial int Integer MathUtils Math Utils Utils BigInteger Big Integer Big test implementation	MathUtils binomialCoefficient fails large Math Utils binomial Coefficient
+259	Object object fail API OBJ Comparable add class Count Exception	Bugs Frequency API
+273	Simplex SimplexTableau Simplex Tableau suite code tableau variable entry work test bug	Basic variable correctly simplex tableau
+274	matrix conditions exception exceptions symmetric catch methods test catching possibility	testing symmetric positive definite matrix CholeskyDecomposition Cholesky Decomposition
+318	Eigen decomposition refEigenVectors Eigen Vectors Vectors version Values code refEigenValues Eigen Values Vector double	wrong result eigen decomposition
+322	event step function bug integration close detected signs events switching	ODE integration event pair close event detected
+326	max norm code LInf Vector test Iterator return iter Real	getLInfNorm wrong formula ArrayRealVector OpenMapRealVector ways LInf Norm Array Real Vector Open Map Real Vector
+329	Object Frequency getPct Pct Pct Replacement values getCumPct Cum Pct change replaced code	stat Frequency getPct Object getCumPct Comparable getPct Comparable Pct Cum Pct Pct
+338	method scale Integrator step initializeStep initialize Step Step parameter application size call	Wrong parameter step size guess Embedded Runge Kutta methods
+344	returns min max Function final bracket double root Real Min	Brent solver returns wrong bracket endpoint root
+358	Exception void integration integrator yDot Dot Equations range Integrator accuracy Derivative	ODE integrator integration range
+362	Vectorial Optimizer VectorialConvergenceChecker Vectorial Convergence Checker custom Marquardt stopping ignores LevenbergMarquardtOptimizer Levenberg Marquardt Optimizer criteria Levenberg	LevenbergMarquardtOptimizer ignores VectorialConvergenceChecker parameter passed Levenberg Marquardt Optimizer Vectorial Convergence Checker
+369	Null BisectionSolver Bisection Solver Bisection double Pointer max Univariate initial Function Impl	BisectionSolver solve final UnivariateRealFunction double min double max double initial throws NullPointerException Bisection Solver Univariate Real Function Null Pointer Exception
+371	problem MATH cumulativeProbability cumulative Probability values Correlation machine cumulative getCorrelationPValues Correlation PValues Probability Pearsons	PearsonsCorrelation getCorrelationPValues precision limited machine epsilon Pearsons Correlation Correlation PValues
+377	RMS observation weight Squares getChiSquare Chi Square Chi getRMS RMS AbstractLeastSquares Abstract Squares Math Square	weight sigma AbstractLeastSquares Abstract Squares
+393	Result method getResult Result Multi result code return MultiStartUnivariateRealOptimizer Multi Start Univariate Real Optimizer Univariate optimization	Method getResult MultiStartUnivariateRealOptimizer Result Multi Start Univariate Real Optimizer
+482	bug test Max Min Fast testMinMaxFloat test Min Max Float Float floats FastMath Fast Math doubles	FastMath max Fast Math
+546	int KMeansPlusPlusClusterer KMeans Clusterer points bug distances Clusterer return variable Cluster empty	Truncation issue KMeansPlusPlusClusterer KMeans Clusterer
+552	int Output println getCounts Counts Counter MultidimensionalCounter Multidimensional Counter Counts Arrays array System	MultidimensionalCounter getCounts int returns wrong array indices Multidimensional Counter Counts
+554	Vector cross code answer crossProduct cross Product formulas implementation product println vectors	Vector crossProduct sensitive numerical cancellation cross Product
+567	Dfp method test class toDouble Double field exposant significand Double DfpField Dfp Field	class Dfp toDouble method return inf whan Dfp Double
+618	code NaN Complex Subtract test rules isNaN values lang result	Complex Add Subtract handle NaN arguments differently javadoc contracts
+631	code Solver Real Math Univariate RegulaFalsiSolver Regula Falsi Solver Regula double test void	RegulaFalsiSolver failure Regula Falsi Solver
+679	overflow matrix heap code store Matrix access Real problem Open	Integer overflow OpenMapRealMatrix Open Map Real Matrix
+691	stats Variance code int java setVarianceImpl set Variance Impl Deviation double SummaryStatistics Summary Statistics Standard	Statistics setVarianceImpl getStandardDeviation produce NaN set Variance Impl Standard Deviation
+695	events unit reinitialization breaks patch track tests step occur complete	Incomplete reinitialization events handling
+704	length method work int methods Variance math double evaluate values	Variance evaluate methods work correctly
+713	Simplex Solver coefficients SimplexSolver Simplex Solver MINIMIZE values GoalType Goal Type negative variables affect	Negative restrictNonNegative restrict Negative
+716	bracket Bracketing side root Order updates Solver Brent Iteration max	BracketingNthOrderBrentSolver exceeds maxIterationCount updating boundary Bracketing Nth Order Brent Solver max Iteration Count
+722	Complex tanh return FastMath Fast Math number problem cos method real infinity	math Complex Tanh big numbers
+727	step size range integrators function Runge Kutta integration Stoer Bulirsch	large step embedded Runge Kutta integrators Dormand Prince
+776	Rate List ElitisticListPopulation Elitistic List Population elitismRate elitism Rate Population constructors range check Elitistic set	range checks elitismRate ElitisticListPopulation constructors elitism Rate Elitistic List Population
+778	int Field Dfp contract org multiply commons method math Element	Dfp Dfp multiply int comply general contract FieldElement multiply int Field Element
+779	ListPopulation List Population List list iterator population method Population Iterator protected remove	ListPopulation Iterator remove chromosomes population List Population
+781	problem math SimplexSolver Simplex Solver Simplex Solver commons test simple bad optimeze	SimplexSolver bad Simplex Solver
+803	Vector entries return code Open Real iter complex RealVector Real Vector OpenMapRealVector Open Map Real Vector	Bugs RealVector ebeMultiply RealVector ebeDivide RealVector Real Vector ebe Multiply Real Vector ebe Divide Real Vector
+835	method Fraction overflows result double percentage percentageValue percentage bug greater Integer	Fraction percentageValue rare overflow percentage
+836	Fraction fraction testing bugs int maxDenominator max Denominator max Test Exception class	Fraction double int constructor strange behaviour
+844	package Parameter ParameterGuesser Parameter Guesser fails Harmonic Guesser guess optimization HarmonicFitter Harmonic Fitter amplitude	HarmonicFitter ParameterGuesser fails return values Harmonic Fitter Parameter Guesser
+859	Support isSupportXxxInclusive Support Xxx Inclusive interface Xxx message support org returned Distribution Inclusive	deprecate isSupportXxxInclusive RealDistribution interface Support Xxx Inclusive Real Distribution
+865	NaN bounds parameters fitness MAX function bound Double values upper	Wide bounds CMAESOptimizer result NaN parameters passed fitness function
+867	range bounds precision bound fits ulp parameter numbers point CMAESOptimizer	CMAESOptimizer bounds fits finely bound coarsely upper bound
+904	pow Jeff Math POWER Fast integer FastMath Fast Math power values base	FastMath pow deviates Math pow negative finite base values exponent Fast Math
+929	Multivariate Distribution double Equals Assert code density dimension MultivariateNormalDistribution Multivariate Normal Distribution Normal	MultivariateNormalDistribution density double returns wrong dimension odd Multivariate Normal Distribution
+934	Complex org return apache NaN reciprocal complex INF math returns	Complex reciprocal returns NaN return INF
+935	cases Math atan Derivative handle properly special Structure DerivativeStructure Derivative Structure values	DerivativeStructure atan handle special cases properly Derivative Structure
+942	sample Discrete Object list Array int type code Distribution class	DiscreteDistribution sample int throw exception element singletons class type Discrete Distribution
+949	Optimizer Evaluations test iterations Iterations otim Eval LevenbergMarquardtOptimizer Levenberg Marquardt Optimizer void Model	LevenbergMarquardtOptimizer reports iterations Levenberg Marquardt Optimizer
+988	intersection Exception test implementations fixes lines Pointer twod SubLine patch	NPE calling SubLine intersection intersecting lines
+1005	linearCombination linear Combination Array prodHighNext prod High length Math Exception arguments MathArrays Math Arrays Arrays Combination	ArrayIndexOutOfBoundsException MathArrays linearCombination Array Bounds Exception Math Arrays linear Combination
+1021	sample integer Distribution Size commons return Sample HypergeometricDistribution Hypergeometric Distribution code Prints	HypergeometricDistribution sample suffers integer overflow Hypergeometric Distribution

@@ -1,0 +1,29 @@
+29516	SearchEngine Search Engine Search	Bug SearchEngine regressions Search Engine
+42243	error syntax Syntax	Bug Incorrect syntax diagnosis assert source mode
+65738	build Build change save builder project	Bug builder Build automatically save
+79809	TagElement Tag Element SimpleType Simple Type Type suggestion Javadoc javadoc closing param parameter tag	Bug dom javadoc support type parameter Javadoc tags
+110797	REGULATORY Tasks task RULE tag items tasks tags	Bug case multiple task tags single tasks view complete tag
+126180	implements extends type int	Bug compiler NPE reporting invalid enclosing type
+145202	positive Null null negated negative false False	Bug False positive null reference analyzer negated instanceof
+165346	Operator Expression NULL null operator compiler ast conditional ConditionalExpression Conditional Expression Conditional	Bug compiler null org eclipse jdt internal compiler ast OperatorExpression nullStatus FlowInfo conservative Operator Expression null Status Flow Info
+168331	compiler IList ExtendedList Extended List Error IExtended Abstract AbstractMethodErrorBug Abstract Method Error Bug IExtendedList IExtended List List Bug	Bug compiler AbstractMethodError interface method Abstract Method Error
+228691	Type Types Assignable PrimitiveType Primitive Type ClassType Class Type Add autoboxing annotating annotations unboxing	Bug JDT impl sun mirror util Types isAssignable returns false wrapper primitive assignment Assignable
+291322	tests Bug Test errors	Bug Test errors running JDT Core tests Windows
+380501	extension support	Bug compiler Add support default methods JSR
+381358	Syntax LambdaBody Lambda Body error JAVA Elided badly level Reference source program	Bug Compiler gracefully reject JSR constructs source levels
+385293	normal silently static read references accepts modifier accepted Marker check	Bug compiler compiler accepts normal modifiers type arguments
+388634	tests Compliance test failure compliance occurs	Bug Test failure Compliance compliance
+396139	upgrade team project build JAVA Javadoc version observe JavadocTestForClass Javadoc Test Class BETA	Bug define JRE build targeting BETA JAVA
+396258	Null Annotation NullTypeAnnotationTest Null Type Annotation Test Type tests Test type NonNull Null annotations	Bug adopt syntax annotations qualified type names NullTypeAnnotationTest Null Type Annotation Test
+399567	compiler java parallelStream parallel Stream OrderedSet Ordered Set implements methods AmbiguousMethodTest Ambiguous Method Test error Test Bug	Bug error message reference compiler
+401848	additional adds	Bug ASTRewrite type annotations adds additional
+405051	Java containerPath container Path IndexManager Manager JavaModel Java Model newIndexURL URL LOCATION refreshExternalArchives refresh External Archives initializeAfterLoad initialize Load attribute ATTRIBUTE	Bug JavaModel refreshExternalArchives happen search primed Java Model refresh External Archives
+405889	codegen bugs Java bug compiler	Bug compiler codegen Resilience NPE needed Scope getJavaLangInvokeMethodHandlesLookup Java Lang Invoke Method Handles Lookup
+412882	ZipFile Zip File JavaModelOperation Java Model Operation Root JavaProject Java Project ClasspathValidation Classpath Validation runOperation Operation validateClasspathEntry validate Classpath Entry resources optional Operation	Bug Unnecessary validation optional library classpath entries
+415911	TYPE ElementType Element Type annotation Marker Type method type Element	Bug compiler NPE TYPE annotated method missing return type
+417388	BaseTypeBinding Base Type Binding TypeBinding Type Binding Type type Binding resolvedType resolved Type TypeReference Type Reference binding Base	Bug TypeBinding TypeReference parameter type annotations Type Binding Type Reference
+417669	Type SimpleType Simple Type ElementType Element Type TYPE annotation Annotatable ParameterizedType Parameterized Type doesn AST appears	Bug dom Incorrect source ranges annotated SimpleType nested ParameterizedType Simple Type Parameterized Type
+418919	typeSystem type System UnannotatedTypeSystem Unannotated Type System AnnotatableTypeSystem Annotatable Type System ClassFileConstants Class File Constants storeAnnotations store Annotations globalOptions global Options global sourceLevel source Level LookupEnvironment Lookup Environment stillTesting Testing	Bug compiler internal Remove boolean forcing creation annotated bindings
+424718	compiler dimAnnotations dim Annotations works baseType base Type Type TypeReference Type Reference baseTypeReference base Type Reference request internal ast	Bug compiler API compatibility AST TypeReference Type Reference
+430451	Compiler compiler patch tests toString String String jdt JRE fixes Tests	Bug Tests fail org eclipse jdt compiler tool tests CompilerInvocationTests JRE Compiler Invocation Tests
+456395	Java code compile	Bug compile Java code

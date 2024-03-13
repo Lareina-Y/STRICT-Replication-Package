@@ -1,0 +1,18 @@
+820	HtmlParser Html Parser Locator locator Html Parser	Locator unset HTML parser
+991	duration durations	Parser extract duration audio file
+992	Html HtmlHandler Html Handler Graph multivalued addHtmlMetadata add Html Metadata Metadata Values OpenGraph Open Graph appended appendedValues appended Values	OpenGraph meta tags multiple values Open Graph
+1012	mime MimeType Mime Type formats mimetypes bmp wiki link UTI Windows Mime	Add additional fields MimeType reader Mime Type
+1014	Mime MimeTypesReader Mime Types Reader	custom MimeTypesReader Mime Types Reader
+1047	Modified mediatype JAX modify detect manipulate metadata lastModified Modified	Provide JAX detect mediatype
+1053	Tika ASM issues upgrading project facing Upgrade compatible version causing	Upgrade Tika Parsers ASM
+1062	test tests supports RTF lists parser support	Add list detection RTFParser
+1074	document documents issue problematic bug	Extraction continue exception hit visiting embedded document
+1109	PPT presentation documents officedocument testPPT test PPT content presentationml Content pptx resourceName resource	Metadata extracted content OOXML pptx
+1110	Chm mime chm types TYPES assignments type mimetypes parse Detect	Incorrectly declared SUPPORTED TYPES ChmParser Chm Parser
+1124	document PDF BodyContentHandler Body Content Handler handler attachments Handler attached docs Body SimpleBodyMatchingContentHandler Simple Body Matching Content Handler	Nested documents extracted PDF file chain
+1126	server html tika text producing handler produce resource plain procuder	text html procuder tika server
+1130	document extracts extracted officedocument colored docx gray file darker	docx text extract leaves portions text
+1193	HTMLSchema HTML HtmlParser Html Parser TagSoup Tag Soup Tag Html HtmlSchema Html Schema Parser	access HtmlParser HtmlSchema Html Parser Html Schema
+1202	extractAnnotationText extract Annotation Text Parse ParseContext Parse Context Annotation PDFParser parameters	Refactor PDFParser enable easier parameter setting
+1210	swf SWF mime Mime	Address tika parsers mime TestMimeTypes TODO test flash file Test Mime Types
+1211	OpenDocumentFiles Open Document Files startDocuments start Documents Files endDocuments Documents Document xml OpenDocument Open Document startDocument start Document XHTML	OpenDocument ODF parser produces multiple startDocument events Open Document start Document

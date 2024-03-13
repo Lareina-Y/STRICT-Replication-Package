@@ -1,0 +1,16 @@
+526	forest Builder Tree building	Infinite Recursion DefaultTreeBuilder Default Tree Builder
+552	Named vectors names sparse Abstract Cluster Vectors Sparse clustering Vector	AbstractCluster eliminates NamedVectors replacing RandomAccessSparseVector Abstract Cluster Named Vectors Random Access Sparse Vector
+561	TestClassifier Test Classifier Test Classifier	TestClassifier correctly handle type source command parameters Test Classifier
+564	setting Clusterer KMeansClusterer KMeans Clusterer distance test convergence distanceThreshold distance Threshold convergenceDelta convergence Delta testConvergence test Convergence Cluster	KMeansClusterer distanceThreshold parameter testConvergence Iterable Cluster clusters double distanceThreshold method KMeans Clusterer distance Threshold test Convergence distance Threshold
+565	operations implementation bits bit	Features incorrectly hashed Minhash
+576	RunningAverage Running Average updating Preference preference Running update SlopeOneRecommender Slope Recommender userid AbstractJDBCDiffStorage Abstract JDBCDiff Storage user	AbstractJDBCDiffStorage updateItemPref updating AVG incorrectly cases Abstract JDBCDiff Storage update Item Pref
+580	basePath base Path HBaseDataStore HBase Data Store Parameters BayesParameters Bayes Parameters Bayes params HBase Base base Path	Missing basePath Bayes job InMemoryDataStore base Path Memory Data Store
+583	files file directory	Loss data create sequence files directory
+602	operations Implementation	Partial Implementation throws exceptions
+604	exception data tested Bayes training Classifier throws fails	Bayes Classifier fails data training data
+610	RecommenderJob Recommender Job RowA Row CoocurencesMapper Coocurences Mapper Similarity adapt Cooccurences change Coocurrence CooccurencesMapper Cooccurences Mapper cooccurences	Coocurrences SimilarityReducer Similarity Reducer
+614	Task FileSystem File System TaskAttemptContext Task Attempt Context File	org apache mahout classifier baytes MultipleOutputFormat working intended Hadoop Multiple Output Format
+625	note data pattern focus project occurs proves retail point times	generated patterns support higher reality
+631	Weighted WeightedRunningAverage Weighted Running Average weighted WeightedRunningAverageAndStdDev Weighted Running Average Std Dev	Small bug WeightedRunningAverage add WeightedRunningAverageAndStdDev Weighted Running Average Weighted Running Average Std Dev
+641	Conf TransposeJob Transpose Job MatrixMultiplicationJob Matrix Multiplication Job Transpose Configuration Confs setConf set Conf	DistributedRowMatrix hadoop jobs ignore Configuration set setConf Distributed Row Matrix set Conf
+678	negative Gradient RankingGradient Ranking Gradient Ranking gradient positive	NullPointerException MixedGradient SGD algorithm Null Pointer Exception Mixed Gradient

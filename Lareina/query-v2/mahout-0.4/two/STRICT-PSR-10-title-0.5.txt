@@ -1,0 +1,16 @@
+526	Builder Tree forest Default cases dataset Stack recursion Overflow building	Infinite Recursion DefaultTreeBuilder Default Tree Builder
+552	AbstractCluster Abstract Cluster Vector Cluster Vectors NamedVectors Named Vectors Abstract RandomAccessSparseVector Random Access Sparse Vector vectors Access Named	AbstractCluster eliminates NamedVectors replacing RandomAccessSparseVector Abstract Cluster Named Vectors Random Access Sparse Vector
+561	TestClassifier Test Classifier Classifier Test type command source parameters	TestClassifier correctly handle type source command parameters Test Classifier
+564	Clusterer KMeansClusterer KMeans Clusterer distance distanceThreshold distance Threshold convergence setting KMeans Threshold test testConvergence test Convergence	KMeansClusterer distanceThreshold parameter testConvergence Iterable Cluster clusters double distanceThreshold method KMeans Clusterer distance Threshold test Convergence distance Threshold
+565	bit operations implementation Minhash bits Features signature sign array byte	Features incorrectly hashed Minhash
+576	preference userid Preference JDBCDiff AbstractJDBCDiffStorage Abstract JDBCDiff Storage updateItemPref update Item Pref Item RunningAverage Running Average AVG Pref	AbstractJDBCDiffStorage updateItemPref updating AVG incorrectly cases Abstract JDBCDiff Storage update Item Pref
+580	basePath base Path Parameters Bayes BayesParameters Bayes Parameters base HBase InMemoryDataStore Memory Data Store params Memory Pierre	Missing basePath Bayes job InMemoryDataStore base Path Memory Data Store
+583	files file directory chunk sequence data Loss output loss overwrite	Loss data create sequence files directory
+602	Implementation operations confluence wiki org MAHOUT dataset apache https exceptions	Partial Implementation throws exceptions
+604	Classifier training data Bayes exception tested throws fails	Bayes Classifier fails data training data
+610	Row Similarity cooccurences WeightedCoocurrenceArray Weighted Coocurrence Array RecommenderJob Recommender Job RowB Row isn tests Coocurences adapt	Coocurrences SimilarityReducer Similarity Reducer
+614	Task Output Hadoop Format work FileOutputFormat File Output Format getRecordWriter Record Writer FileSystem File System classifier Record	org apache mahout classifier baytes MultipleOutputFormat working intended Hadoop Multiple Output Format
+625	data pattern test project retail FPGrowth patterns times focus note	generated patterns support higher reality
+631	Weighted WeightedRunningAverage Weighted Running Average Dev WeightedRunningAverageAndStdDev Weighted Running Average Std Dev datum Std weighted problem hey bug	Small bug WeightedRunningAverage add WeightedRunningAverageAndStdDev Weighted Running Average Weighted Running Average Std Dev
+641	Conf TransposeJob Transpose Job setConf set Conf Configuration Transpose MatrixMultiplicationJob Matrix Multiplication Job Row DistributedRowMatrix Distributed Row Matrix Matrix Confs	DistributedRowMatrix hadoop jobs ignore Configuration set setConf Distributed Row Matrix set Conf
+678	Gradient Ranking RankingGradient Ranking Gradient negative MixedGradient Mixed Gradient Mixed Null algorithm Pointer gradient	NullPointerException MixedGradient SGD algorithm Null Pointer Exception Mixed Gradient

@@ -1,0 +1,16 @@
+1613	Superclass Subclass superclass hierarchy MappedSuperclass Mapped Superclass Access inheritance JPA OpenJPA Open JPA class	Exception thrown enhancing property access class abstract MappedSuperclass annotated properties Mapped Superclass
+1627	Order OrderBy Order columns EmbeddedId Embedded tranSequenceNumber tran Sequence Number Sequence transactionCode transaction Code TransactionId Transaction Linked Transaction	ORderBy ElementJoinColumn EmbeddedId wrong columns SQL ORder Element Join Column Embedded
+1699	Streaming Lob	Streaming Lob support
+1743	anchor Invoking mappingtool	Tool configuration support EMF anchors
+1762	Scope scope lock Lock	javax persistence lock scope EXTENDED doesn properly lock join tables
+1764	DBCP dbcp unmanaged	Automatically enable connection pooling unmanaged environments
+1765	Table TableJDBCSeq Table JDBCSeq JDBCSeq	TableGenerator doesn properly utilize heavy stress Table Generator
+1784	equal HashMap Hash Map hashCode hash Code equals String Hash Map map getMap Map hash	Map updates flushed
+1830	String connectionPassword connection Password StringValue String Password	Deserialization EMF connectionPassword overwritten INVISIBLE connection Password
+1837	Embed jdbc collection error embedCollection embed Collection Exception Embeddable blob Collection embed	ElementCollection Embeddable blob fails Oracle Element Collection
+1863		update HSQL dictionary HSQLDB
+1865	entry Set entrySet entry Set keySet key Set key	inefficient keySet iterator entrySet iterator key Set entry Set
+1870	Column byte MySQL SQL BINARY column columnDefinition column Definition SQL	Blob types override column definition Column annotation MySQL SQL
+1888	generics Kernel	Add generics Kernel
+1896	SQLException unique ReportingSQLException Reporting SQLException JPA duplicate OpenJPA Open JPA	OpenJPA store POJOs record exists Open JPA
+1943	QueryImpl Query Impl Query query lock SQL	Query timeout hint honored consistently pessimistic lock issued database requires multi statements locking scheme

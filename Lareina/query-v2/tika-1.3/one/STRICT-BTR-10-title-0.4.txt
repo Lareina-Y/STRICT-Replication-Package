@@ -1,0 +1,18 @@
+820	HtmlParser Html Parser Locator Html setDocumentLocator set Document Locator locator Parser	Locator unset HTML parser
+991	duration extract durations Parser	Parser extract duration audio file
+992	appendedValues appended Values appended Metadata Html properties	OpenGraph meta tags multiple values Open Graph
+1012	Mime formats file xml mime format MimeType Mime Type mimetypes	Add additional fields MimeType reader Mime Type
+1014	Mime MimeTypesReader Mime Types Reader	custom MimeTypesReader Mime Types Reader
+1047	JAX metadata document mediatype	Provide JAX detect mediatype
+1053	upgrading XWiki xwiki ASM Tika issues version	Upgrade Tika Parsers ASM
+1062	tests test RTF lists HTML tags	Add list detection RTFParser
+1074	issue documents bug problematic document	Extraction continue exception hit visiting embedded document
+1109	officedocument metadata documents resource openxmlformats content presentation pptx file testPPT test PPT	Metadata extracted content OOXML pptx
+1110	TYPES types Chm chm ChmParser Chm Parser Parser mimetypes	Incorrectly declared SUPPORTED TYPES ChmParser Chm Parser
+1124	handler attachments PDF problem docs document attached solved Handler extracted	Nested documents extracted PDF file chain
+1126	html text	text html procuder tika server
+1130	officedocument wordprocessingml document openxmlformats extracts extracted docx	docx text extract leaves portions text
+1193	HTML HTMLSchema	access HtmlParser HtmlSchema Html Parser Html Schema
+1202	extract extractAnnotationText extract Annotation Text Parse PDFParser ParseContext Parse Context parameters Annotation	Refactor PDFParser enable easier parameter setting
+1210	swf apache SWF src assert repos assertTypeByData assert Type Data svn https	Address tika parsers mime TestMimeTypes TODO test flash file Test Mime Types
+1211	OpenDocumentFiles Open Document Files endDocuments Documents Documents startDocuments start Documents Document Files startDocument start Document	OpenDocument ODF parser produces multiple startDocument events Open Document start Document

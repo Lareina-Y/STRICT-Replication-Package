@@ -1,0 +1,18 @@
+820	HtmlParser Html Parser Locator locator setDocumentLocator set Document Locator handler Html user Parser	Locator unset HTML parser
+991	duration durations functionality design extract implement Parser	Parser extract duration audio file
+992	Metadata HtmlHandler Html Handler Html appendedValues appended Values appended properties OpenGraph Open Graph tags Graph meta	OpenGraph meta tags multiple values Open Graph
+1012	formats MimeType Mime Type mimetypes mime Mime Links entry Type acronym Acronym	Add additional fields MimeType reader Mime Type
+1014	Mime MimeTypesReader Mime Types Reader private protected	custom MimeTypesReader Mime Types Reader
+1047	metadata document Modified modify order query mediatype accomplish manipulate JAX	Provide JAX detect mediatype
+1053	Tika ASM issues upgrading project facing Upgrade compatible version causing	Upgrade Tika Parsers ASM
+1062	tags HTML tests test lists support patch supports RTF	Add list detection RTFParser
+1074	documents document issue problematic bug	Extraction continue exception hit visiting embedded document
+1109	documents presentation resource presentationml PPT testPPT test PPT metadata file application pptx	Metadata extracted content OOXML pptx
+1110	Chm chm types mimetypes Parser ChmParser Chm Parser assignments Detector Auto AutoDetectParser Auto Detect Parser	Incorrectly declared SUPPORTED TYPES ChmParser Chm Parser
+1124	PDF extracted document attachments embedded solved problem handler docs BodyContentHandler Body Content Handler	Nested documents extracted PDF file chain
+1126	html patch text support	text html procuder tika server
+1130	document officedocument extracted wordprocessingml extracts gray darker docx colored openxmlformats	docx text extract leaves portions text
+1193	HTMLSchema HTML HtmlParser Html Parser quirks access capable strange suited TagSoup Tag Soup Tag	access HtmlParser HtmlSchema Html Parser Html Schema
+1202	ParseContext Parse Context extractAnnotationText extract Annotation Text Parse Context Annotation PDFParser extract Text parameters	Refactor PDFParser enable easier parameter setting
+1210	swf assert apache SWF svn assertTypeByData assert Type Data mime TestMimeTypes Test Mime Types repos Test	Address tika parsers mime TestMimeTypes TODO test flash file Test Mime Types
+1211	endDocuments Documents OpenDocumentFiles Open Document Files Document startDocuments start Documents startDocument start Document xml Documents Files elements XHTML	OpenDocument ODF parser produces multiple startDocument events Open Document start Document

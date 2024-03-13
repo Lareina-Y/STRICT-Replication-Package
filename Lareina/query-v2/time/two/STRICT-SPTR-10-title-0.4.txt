@@ -1,0 +1,7 @@
+18	Zone Time generated ThreadLocal Thread Local TestDTZ Test DTZ Boolean DateTimeZoneBuilder Time Zone Builder getTestDataTimeZoneBuilder Test Data Time Zone Builder PrecalculatedZone Precalculated Zone NPE	NPE DateTimeZoneBuilder Time Zone Builder
+21	year MutableDateTime Mutable Time Time DateTimeFormatter Time Formatter startOfYear start Year DateTimeFormat Time Format feb time parse month	DateTimeFormat parseInto miscalculates year Time Format parse
+28	chronology GJChronology LocalDate Local equalTo equal behaviour error Questionable years assert expectedEnd expected	Questionable behaviour GJChronology dates pass
+42	hour forOffsetHoursMinutes Offset Hours Minutes offset Hours Minutes negative DateTimeZone Time Zone forOffsetMillis Offset Millis Offset handle	DateTimeZone forOffsetHoursMinutes handle negative offset hour Time Zone Offset Hours Minutes
+43	min max offset Ensure apply valid DateTimeZone Time Zone Time	Ensure max min valid offset
+77	add time MutableDateTime Mutable Time addHours add Hours addDays add Days addMinutes add Minutes Days Years Europe mdt	addDays MutableDateTime add Days Mutable Time
+88	Partials hourOfDay hour Day int Partial constructed invalid Type clockhour isEqual Equal Constructing	Constructing invalid Partials

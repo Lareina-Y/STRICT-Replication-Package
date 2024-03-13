@@ -1,0 +1,16 @@
+641	method distance Implement exists segements lines class calculates point	Implement distance methods Lines Segments
+718	inverse Cumulative cumulativeProbability cumulative Probability code method Probability cumulative BinomialDistributionImpl Binomial Distribution Impl System Binomial	inverseCumulativeProbability BinomialDistribution returns wrong large trials inverse Cumulative Probability Binomial Distribution
+764	factory createSampler create Sampler instance method Sample generator interface sampleSize sample Size sample RandomGenerator Random Generator	sample API accept RandomGenerator parameter Random Generator
+775	number ListPopulation List Population occur Population List check positive populationLimit population Limit greater population	ListPopulation constructor check negative populationLimit occur List Population population Limit
+776	setElitismRate set Elitism Rate set elitismRate elitism Rate method Rate Elitism range ElitisticListPopulation Elitistic List Population List Elitistic	range checks elitismRate ElitisticListPopulation constructors elitism Rate Elitistic List Population
+777	OnePointCrossover Point Crossover Policy CrossoverPolicy Crossover Policy Crossover Chromosomes	CrossoverPolicy needed Crossover Policy
+778	limitation method org limited contract values Element FieldElement Field Element consistent commons	Dfp Dfp multiply int comply general contract FieldElement multiply int Field Element
+779	iterator ListPopulation List Population method protected Population returns List list	ListPopulation Iterator remove chromosomes population List Population
+782	User original criterion implementation check Brent exit default block unwanted	BrentOptimizer User defined check block badly Brent Optimizer
+835	works method MAX converting double Fraction convert numerator fraction Integer	Fraction percentageValue rare overflow percentage
+841	code method test gcd ArithmeticUtils Arithmetic Utils Time rng nextInt Int slower approach	gcd speed
+849	Numerical log tested double values implementation accuracy Mathematical Functions MATH	Precision improvement class Gamma
+878	Bahadur test Log chi Likelihood testing sense distribution fit LLR	Test Log Likelihood ratio LLR test math stat inference
+905	sinh MAX values Math StrictMath Strict Math Double cosh result overflow Strict	FastMath cosh sinh support range values Math counterparts Fast Math
+915	Usage EmpiricalDistribution Empirical Distribution RandomDataImpl Random Data Impl RandomDataGenerator Random Data Generator Empirical Data randomData random Data random problem Random	compatibility broken EmpiricalDistribution Empirical Distribution
+1121	BaseOptimizer Base Optimizer BrentOptimizer Brent Optimizer Optimizer doOptimize Optimize iteration Brent iterations Base Optimize	Brent optimizer doesn Base optimizer iteration counter

@@ -1,0 +1,16 @@
+641	distance segements method lines exists calculates Lines class point Implement	Implement distance methods Lines Segments
+718	Probability BinomialDistributionImpl Binomial Distribution Impl method returns Binomial inverseCumulativeProbability inverse Cumulative Probability Cumulative reproduce inverse problem	inverseCumulativeProbability BinomialDistribution returns wrong large trials inverse Cumulative Probability Binomial Distribution
+764	sample RandomGenerator Random Generator generator Sampler Random createSampler create Sampler interface method Generator Distribution	sample API accept RandomGenerator parameter Random Generator
+775	populationLimit population Limit population Population occur check List number ListPopulation List Population greater constructor	ListPopulation constructor check negative populationLimit occur List Population population Limit
+776	elitismRate elitism Rate ElitisticListPopulation Elitistic List Population Elitism Rate set Elitistic List elitism constructors setting	range checks elitismRate ElitisticListPopulation constructors elitism Rate Elitistic List Population
+777	Crossover CrossoverPolicy Crossover Policy Point OnePointCrossover Point Crossover Chromosomes Ordered needed Policy	CrossoverPolicy needed Crossover Policy
+778	int multiply Field contract math org Dfp values commons FieldElement Field Element	Dfp Dfp multiply int comply general contract FieldElement multiply int Field Element
+779	ListPopulation List Population list List iterator method chromosomes population remove protected Iterator	ListPopulation Iterator remove chromosomes population List Population
+782	block Brent original defined user criterion algorithm unwanted early implementation	BrentOptimizer User defined check block badly Brent Optimizer
+835	Fraction method double percentageValue percentage numerator Integer overflows greater MAX percentage	Fraction percentageValue rare overflow percentage
+841	gcd int Integer checksum Arithmetic Int rng nextInt Int tms long	gcd speed
+849	Gamma accuracy implementation ulps lead values tests resolution http NumericalNSWC Numerical NSWC	Precision improvement class Gamma
+878	test tests chi fit squared sense Log Test Likelihood LLR	Test Log Likelihood ratio LLR test math stat inference
+905	Math exp cosh sinh Fast Double overflow values FastMath Fast Math StrictMath Strict Math	FastMath cosh sinh support range values Math counterparts Fast Math
+915	random EmpiricalDistribution Empirical Distribution Empirical Data Random RandomDataImpl Random Data Impl RandomDataGenerator Random Data Generator protected field Distribution	compatibility broken EmpiricalDistribution Empirical Distribution
+1121	Optimizer Base doOptimize Optimize BrentOptimizer Brent Optimizer iteration defined iterations optimizer Optimize Brent	Brent optimizer doesn Base optimizer iteration counter

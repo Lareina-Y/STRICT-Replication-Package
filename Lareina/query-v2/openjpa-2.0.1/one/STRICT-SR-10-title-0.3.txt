@@ -1,0 +1,16 @@
+1613	class persistent superclass Superclass property persistence AbstractSuperclass Abstract Superclass SubclassPerson Subclass Person org Subclass	Exception thrown enhancing property access class abstract MappedSuperclass annotated properties Mapped Superclass
+1627	Account Transaction Order Column mtranseqno class TransactionId Transaction account PERSIST transactions	ORderBy ElementJoinColumn EmbeddedId wrong columns SQL ORder Element Join Column Embedded
+1699	Streaming support	Streaming Lob support
+1743	configuration ant anchor support	Tool configuration support EMF anchors
+1762	persistence PessimisticLockScope Pessimistic Lock Scope lock property scope Lock Scope small test remove	javax persistence lock scope EXTENDED doesn properly lock join tables
+1764	commons org enable BasicDataSource Basic Data Source Class databases Source DriverClassName Driver Class environment Basic	Automatically enable connection pooling unmanaged environments
+1765	problem key duplicate TableGenerator Table Generator TableJDBCSeq Table JDBCSeq Table threads multiple properly utilize	TableGenerator doesn properly utilize heavy stress Table Generator
+1784	commit Hash entity String Collection instance Entity private Localized class	Map updates flushed
+1830	writeExternal write External connection readExternal read External External Configuration toProperties Properties String Properties deserializes INVISIBLE	Deserialization EMF connectionPassword overwritten INVISIBLE connection Password
+1837	embedded Exception embedCollection embed Collection Collection EmbedOwner Embed Owner types EmbedValue Embed collection apache simple	ElementCollection Embeddable blob fails Oracle Element Collection
+1863	Object HSQLDB HSQL Blobs useGetObjectForBlobs Object Blobs	update HSQL dictionary HSQLDB
+1865	Bugs FindBugs Find Bugs entry keySet key Set Set entrySet entry Set enhancements Find key	inefficient keySet iterator entrySet iterator key Set entry Set
+1870	column account Column storage SQL blobs private byte BINARY type	Blob types override column definition Column annotation MySQL SQL
+1888	generics Kernel	Add generics Kernel
+1896	key persist identity existing file record database object code org	OpenJPA store POJOs record exists Open JPA
+1943	query Query lock SQL Entity semantic timeout wait issue plan	Query timeout hint honored consistently pessimistic lock issued database requires multi statements locking scheme

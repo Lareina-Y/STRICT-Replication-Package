@@ -1,0 +1,7 @@
+18	Zone generated thread Time NPE Test Exception return duplicate getTestDataTimeZoneBuilder Test Data Time Zone Builder	NPE DateTimeZoneBuilder Time Zone Builder
+21	Time DateTimeFormat Time Format time year Format bug parse DateTimeFormatter Time Formatter format result	DateTimeFormat parseInto miscalculates year Time Format parse
+28	GJChronology chronology LocalDate Local test getInstance Instance expectedEnd expected pass error Exception behaviour	Questionable behaviour GJChronology dates pass
+42	forOffsetHoursMinutes Offset Hours Minutes hour range Time Hours negative DateTimeZone Time Zone Minutes offset forOffsetMillis Offset Millis	DateTimeZone forOffsetHoursMinutes handle negative offset hour Time Zone Offset Hours Minutes
+43	min max offset Time Ensure apply DateTimeZone Time Zone valid	Ensure max min valid offset
+77	add time MutableDateTime Mutable Time addHours add Hours addDays add Days Time summer Months addMinutes add Minutes DateTimeZone Time Zone	addDays MutableDateTime add Days Mutable Time
+88	int DateTimeFieldType Time Field Type Partials Time invalid Partial hourOfDay hour Day Type hour clockhourOfDay clockhour Day	Constructing invalid Partials

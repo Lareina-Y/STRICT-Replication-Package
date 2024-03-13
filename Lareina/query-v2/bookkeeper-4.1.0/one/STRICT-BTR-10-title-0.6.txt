@@ -1,0 +1,21 @@
+55	SubscribeReconnectRetryTask Subscribe Reconnect Retry Task Hedwig HedwigSubscriber Hedwig Subscriber channel channelDisconnected channel Disconnected connection Retry retry Disconnected	SubscribeReconnectRetryTask retry subscription endlessly subscription created Subscribe Reconnect Retry Task
+247	ledger system bookkeeper detect underreplication	Detection replication
+248	underreplicated rereplicate subtask	Rereplicating replicated data
+272	failures idea failure automatic BookKeeper Book Keeper mechanism bookie notifications	Provide automatic mechanism bookie failures
+299	LedgerFragmentReplicator Ledger Fragment Replicator Replicator Replication replicating fragments Fragment	Provide LedgerFragmentReplicator replicate fragments LedgerChecker Ledger Fragment Replicator Ledger Checker
+300	ledger Directories Ledger format directories bookie	Create Bookie format command
+318	add code tick exceptions	Spelling mistake MultiCallback log message Multi Callback
+326	Deadlock ledger recovery thread	DeadLock ledger recovery Dead Lock
+330	bookkeeper hedwig BOOKKEEPER	System currentTimeMillis usage Hedwig current Time Millis
+336	ensemblesize bookies failure readTimeOut read Time Time failed time bookie	bookie readEntries time ensemble failed bookie read Entries
+337	bookies ensemble Bookies	Add entry fails MetadataVersionException ensemble morethan bookie failures Metadata Version Exception
+345	EntryLogger Entry Logger IOException Logger IOExceptions	Detect IOExceptions entrylogger bookie ledger dir
+346	ledger LedgerCache Ledger Cache Ledger	Detect IOExceptions LedgerCache bookie ledger dir Ledger Cache
+347	entries bookies client bookie	Provide mechanism detect bookie bookie clients
+355	ledger Ledger	Ledger recovery mark ledger closed case slow bookie ensemble recovery add
+431	COOKIES cookie	Duplicate definition COOKIES NODE
+447	LedgerCacheImpl Ledger Cache Impl ledger flushLedger flush Ledger flush Ledger flushed	Bookie fail recover flushed ledger flush acknowledged
+472	servers Bookie Autorecovery Monitoring	Provide option start Autorecovery Bookie Servers
+491	configuration hedwig doc parameters	Hedwig doc configuration
+498	Jenkins NPE build complaining	BookieRecoveryTest tearDown NPE Bookie Recovery Test tear
+514	test assert	TestDeadLock hanging Test Dead Lock

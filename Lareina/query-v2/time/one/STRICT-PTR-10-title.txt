@@ -1,0 +1,7 @@
+18	named NPE cVerbose Verbose Zone Builder DateTimeZoneBuilder Time Zone Builder Time duplicate thread verbose	NPE DateTimeZoneBuilder Time Zone Builder
+21	withLocale Locale Locale forPattern Pattern year Formatter MutableDateTime Mutable Time Time parseInto parse result Format	DateTimeFormat parseInto miscalculates year Time Format parse
+28	test expectedEnd expected pass start chronology Local dates LocalDate Local Questionable GJChronology	Questionable behaviour GJChronology dates pass
+42	negative offset hour handle DateTimeZone Time Zone forOffsetHoursMinutes Offset Hours Minutes Offset	DateTimeZone forOffsetHoursMinutes handle negative offset hour Time Zone Offset Hours Minutes
+43	valid min offset max apply Time Ensure DateTimeZone Time Zone	Ensure max min valid offset
+77	add Mutable Hours Days MutableDateTime Mutable Time addDays add Days Time time mdt addHours add Hours	addDays MutableDateTime add Days Mutable Time
+88	Partials constructed invoking Time suppose int Field Type Partial hour	Constructing invalid Partials

@@ -1,0 +1,7 @@
+18	Compiler test Verbose testDateTimeZoneBuilder test Time Zone Builder Time Precalculated DTZ thread getTestDataTimeZoneBuilder Test Data Time Zone Builder PrecalculatedZone Precalculated Zone	NPE DateTimeZoneBuilder Time Zone Builder
+21	withLocale Locale Locale test year Parse Formatter monthDay month Day format Time parse	DateTimeFormat parseInto miscalculates year Time Format parse
+28	equal assert equalTo equal GJChronology chronology Chronology assertThat assert	Questionable behaviour GJChronology dates pass
+42	Minutes offset Offset hour Hours Time	DateTimeZone forOffsetHoursMinutes handle negative offset hour Time Zone Offset Hours Minutes
+43	valid min offset method max apply limited Zone Time parse	Ensure max min valid offset
+77	addMinutes add Minutes Months addMonths add Months Minutes winter getMillis Millis summer Days Millis addDays add Days	addDays MutableDateTime add Days Mutable Time
+88	hourOfDay hour Day clockhourOfDay clockhour Day Types Type cases Partials Partial partials case clockhour	Constructing invalid Partials

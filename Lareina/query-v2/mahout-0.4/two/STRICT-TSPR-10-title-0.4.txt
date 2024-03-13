@@ -1,0 +1,16 @@
+526	building Builder Tree Stack DefaultTreeBuilder Default Tree Builder forest Default Overflow random Recursion	Infinite Recursion DefaultTreeBuilder Default Tree Builder
+552	NamedVectors Named Vectors Vectors AbstractCluster Abstract Cluster RandomAccessSparseVector Random Access Sparse Vector Random apache patch Abstract Cluster https	AbstractCluster eliminates NamedVectors replacing RandomAccessSparseVector Abstract Cluster Named Vectors Random Access Sparse Vector
+561	Test TestClassifier Test Classifier correctly handle parameters type Classifier command source	TestClassifier correctly handle type source command parameters Test Classifier
+564	KMeansClusterer KMeans Clusterer KMeans Clusterer distance convergence distanceThreshold distance Threshold Cluster testConvergence test Convergence clusters setting	KMeansClusterer distanceThreshold parameter testConvergence Iterable Cluster clusters double distanceThreshold method KMeans Clusterer distance Threshold test Convergence distance Threshold
+565	bit operations byte implementation shift feature hashed incorrectly shifted converted	Features incorrectly hashed Minhash
+576	preference userid setting update code count Diff remove calculation JDBCDiff	AbstractJDBCDiffStorage updateItemPref updating AVG incorrectly cases Abstract JDBCDiff Storage update Item Pref
+580	basePath base Path data dataSource data Source user Path BayesParameters Bayes Parameters base params Bayes InMemoryDataStore Memory Data Store	Missing basePath Bayes job InMemoryDataStore base Path Memory Data Store
+583	files file chunk directory create sequence data output overwrite	Loss data create sequence files directory
+602	apache Implementation operations wiki org cwiki Partial dataset throws https	Partial Implementation throws exceptions
+604	Classifier Bayes data exception tested throws fails training	Bayes Classifier fails data training data
+610	Row RowA Row Similarity RowPair Row Pair WeightedCoocurrenceArray Weighted Coocurrence Array RecommenderJob Recommender Job RowB Row cooccurences SimilarityReducer Similarity Reducer CoocurencesMapper Coocurences Mapper	Coocurrences SimilarityReducer Similarity Reducer
+614	FileOutputFormat File Output Format File getRecordWriter Record Writer Writer Task Output Hadoop work MultipleOutputFormat Multiple Output Format Record	org apache mahout classifier baytes MultipleOutputFormat working intended Hadoop Multiple Output Format
+625	attached point test support data pattern ready patterns incorrect higher	generated patterns support higher reality
+631	Weighted WeightedRunningAverage Weighted Running Average Running WeightedRunningAverageAndStdDev Weighted Running Average Std Dev weighted Std handling bug Average datum	Small bug WeightedRunningAverage add WeightedRunningAverageAndStdDev Weighted Running Average Weighted Running Average Std Dev
+641	Matrix Conf DistributedRowMatrix Distributed Row Matrix setConf set Conf TransposeJob Transpose Job TimesSquaredJob Times Squared Job Lanczos MatrixMultiplicationJob Matrix Multiplication Job Job method	DistributedRowMatrix hadoop jobs ignore Configuration set setConf Distributed Row Matrix set Conf
+678	MixedGradient Mixed Gradient Gradient Null negative carefully RankingGradient Ranking Gradient positive method Mixed patch	NullPointerException MixedGradient SGD algorithm Null Pointer Exception Mixed Gradient

@@ -1,0 +1,7 @@
+18	ThreadLocal Thread Local TestDTZ Test DTZ getTestDataTimeZoneBuilder Test Data Time Zone Builder PrecalculatedZone Precalculated Zone Boolean Zone testDateTimeZoneBuilder test Time Zone Builder FALSE Verbose Cutover	NPE DateTimeZoneBuilder Time Zone Builder
+21	feb startOfYear start Year month year Year monthDay month Day withLocale Locale Locale code Parse	DateTimeFormat parseInto miscalculates year Time Format parse
+28	Years expectedEnd expected minusYears Years expected equalTo equal chronology Local error assertThat assert LocalDate Local	Questionable behaviour GJChronology dates pass
+42	hour Hours Minutes offset forOffsetMillis Offset Millis accepted Millis mentioned Offset Time	DateTimeZone forOffsetHoursMinutes handle negative offset hour Time Zone Offset Hours Minutes
+43	min max	Ensure max min valid offset
+77	time addMinutes add Minutes add Years addHours add Hours MutableDateTime Mutable Time Europe DateTimeZone Time Zone Days Months	addDays MutableDateTime add Days Mutable Time
+88	hourOfDay hour Day int Type clockhour cases Partials constructed issue isEqual Equal constructor	Constructing invalid Partials

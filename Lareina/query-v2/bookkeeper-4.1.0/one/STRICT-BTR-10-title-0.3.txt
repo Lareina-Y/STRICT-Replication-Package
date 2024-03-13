@@ -1,0 +1,21 @@
+55	Reconnect subscribe channel channelDisconnected channel Disconnected subscription Disconnected SubscribeReconnectRetryTask Subscribe Reconnect Retry Task Subscriber HedwigSubscriber Hedwig Subscriber failure	SubscribeReconnectRetryTask retry subscription endlessly subscription created Subscribe Reconnect Retry Task
+247	ledger bookkeeper detect underreplication	Detection replication
+248	underreplicated rereplicate subtask	Rereplicating replicated data
+272	replication process failures documents multiple Keeper automatic BookKeeper Book Keeper approaches bookie	Provide automatic mechanism bookie failures
+299	LedgerFragmentReplicator Ledger Fragment Replicator Ledger Replicator Replication replicating fragments Fragment	Provide LedgerFragmentReplicator replicate fragments LedgerChecker Ledger Fragment Replicator Ledger Checker
+300	ledger Ledger format admin Journal bookie command Provide Directories path	Create Bookie format command
+318	add code tick exceptions	Spelling mistake MultiCallback log message Multi Callback
+326	ledger attached recovery thread	DeadLock ledger recovery Dead Lock
+330	server bookkeeper hedwig BOOKKEEPER	System currentTimeMillis usage Hedwig current Time Millis
+336	ledger entry read waiting failure readTimeOut read Time Time connection failed time	bookie readEntries time ensemble failed bookie read Entries
+337	ledger bookies ensemble Bookies Scenario	Add entry fails MetadataVersionException ensemble morethan bookie failures Metadata Version Exception
+345	Entry EntryLogger Entry Logger IOException Logger IOExceptions	Detect IOExceptions entrylogger bookie ledger dir
+346	ledger LedgerCache Ledger Cache Ledger Cache	Detect IOExceptions LedgerCache bookie ledger dir Ledger Cache
+347	bookies client choose bookie	Provide mechanism detect bookie bookie clients
+355	ledger Ledger doRecoveryRead Recovery Read reading ensemble Recovery bookie	Ledger recovery mark ledger closed case slow bookie ensemble recovery add
+431	AbstractZkLedgerManager Abstract Ledger Manager COOKIES cookie Ledger	Duplicate definition COOKIES NODE
+447	ledger server Ledger Clean recovery throws flushed bookie crash LedgerCacheImpl Ledger Cache Impl	Bookie fail recover flushed ledger flush acknowledged
+472	Auditor servers Bookie Autorecovery users Monitoring option	Provide option start Autorecovery Bookie Servers
+491	server configuration describing hedwig parameters	Hedwig doc configuration
+498	Jenkins build	BookieRecoveryTest tearDown NPE Bookie Recovery Test tear
+514	test assert	TestDeadLock hanging Test Dead Lock

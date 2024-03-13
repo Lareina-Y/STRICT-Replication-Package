@@ -1,0 +1,16 @@
+1613	Superclass Subclass superclass hierarchy Access inheritance consistent property persistence JPA	Exception thrown enhancing property access class abstract MappedSuperclass annotated properties Mapped Superclass
+1627	mtrancde TransactionId Transaction mtmnlno accountNumber account Number actualDate actual transactionCode transaction Code Transaction maccno mtranseqno transaction	ORderBy ElementJoinColumn EmbeddedId wrong columns SQL ORder Element Join Column Embedded
+1699	Streaming support Lob	Streaming Lob support
+1743	configuration ant work anchor Invoking anchors mappingtool support Tool EMF	Tool configuration support EMF anchors
+1762	Scope PESSIMISTIC scope lock Pessimistic Lock	javax persistence lock scope EXTENDED doesn properly lock join tables
+1764	databases DBCP dbcp Driver Data DriverClassName Driver Class	Automatically enable connection pooling unmanaged environments
+1765	Table TableJDBCSeq Table JDBCSeq TableGenerator Table Generator JDBCSeq	TableGenerator doesn properly utilize heavy stress Table Generator
+1784	Entity String hashCode hash Code ElementCollection Element Collection HashMap Hash Map Map LocalizedString Localized String MultilingualString Multilingual String private FetchType Fetch Type	Map updates flushed
+1830	Configuration String connectionPassword connection Password StringValue String ConfigurationImpl Configuration Impl Password	Deserialization EMF connectionPassword overwritten INVISIBLE connection Password
+1837	Collection ElementCollection Element Collection Owner Embed jdbc error embedCollection embed Collection Exception Embeddable blob	ElementCollection Embeddable blob fails Oracle Element Collection
+1863	HSQLDB HSQL	update HSQL dictionary HSQLDB
+1865	entrySet entry Set keySet key Set Find FindBugs Find Bugs Set entry key	inefficient keySet iterator entrySet iterator key Set entry Set
+1870	Column byte MySQL SQL BINARY column columnDefinition column Definition SQL	Blob types override column definition Column annotation MySQL SQL
+1888	Add generics Kernel	Add generics Kernel
+1896	file pre constructed SQLException created ReportingSQLException Reporting SQLException duplicate attempt unique locationString location String	OpenJPA store POJOs record exists Open JPA
+1943	Query query Entity EntityManagerImpl Entity Manager Impl locking lock QueryImpl Query Impl SQL	Query timeout hint honored consistently pessimistic lock issued database requires multi statements locking scheme
