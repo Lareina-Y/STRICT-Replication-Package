@@ -1,0 +1,21 @@
+55	subscription channel topic succeed subscribe auto recover recovery Subscribe retry	SubscribeReconnectRetryTask endlessly created Reconnect Retry Task
+247	ledger discusses bookkeeper underreplication system detect replication Detection entries JIRA	
+248	replicated underreplicated discusses rereplicate data Rereplicating entries subtask	
+272	bookie automatic mechanism documents Book BookKeeper attached replication approaches build	Provide failures
+299	Ledger LedgerFragmentReplicator fragments replication Keeper code Book BookKeeperAdmin worker requires	Provide replicate LedgerChecker Checker
+300	bookie command format path directories Journal Bookie znodes Directories paths	Create
+318	code Result mistake add process MultiCallback Callback Multi log tick	Spelling message
+326	ledger attached thread Dead recovery find dump Lock Deadlock DeadLock	
+330	server bookkeeper currentTimeMillis Time current usage Hedwig hedwig BOOKKEEPER Millis	System
+336	bookie read entries time ledger failed entry Start bookies switching	readEntries ensemble Entries
+337	ensemble Version Start entry Metadata Write fails failures bookie inprogress	Add MetadataVersionException morethan Exception
+345	bookie mode IOExceptions writable ledger Entry detect IOException iterate EntryLogger	Detect entrylogger dir
+346	ledger IOExceptions LedgerCache Ledger detect iterate configured bookie dir jira	Detect
+347	bookie client add mechanism bookies discuss writable detect choose	Provide clients
+355	ensemble ledger bookie recovery Ledger client written recover size case	mark closed slow add
+431	COOKIES Ledger definition Abstract AbstractZkLedgerManager NODE java cookie Manager Duplicate	
+447	ledger flush Ledger entries recover fail problem entry bookies violation	Bookie flushed acknowledged
+472	Bookie start process servers deployment overhead Auditor reduce bit Monitoring	Provide option Autorecovery Servers
+491	doc configuration hedwig parameters describing server properly Hedwig	
+498	NPE Test build tearDown Recovery complaining Bookie tear Jenkins BookieRecoveryTest	
+514	bad assert Dead hanging Test manager channel attached logs test	TestDeadLock Lock

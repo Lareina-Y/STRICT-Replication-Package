@@ -1,0 +1,42 @@
+59	MDT DateUtils Calendar hour Utils DST assertEquals Equals hours assert	lang truncate method buggy dealing switching
+259	ValuedEnum Enum typesafe values compareTo Valued classes int lang org	Object easily
+281	Time Duration Calendar set DurationFormatUtils result String MONTH Format Dec	returns wrong
+292	EntitiesTest test Test doTestUnescapeEntity reference Entity entity unescape xFFFF unescapeXml	
+295	length thisBuf Str StrBuilder Builder LANG Buf size shouldn places	usages
+299	str size width pad Pad Char method padChar Width strLen	Bug appendFixedWidthPadRight class StrBuilder ArrayIndexOutOfBoundsException append Fixed Str Builder Array Bounds Exception
+300	Number createNumber NumberFormatException Format string NumberUtils isDigits substring Exception Utils	throws digit long
+304	cAvailableLocaleSet Locale LocaleUtils Null FindBugs NullPointerException availableLocaleSet Find Exception Pointer	isAvailableLocale
+315	Time suspend time counter shouldn acts getTime bug StopWatch doesn	split
+328	Locale toLocale LocaleUtils language case country PropertyConverter POSIX string variant	rejects strings
+346	Calendar minutes test Time seconds getTimeZone Mon CDT println testCalendar	Dates behaves incorrectly
+363	String Escape Utils escape scripts script org Spring Java println	StringEscapeUtils escapeJavaScript method render uncorrectly Script
+365	BooleanUtils Boolean toBoolean case test String statement assert StringIndexOutOfBoundsException source	invalid drop
+368	locale Locale getDateInstance getDateTimeInstance case Instance Hash Format HashMap methods	FastDateFormat assume getDefault won change Fast Default
+380	Fraction loop reduce numerator pretty Summary infinite	
+393	compareTo Big compare BigDecimal EqualsBuilder Decimals comparing Decimal BigDecimals don	correctly
+412	Null Fixed appendFixedWidth null Builder pointer getNullText width handle exception	StrBuilder nulls Str
+419	string str Word String length StringIndexOutOfBoundsException upper abbreviate Bounds Exception	WordUtils bug greater Utils
+432	Bugs String Case insensitive locale string http sensitive html Bug	case handling
+457	Number createNumber StringIndexOutOfBoundsException String front Bounds Exception Utils NumberUtils don	thows passed
+477	format Format formatRegistry appendTo ExtendedMessageFormat code formattedPattern Extended String append	OutOfMemory custom registry pattern single quotes Memory
+480	String escapeHtml characters unicode utf StringEscapeUtils escape problem org byte	incorrectly converts FFFF
+521	Number number return isNumber Decimal hasDecPoint decimal Point Dec code	NumberUtils Return True Valid Trailing Place Utils
+538	Time Calendar test Format format TimeZone problem GregorianCalendar Zone GMT	DateFormatUtils correctly change situations Utils
+552	String replaceEach replacement replacementList case searchList Test StringUtils replace Utils	Bug Missing Documentation
+586	org web memory ToStringStyle String thread LANG application Style Thread	ThreadLocals HashCodeBuilder trigger leaks container environments Locals Hash Code Builder
+587	toClass Class Object NPE element array Utils ClassUtils throws null	
+638	Number createNumber String Exception StringIndexOutOfBoundsException NumberUtils Utils indicators passed NumberFormatException	throws argument
+645	week locale FastDateFormat Week format Format Locale Simple output SimpleDateFormat	outputs incorrect year isn respected
+662	Fraction case Integer getDenominator MIN test method code FractionTest void	org apache commons lang math reduce
+664	Number hasExp hasDecPoint code return String isNumber Dec Digit java	NumberUtils Utils
+677	isSameLocalTime Calendar Time assertFalse Utils DateUtils Local HOUR method False	work correct
+719	Format SimpleDateFormat pattern Java year FastDateFormat bug number Javadoc JDK	formats differently
+746	Number createNumber NumberFormatException Integer case NumberUtils Format Utils upper decode	handle hex
+747	Number Long createLong Integer numbers hex NumberUtils create createNumber handle	Hex
+788	Class Serialization ObjectInputStream ClassNotFoundException bug SerializationUtils primitiveType noformat Exception class	throws cloning classes
+805	Int code random start Random ends array empty gap length	RandomStringUtils count false false universe throws java lang ArrayIndexOutOfBoundsException String Utils Array Bounds Exception
+807	Random Utils lang Argument source nextInt IllegalArgumentException String Illegal start	RandomStringUtils throws confusing IAE
+822	Number BigDecimal createNumber Big behaviour Decimal work Java Format NumberUtils	bad leading
+831	FastDateParser FDP parse treat dates space parsed Format treats SDP	handle white properly
+832	format parse quotes Simple unterminated handle works Format Parser correctly	FastDateParser Fast
+882	String CharSequence Char work CharBuffer Buffer Map code hashCode equals	LookupTranslator accepts input fails implementations Lookup Translator

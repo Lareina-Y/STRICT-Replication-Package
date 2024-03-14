@@ -1,0 +1,7 @@
+18	Zone Time thread Builder ZoneInfoCompiler Zone Info Compiler Data Test getTestDataTimeZoneBuilder Test Data Time Zone Builder return DateTimeZoneBuilder Time Zone Builder	NPE
+21	Time time Equals Format joda year DateTimeFormat Time Format parseInto parse NEWYORK Locale	miscalculates
+28	chronology year job expectedEnd expected assertThat assert equalTo equal GJChronology LocalDate Local start Instance	Questionable behaviour dates pass
+42	DateTimeZone Time Zone Offset minutes documentation forOffsetHoursMinutes Offset Hours Minutes hour Hours range Millis Zone	handle negative offset
+43	max Zone DateTimeZone Time Zone Time min	Ensure valid offset
+77	Days mdt time Hours invocation System Start Millis getMillis Millis MutableDateTime Mutable Time	addDays add
+88	Partials hour hourOfDay hour Day Time Field int Day types DateTimeFieldType Time Field Type cases	Constructing invalid

@@ -1,0 +1,7 @@
+18	Time thread Zone generated java Test Verbose Builder testDateTimeZoneBuilder ZoneInfoCompiler	NPE
+21	year Time Locale time Format month DateTimeFormat startOfYear joda bug	parseInto miscalculates parse
+28	chronology equalTo GJChronology expectedEnd LocalDate year job start error assert	Questionable behaviour dates pass
+42	Offset Hours hour Time Minutes minutes documentation forOffsetHoursMinutes DateTimeZone range	handle negative offset
+43	max min offset method valid Time Zone DateTimeZone apply limited	Ensure
+77	MutableDateTime time addHours getMillis mdt Hours addDays Days Years Millis	
+88	hourOfDay hour Partials int Time Type clockhour Partial clockhourOfDay Types	Constructing invalid

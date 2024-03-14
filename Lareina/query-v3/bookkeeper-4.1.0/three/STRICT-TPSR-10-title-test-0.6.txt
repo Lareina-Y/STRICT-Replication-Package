@@ -1,0 +1,21 @@
+55	channel topic subscription Hedwig auto recovery connection Subscribe HedwigSubscriber retry	SubscribeReconnectRetryTask endlessly created Reconnect Retry Task
+247	system ledger bookkeeper replication underreplication discusses entries JIRA detect Detection	
+248	entries underreplicated data discusses subtask rereplicate replicated Rereplicating	
+272	bookie BookKeeper documents mechanism Keeper replication failures process automatic Book	Provide
+299	Ledger Replicator LedgerFragmentReplicator Fragment Keeper code fragments Book replicating replication	Provide replicate LedgerChecker Checker
+300	command bookie Directories paths path ledger format Ledger machine Journal	Create Bookie
+318	log Multi code LOG process error mistake Callback Error multi	Spelling MultiCallback message
+326	ledger thread Dead recovery dump attached Deadlock find DeadLock Lock	
+330	bookkeeper Time currentTimeMillis server hedwig Hedwig BOOKKEEPER usage Millis current	System
+336	time bookie failed entry failure ensemblesize Time quorumsize read entries	readEntries Entries
+337	Write ensemble bookies failures Metadata Version Start MetadataVersionException bookie entry	Add fails morethan
+345	IOException EntryLogger bookie ledger Entry IOExceptions Logger mode writable entrylogger	Detect dir
+346	ledger LedgerCache Ledger IOExceptions Cache jira dir detect bookie iterate	Detect
+347	bookie client add bookies clients entries mechanism detect choose writable	Provide
+355	ledger Ledger ensemble bookie Read client recovery case size NoSuchLedgerException	mark closed slow add
+431	COOKIES cookie Ledger AbstractZkLedgerManager Abstract definition Manager java NODE definitions	Duplicate
+447	Ledger ledger entry flush entries problem LedgerCacheImpl Entry flushLedger experience	Bookie fail recover flushed acknowledged
+472	start process Bookie servers overhead deployment reduce Auditor monitor Autorecovery	Provide option Servers
+491	configuration doc server properly parameters hedwig Hedwig describing	
+498	NPE Test BookieRecoveryTest Bookie Jenkins Recovery build tear tearDown complaining	
+514	manager test Dead bad Lock channel assert Test callback hanging	TestDeadLock
