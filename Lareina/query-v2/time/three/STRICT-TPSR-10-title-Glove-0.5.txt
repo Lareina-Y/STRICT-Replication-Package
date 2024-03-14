@@ -1,0 +1,7 @@
+18	Time Zone thread set Test Builder public ZoneInfoCompiler Zone Info Compiler getTestDataTimeZoneBuilder Test Data Time Zone Builder return	NPE DateTimeZoneBuilder Time Zone Builder
+21	time Time year joda month parseInto parse Format Equals DateTimeFormat Time Format bug	DateTimeFormat parseInto miscalculates year Time Format parse
+28	year start chronology job expectedEnd expected GJChronology time expected equalTo equal LocalDate Local	Questionable behaviour GJChronology dates pass
+42	Offset hour Time Hours minutes documentation Minutes DateTimeZone Time Zone forOffsetHoursMinutes Offset Hours Minutes negative	DateTimeZone forOffsetHoursMinutes handle negative offset hour Time Zone Offset Hours Minutes
+43	max apply Time DateTimeZone Time Zone offset Zone min valid method Ensure	Ensure max min valid offset
+77	time Days add mdt MutableDateTime Mutable Time Time getMillis Millis addHours add Hours Start Months	addDays MutableDateTime add Days Mutable Time
+88	Time Day Partials hour hourOfDay hour Day int Type case Field Types	Constructing invalid Partials

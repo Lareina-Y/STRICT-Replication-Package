@@ -1,0 +1,16 @@
+1613	access property Access field Superclass Exception JPA simple PROPERTY superclass	Exception thrown enhancing property access class abstract MappedSuperclass annotated properties Mapped Superclass
+1627	Transaction Column Account order transaction private columns String mamount class	ORderBy ElementJoinColumn EmbeddedId wrong columns SQL ORder Element Join Column Embedded
+1699	support Lob Streaming	Streaming Lob support
+1743	support Tool EMF work anchor configuration ant mappingtool anchors Invoking	Tool configuration support EMF anchors
+1762	scope lock table portion javax join relationship test unit small	javax persistence lock scope EXTENDED doesn properly lock join tables
+1764	Data Basic dbcp args connection databases today enable DriverClassName Driver Class apache	Automatically enable connection pooling unmanaged environments
+1765	problem Table key start threads testing stress row doesn unit	TableGenerator doesn properly utilize heavy stress Table Generator
+1784	String map Map Entity change LocalizedString Localized String entity private instance changed	Map updates flushed
+1830	connectionPassword connection Password connection String External EMF toProperties Properties StringValue String set writeExternal write External Password	Deserialization EMF connectionPassword overwritten INVISIBLE connection Password
+1837	Collection element blob types org Embeddable Oracle embedded Embed collection	ElementCollection Embeddable blob fails Oracle Element Collection
+1863	HSQLDB dictionary HSQL Object Blobs set useGetObjectForBlobs Object Blobs false update	update HSQL dictionary HSQLDB
+1865	Set iterator enhancements FindBugs Find Bugs code simple Find entry entrySet entry Set Bugs	inefficient keySet iterator entrySet iterator key Set entry Set
+1870	MySQL SQL Column column BINARY OPENJPA based annotation account types users	Blob types override column definition Column annotation MySQL SQL
+1888	generics Add Kernel	Add generics Kernel
+1896	record data key file database OpenJPA Open JPA set objects filesystem object	OpenJPA store POJOs record exists Open JPA
+1943	Query statements lock query data database timeout SQL requires EntityManagerImpl Entity Manager Impl	Query timeout hint honored consistently pessimistic lock issued database requires multi statements locking scheme

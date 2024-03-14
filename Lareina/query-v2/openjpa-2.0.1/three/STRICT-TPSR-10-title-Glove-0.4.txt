@@ -1,0 +1,16 @@
+1613	access property field Access Exception class Superclass JPA enhancer simple	Exception thrown enhancing property access class abstract MappedSuperclass annotated properties Mapped Superclass
+1627	Transaction Column transaction class Account private columns String mamount Number	ORderBy ElementJoinColumn EmbeddedId wrong columns SQL ORder Element Join Column Embedded
+1699	support Lob Streaming	Streaming Lob support
+1743	support Tool EMF work anchor configuration ant mappingtool anchors Invoking	Tool configuration support EMF anchors
+1762	scope test unit lock problem javax portion table EXTENDED relationship	javax persistence lock scope EXTENDED doesn properly lock join tables
+1764	Basic Data args dbcp connection Source Class databases enable today	Automatically enable connection pooling unmanaged environments
+1765	problem Table stress testing key threads properly start row unit	TableGenerator doesn properly utilize heavy stress Table Generator
+1784	map Map String entity Entity change LocalizedString Localized String class private instance	Map updates flushed
+1830	External connection connectionPassword connection Password set EMF Configuration Properties toProperties Properties StringValue String Map	Deserialization EMF connectionPassword overwritten INVISIBLE connection Password
+1837	element types Collection Argument error blob org Oracle fields Embeddable	ElementCollection Embeddable blob fails Oracle Element Collection
+1863	HSQLDB Object set HSQL dictionary update Blobs useGetObjectForBlobs Object Blobs false	update HSQL dictionary HSQLDB
+1865	iterator Set enhancements simple FindBugs Find Bugs entry Find key entrySet entry Set Bugs	inefficient keySet iterator entrySet iterator key Set entry Set
+1870	MySQL SQL column Column account users existing OPENJPA annotation size BINARY	Blob types override column definition Column annotation MySQL SQL
+1888	generics Add Kernel	Add generics Kernel
+1896	record data key database file OpenJPA Open JPA objects filesystem field set	OpenJPA store POJOs record exists Open JPA
+1943	Query query database data statements lock requires timeout EntityManagerImpl Entity Manager Impl QueryImpl Query Impl	Query timeout hint honored consistently pessimistic lock issued database requires multi statements locking scheme
