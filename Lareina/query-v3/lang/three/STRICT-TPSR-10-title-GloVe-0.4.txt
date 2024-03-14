@@ -1,0 +1,42 @@
+59	MDT DAY hour switching Utils DST result DateUtils Utils method Equals	lang DateUtils truncate method buggy dealing DST switching hours Utils
+259	values typesafe ValuedEnum Valued Enum Object classes Enum Valued int lang org	ValuedEnum compareTo Object typesafe easily Valued Enum compare
+281	Calendar set Time result Duration DurationFormatUtils Duration Format Utils System String current Dec	DurationFormatUtils returns wrong result Duration Format Utils
+292	test Test Entity doTestUnescapeEntity Test Unescape Entity reference entity EntitiesTest Entities Test Exception Number Unescape	unescapeXml unescape Xml
+295	length Str thisBuf Buf StrBuilder Str Builder Builder noticed reference LANG places mistaken	StrBuilder usages thisBuf length size Str Builder Buf
+299	size Pad width str Char pad method obj Fixed appendFixedWidthPadRight append Fixed Width Pad	Bug method appendFixedWidthPadRight class StrBuilder ArrayIndexOutOfBoundsException append Fixed Width Pad Str Builder Array Bounds Exception
+300	Number NumberFormatException Number Format Exception return works Format createNumber create Number numeric fine string Exception	NumberUtils createNumber throws NumberFormatException digit long Number Utils create Number Number Format Exception
+304	Null Exception Set source Locale NullPointerException Null Pointer Exception Pointer called pointed Bugs	NullPointerException isAvailableLocale Locale Null Pointer Exception Locale
+315	time Time counter shouldn opinion acts split bug increase resume	StopWatch suspend acts split Watch
+328	case language country Locale toLocale Locale code LocaleUtils Locale Utils POSIX variant string	LocaleUtils toLocale rejects strings language variant Locale Utils Locale
+346	test minutes Time Calendar seconds Mon CDT wrong appears println	Dates behaves incorrectly minutes seconds
+363	Escape Script Utils String escape document script find Java org	StringEscapeUtils escapeJavaScript method escape render uncorrectly String Escape Utils escape Java Script
+365	case toBoolean Boolean Boolean BooleanUtils Boolean Utils statement test Exception follow source String	BooleanUtils toBoolean invalid drop case statement StringIndexOutOfBoundsException Boolean Utils Boolean String Bounds Exception
+368	Instance locale case Locale key Time Format test Fast getDateTimeInstance Time Instance	FastDateFormat getDateInstance getDateTimeInstance assume Locale getDefault won change Fast Format Instance Time Instance Default
+380	Fraction reduce loop pretty numerator Summary infinite	infinite loop Fraction reduce numerator
+393	Big compare compareTo compare BigDecimal Big Decimal case comparing Decimal don Decimals correctly	EqualsBuilder don compare BigDecimals correctly Equals Builder Big Decimals
+412	pointer Fixed Null set null appendFixedWidth append Fixed Width handle Builder getNullText Null Text width	StrBuilder appendFixedWidth handle nulls Str Builder append Fixed Width
+419	length string String str Bounds upper StringIndexOutOfBoundsException String Bounds Exception Word throw greater	WordUtils abbreviate bug greater str length Word Utils
+432	Bugs Case String case http locale Common string html Bug	case insensitive string handling
+457	Number String Exception StringIndexOutOfBoundsException String Bounds Exception front place Bounds createNumber create Number Utils don	NumberUtils createNumber thows StringIndexOutOfBoundsException passed Number Utils create Number String Bounds Exception
+477	Extended code Format format ExtendedMessageFormat Extended Message Format String Message CURRENT start formatRegistry format Registry	ExtendedMessageFormat OutOfMemory custom format registry pattern single quotes Extended Message Format Memory
+480	characters problem unicode data String escape public org Exception escapeHtml escape Html	StringEscapeUtils escapeHtml incorrectly converts unicode characters FFFF characters String Escape Utils escape Html
+521	return Number number Point Dec code isNumber Number block Exp trailing	NumberUtils isNumber Return True Valid Number Trailing Decimal Place Number Utils Number
+538	Time Calendar Format test format Zone problem change time set	DateFormatUtils format correctly change Calendar TimeZone situations Format Utils Time Zone
+552	case replacement Test String code replaceEach replace List StringUtils String Utils Utils result	StringUtils replaceEach Bug Missing Documentation String Utils replace
+586	memory Style web application org reference created ToStringStyle String Style String thread	ThreadLocals ToStringStyle HashCodeBuilder trigger memory leaks container environments Thread Locals String Style Hash Code Builder
+587	Class element Object toClass Class array NPE Utils throws null ClassUtils Class Utils	ClassUtils toClass Object throws NPE null array element Class Utils Class
+638	Number Exception String StringIndexOutOfBoundsException String Bounds Exception createNumber create Number passed Utils NumberUtils Number Utils indicators NumberFormatException Number Format Exception	NumberUtils createNumber throws StringIndexOutOfBoundsException argument passed Number Utils create Number String Bounds Exception
+645	week Format Week Simple locale set year Fast FastDateFormat Fast Format number	FastDateFormat format outputs incorrect week year locale isn respected Fast Format
+662	Integer method case code MIN test Fraction Reduced void getReducedFraction Reduced Fraction	org apache commons lang math Fraction reduce Integer MIN
+664	return Number code String change hasExp Exp allowing isNumber Number Dec Digit	NumberUtils isNumber String String Number Utils Number
+677	Time Calendar isSameLocalTime Local Time Local Utils HOUR DateUtils Utils DAY method work	DateUtils isSameLocalTime work correct Utils Local Time
+719	pattern year Format Java Simple SimpleDateFormat Simple Format number format bug Fast	FastDateFormat formats year differently SimpleDateFormat Java Fast Format Simple Format
+746	Number case NumberFormatException Number Format Exception Integer work createNumber create Number Format Utils upper equally	NumberUtils handle upper case hex Number Utils
+747	Long Number Integer numbers hex handle create createLong create Long createNumber create Number Hex	NumberUtils handle Long Hex numbers Number Utils
+788	Class Exception class ClassNotFoundException Class Exception noformat Serialization SerializationUtils Serialization Utils Input Object Type	SerializationUtils throws ClassNotFoundException cloning primitive classes Serialization Utils Class Exception
+805	start ends code Int user array exception random size length	RandomStringUtils random count false false universe random throws java lang ArrayIndexOutOfBoundsException Random String Utils Array Bounds Exception
+807	Random source String Utils problem Argument confusing lang Illegal IllegalArgumentException Illegal Argument Exception	RandomStringUtils throws confusing IAE start Random String Utils
+822	Number Big BigDecimal Big Decimal behaviour work leading createNumber create Number create problem contrary	NumberUtils createNumber bad behaviour leading Number Utils create Number
+831	space FDP FastDateParser Fast Parser parse Format Simple dates parsed Fast SDP	FastDateParser handle white space properly Fast Parser
+832	Simple format parse handle Format quotes unterminated correctly Fast FastDateParser Fast Parser	FastDateParser handle unterminated quotes correctly Fast Parser
+882	work code CharSequence Char Sequence Sequence Char String implemented CharBuffer Char Buffer object Code	LookupTranslator accepts CharSequence input fails work implementations String Lookup Translator Char Sequence
