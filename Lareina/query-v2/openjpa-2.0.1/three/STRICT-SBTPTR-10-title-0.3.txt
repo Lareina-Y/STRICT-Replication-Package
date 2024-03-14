@@ -1,0 +1,16 @@
+1613	class Superclass property Subclass superclass persistent SubclassPerson Subclass Person AbstractSuperclass Abstract Superclass annotated access	Exception thrown enhancing property access class abstract MappedSuperclass annotated properties Mapped Superclass
+1627	Column Transaction ElementJoinColumn Element Join Column TransactionId Transaction Order class Account PERSIST EmbeddedId Embedded transactions	ORderBy ElementJoinColumn EmbeddedId wrong columns SQL ORder Element Join Column Embedded
+1699	Streaming support Lob	Streaming Lob support
+1743	configuration anchor ant support EMF Tool mappingtool anchors	Tool configuration support EMF anchors
+1762	lock persistence scope Lock PessimisticLockScope Pessimistic Lock Scope Scope ManyToMany relationship property join	javax persistence lock scope EXTENDED doesn properly lock join tables
+1764	enable commons BasicDataSource Basic Data Source dbcp databases org DBCP Class environment unmanaged	Automatically enable connection pooling unmanaged environments
+1765	Table TableJDBCSeq Table JDBCSeq TableGenerator Table Generator key problem properly JDBCSeq duplicate doesn utilize	TableGenerator doesn properly utilize heavy stress Table Generator
+1784	Map map String commit Localized Hash change hash bug UPDATE	Map updates flushed
+1830	connection connectionPassword connection Password writeExternal write External serialized deserializes External Password readExternal read External Configuration INVISIBLE	Deserialization EMF connectionPassword overwritten INVISIBLE connection Password
+1837	Embeddable embedded embedCollection embed Collection blob collection Collection EmbedValue Embed Embed embeddable Exception	ElementCollection Embeddable blob fails Oracle Element Collection
+1863	HSQLDB HSQL Object dictionary useGetObjectForBlobs Object Blobs update Blobs false set	update HSQL dictionary HSQLDB
+1865	keySet key Set entrySet entry Set Set entry Bugs iterator FindBugs Find Bugs inefficient key enhancements	inefficient keySet iterator entrySet iterator key Set entry Set
+1870	column Column BINARY account SQL byte columnDefinition column Definition types storage blobs	Blob types override column definition Column annotation MySQL SQL
+1888	generics Kernel Add	Add generics Kernel
+1896	key existing record OpenJPA Open JPA database persist identity JPA object primary	OpenJPA store POJOs record exists Open JPA
+1943	Query lock timeout query SQL wait plan honored Entity semantic	Query timeout hint honored consistently pessimistic lock issued database requires multi statements locking scheme

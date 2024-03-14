@@ -1,0 +1,60 @@
+60	Fraction Parse Format ProperFractionFormat Proper Fraction Format parse source pos function Proper Function	math Function math fraction ProperFractionFormat parse String ParsePosition return illogical result Proper Fraction Format Parse Position
+85	Simple Errors reg SimpleRegression Simple Regression Regression Sum getSumSquaredErrors Sum Squared Errors assert testSimpleRegression test Simple Regression Squared	math SimpleRegression getSumSquaredErrors Simple Regression Sum Squared Errors
+167	ConvergenceException Convergence Exception Convergence cumulativeProbability cumulative Probability Distribution CDF Exception cumulative NormalDistributionImpl Normal Distribution Impl throws Probability	ConvergenceException normal CDF Convergence Exception
+175	test chi Chi Square Test sum observed expected testStatistic test Statistic squared	chiSquare double expected long observed returning incorrect test statistic chi Square
+198	Format ComplexFormat Complex Format Complex String substring Parse StringIndexOutOfBoundsException String Bounds Exception startIndex start imaginary parse	java lang StringIndexOutOfBoundsException ComplexFormat parse String source ParsePosition pos String Bounds Exception Complex Format Parse Position
+200	Parameters guessParametersErrors guess Parameters Errors AbstractEstimator Abstract Estimator parameters Covariances getCovariances Covariances Errors bound estimation int	AbstractEstimator getCovariances guessParametersErrors crash bound parameters Abstract Estimator Covariances guess Parameters Errors
+209	length vector RealMatrixImpl Real Matrix Impl Matrix matrix result operate commons Real org	RealMatrixImpl operate result vector dimensions wrong Real Matrix Impl
+221	Complex code equals method complex comp multiply class numbers res	Result multiplying equals complex numbers wrong
+238	Math MathUtils Math Utils Utils gcd fails powers assertEquals assert Equals test Equals high	MathUtils gcd fails high power Math Utils
+241	Math binomial MathUtils Math Utils binomialCoefficient binomial Coefficient Integer Coefficient test Utils Big int	MathUtils binomialCoefficient fails large Math Utils binomial Coefficient
+259	Object API object Exception fail Frequency getCount Count add OBJ getCumFreq Cum Freq	Bugs Frequency API
+273	Simplex tableau SimplexTableau Simplex Tableau entry code basic variable Tableau assuming suite	Basic variable correctly simplex tableau
+274	positive symmetric conditions matrix exception test CholeskyDecomposition Cholesky Decomposition definite catch exceptions	testing symmetric positive definite matrix CholeskyDecomposition Cholesky Decomposition
+318	Eigen Vectors decomposition refEigenVectors Eigen Vectors eigenValues eigen Values Values computed eigen refEigenValues Eigen Values Vector	wrong result eigen decomposition
+322	event bug step integration function occurrence close events special occurs	ODE integration event pair close event detected
+326	norm max Vector code ArrayRealVector Array Real Vector OpenMapRealVector Open Map Real Vector Norm Iterator Real getLInfNorm LInf Norm	getLInfNorm wrong formula ArrayRealVector OpenMapRealVector ways LInf Norm Array Real Vector Open Map Real Vector
+329	getPct Pct Pct Comparable getCumPct Cum Pct Frequency Object values change cummulative Returns	stat Frequency getPct Object getCumPct Comparable getPct Comparable Pct Cum Pct Pct
+338	step Integrator method Step scale initialize size initializeStep initialize Step parameter application	Wrong parameter step size guess Embedded Runge Kutta methods
+344	returns final max min Function yMax Max bracket Min Max solver	Brent solver returns wrong bracket endpoint root
+358	integration integrator Integrator DerivativeException Derivative Exception range Derivatives Exception yDot Dot ode Derivative	ODE integrator integration range
+362	VectorialConvergenceChecker Vectorial Convergence Checker LevenbergMarquardtOptimizer Levenberg Marquardt Optimizer Vectorial Optimizer Levenberg Marquardt custom ignores criteria parameter	LevenbergMarquardtOptimizer ignores VectorialConvergenceChecker parameter passed Levenberg Marquardt Optimizer Vectorial Convergence Checker
+369	BisectionSolver Bisection Solver solve Solver Bisection Null Univariate Method UnivariateRealFunction Univariate Real Function UnivariateRealSolverImpl Univariate Real Solver Impl NullPointerException Null Pointer Exception	BisectionSolver solve final UnivariateRealFunction double min double max double initial throws NullPointerException Bisection Solver Univariate Real Function Null Pointer Exception
+371	Correlation PearsonsCorrelation Pearsons Correlation MATH cumulativeProbability cumulative Probability getCorrelationPValues Correlation PValues problem cumulative Pearsons machine cumulativeProbabilty cumulative Probabilty	PearsonsCorrelation getCorrelationPValues precision limited machine epsilon Pearsons Correlation Correlation PValues
+377	AbstractLeastSquares Abstract Squares observation Abstract Squares getChiSquare Chi Square weight WEIGHTS getRMS RMS Square RMS	weight sigma AbstractLeastSquares Abstract Squares
+393	Result getResult Result method MultiStartUnivariateRealOptimizer Multi Start Univariate Real Optimizer Optimizer result optimizer Multi code return	Method getResult MultiStartUnivariateRealOptimizer Result Multi Start Univariate Real Optimizer
+482	FastMath Fast Math Max Fast testMinMaxFloat test Min Max Float test max Math Float bug doubles	FastMath max Fast Math
+546	KMeansPlusPlusClusterer KMeans Clusterer Clusterer int bug KMeans clusterer Empty variable points chooseInitialClusters choose Initial Clusters	Truncation issue KMeansPlusPlusClusterer KMeans Clusterer
+552	MultidimensionalCounter Multidimensional Counter counter Counter getCounts Counts int println Counts Multidimensional Output String	MultidimensionalCounter getCounts int returns wrong array indices Multidimensional Counter Counts
+554	cross Vector crossProduct cross Product code vectors answer formulas implementation Product println	Vector crossProduct sensitive numerical cancellation cross Product
+567	Dfp method DfpField Dfp Field field toDouble Double class Double significand Field test	class Dfp toDouble method return inf whan Dfp Double
+618	code NaN Subtract Complex isNaN add java arithmetic test result	Complex Add Subtract handle NaN arguments differently javadoc contracts
+631	RegulaFalsiSolver Regula Falsi Solver Solver Regula Math Univariate solver Real code Falsi testBug test Bug	RegulaFalsiSolver failure Regula Falsi Solver
+679	OpenMapRealMatrix Open Map Real Matrix overflow Matrix code heap compute access integer vulnerability matrix	Integer overflow OpenMapRealMatrix Open Map Real Matrix
+691	Variance stats SummaryStatistics Summary Statistics setVarianceImpl set Variance Impl getStandardDeviation Standard Deviation int code Statistics java Summary	Statistics setVarianceImpl getStandardDeviation produce NaN set Variance Impl Standard Deviation
+695	events reinitialization resets event unit breaks track accepted handling bug	Incomplete reinitialization events handling
+704	method length work Variance int math evaluate methods double grabs	Variance evaluate methods work correctly
+713	restrict variables Solver MINIMIZE Simplex restrictToNonnegative restrict Nonnegative SimplexSolver Simplex Solver GoalType Goal Type coefficients flag	Negative restrictNonNegative restrict Negative
+716	Bracketing BracketingNthOrderBrentSolver Bracketing Nth Order Brent Solver maxIterationCount max Iteration Count Order Iteration Nth bracket Brent side Solver	BracketingNthOrderBrentSolver exceeds maxIterationCount updating boundary Bracketing Nth Order Brent Solver max Iteration Count
+722	Complex tanh FastMath Fast Math sinh cosh real number create big problem	math Complex Tanh big numbers
+727	size integrators step function Bulirsch compute Kutta range integration Runge	large step embedded Runge Kutta integrators Dormand Prince
+776	ElitisticListPopulation Elitistic List Population elitismRate elitism Rate Rate Elitistic constructors range Elitism setting elitism Population	range checks elitismRate ElitisticListPopulation constructors elitism Rate Elitistic List Population
+778	int FieldElement Field Element Field contract Dfp multiply method math org class	Dfp Dfp multiply int comply general contract FieldElement multiply int Field Element
+779	ListPopulation List Population list List iterator method Iterator Population population returns chromosomes	ListPopulation Iterator remove chromosomes population List Population
+781	SimplexSolver Simplex Solver Simplex Solver math problem commons bad optimeze test simple	SimplexSolver bad Simplex Solver
+803	RealVector Real Vector OpenMapRealVector Open Map Real Vector Vector ebeMultiply ebe Multiply iter code Real checkVectorDimensions check Vector Dimensions ebe entries	Bugs RealVector ebeMultiply RealVector ebeDivide RealVector Real Vector ebe Multiply Real Vector ebe Divide Real Vector
+835	Fraction method percentageValue percentage double percentage MAX Integer fraction numerator bug	Fraction percentageValue rare overflow percentage
+836	Fraction fraction maxDenominator max Denominator testing int double fractions math Denominator numbers	Fraction double int constructor strange behaviour
+844	Harmonic ParameterGuesser Parameter Guesser HarmonicFitter Harmonic Fitter Parameter optimization parameter fails package amplitude guess	HarmonicFitter ParameterGuesser fails return values Harmonic Fitter Parameter Guesser
+859	isSupportXxxInclusive Support Xxx Inclusive interface RealDistribution Real Distribution Support Distribution deprecate Inclusive Xxx Real message	deprecate isSupportXxxInclusive RealDistribution interface Support Xxx Inclusive Real Distribution
+865	MAX bounds FitnessFunction Fitness Function parameters NaN bound upper fitness normalizing Fitness	Wide bounds CMAESOptimizer result NaN parameters passed fitness function
+867	bound bounds range fits finely precision CMAESOptimizer coarsely interval numbers	CMAESOptimizer bounds fits finely bound coarsely upper bound
+904	pow Math FastMath Fast Math POWER power Jeff Fast integer values exponent	FastMath pow deviates Math pow negative finite base values exponent Fast Math
+929	Multivariate double MultivariateNormalDistribution Multivariate Normal Distribution Distribution density Assert code odd assertEquals assert Equals dimension	MultivariateNormalDistribution density double returns wrong dimension odd Multivariate Normal Distribution
+934	Complex complex return org reciprocal NaN math returns apache commons	Complex reciprocal returns NaN return INF
+935	atan Math cases FastMath Fast Math DerivativeStructure Derivative Structure special properly values Derivative handle	DerivativeStructure atan handle special cases properly Derivative Structure
+942	sample Discrete DiscreteDistribution Discrete Distribution type list class Pair Distribution exception int	DiscreteDistribution sample int throw exception element singletons class type Discrete Distribution
+949	Optimizer iterations LevenbergMarquardtOptimizer Levenberg Marquardt Optimizer Iterations Levenberg Evaluations Eval Marquardt otim test	LevenbergMarquardtOptimizer reports iterations Levenberg Marquardt Optimizer
+988	intersection SubLine lines Exception fixes twod implementations test patch calling	NPE calling SubLine intersection intersecting lines
+1005	linearCombination linear Combination MathArrays Math Arrays Array Arrays Math Combination length linear multiplication prodHighNext prod High	ArrayIndexOutOfBoundsException MathArrays linearCombination Array Bounds Exception Math Arrays linear Combination
+1021	HypergeometricDistribution Hypergeometric Distribution sample Hypergeometric Distribution integer Number Sample Size return math	HypergeometricDistribution sample suffers integer overflow Hypergeometric Distribution

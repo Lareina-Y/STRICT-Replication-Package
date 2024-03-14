@@ -1,0 +1,16 @@
+1613	property access class Exception Superclass Mapped Subclass JPA field MappedSuperclass Mapped Superclass	Exception thrown enhancing property access class abstract MappedSuperclass annotated properties Mapped Superclass
+1627	Column Transaction TransactionId Transaction ElementJoinColumn Element Join Column transaction columns class EmbeddedId Embedded maccno private	ORderBy ElementJoinColumn EmbeddedId wrong columns SQL ORder Element Join Column Embedded
+1699	Lob Streaming support	Streaming Lob support
+1743	support anchor configuration EMF mappingtool Tool work ant anchors Invoking	Tool configuration support EMF anchors
+1762	lock scope javax Lock persistence table relationship test unit problem	javax persistence lock scope EXTENDED doesn properly lock join tables
+1764	connection dbcp databases enable args unmanaged Data Basic DBCP DriverClassName Driver Class	Automatically enable connection pooling unmanaged environments
+1765	Table problem doesn TableGenerator Table Generator properly threads TableJDBCSeq Table JDBCSeq stress JDBCSeq testing	TableGenerator doesn properly utilize heavy stress Table Generator
+1784	Map map String LocalizedString Localized String entity Localized Entity private update change	Map updates flushed
+1830	connectionPassword connection Password connection EMF External Password deserializes set StringValue String INVISIBLE serialized	Deserialization EMF connectionPassword overwritten INVISIBLE connection Password
+1837	blob Embeddable org Oracle element EmbedValue Embed Collection embedCollection embed Collection openjpa Embed	ElementCollection Embeddable blob fails Oracle Element Collection
+1863	HSQLDB HSQL dictionary Object useGetObjectForBlobs Object Blobs update set Blobs false	update HSQL dictionary HSQLDB
+1865	iterator keySet key Set entrySet entry Set Set enhancements FindBugs Find Bugs entry key Bugs Find	inefficient keySet iterator entrySet iterator key Set entry Set
+1870	column Column MySQL SQL types annotation OPENJPA columnDefinition column Definition SQL account storage	Blob types override column definition Column annotation MySQL SQL
+1888	generics Kernel Add	Add generics Kernel
+1896	OpenJPA Open JPA record database data key store JPA merge objects filesystem	OpenJPA store POJOs record exists Open JPA
+1943	Query query timeout lock statements SQL database Impl QueryImpl Query Impl EntityManagerImpl Entity Manager Impl	Query timeout hint honored consistently pessimistic lock issued database requires multi statements locking scheme

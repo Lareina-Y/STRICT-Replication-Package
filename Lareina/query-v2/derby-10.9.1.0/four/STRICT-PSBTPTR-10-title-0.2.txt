@@ -1,0 +1,24 @@
+1400	DRDAStatement cleanup issues purpose pkgcnstkn pkgnamcsn org code required pkgid	Cleanup code network server DRDAStatement class
+4279	statement cache Thread Statement thread LOCK lock deadlock table TABLE	Statement cache deadlock
+5232	directories README log file files database directory warn backup users	stern README file log seg directories warn users corrpution touch files
+5561	Connection Physical Null checkForNullPhysicalConnection check Null Physical Connection check LogicalConnection Logical Connection conditions member null Phsyical	Race conditions LogicalConnection checking null physical connection Logical Connection
+5854	Brokered BrokeredCallableStatement Brokered Callable Statement Callable issue test methods unused Test Statement	Test methods BrokeredCallableStatement Brokered Callable Statement
+5896	tabs spaces drda code java files script bash file options	Change java drda source code spaces tabs clean tab creep java client
+5911	query COFFEES condition PRICE FETCH COF fetch rows subqueries limits	condition pushed query FETCH
+5927	methods utility URL attributes change Connection Add EmbedConnection Embed Connection code Embed	Add utility methods query URL attributes EmbedConnection Embed Connection
+5930	setup RawStore Raw Store Encryption method Store Raw setupEncryptionEngines setup Encryption Engines change typos feature	Reformat RawStore setupEncryptionEngines Raw Store setup Encryption Engines
+5933	sorting SQL result query database JDBC records GUI Netbeans Hibernate	SQL sorting error
+5955	Derby Java JEP Platform Profiles Profile applications built Connected Compact	Prepare Derby Compact Profiles JEP
+5996	files readme database creation users release time higher creates create	Create readme files cautioning users modifying database files database hard upgrade time
+6000	support JDBC java Derby maintenance JDK build public openjdk jeps	Implement support JDBC
+6008	ORDER set order query desc row paren expression result operand	ORDER FETCH OFFSET set operands
+6009	ORDER column error numbers clause values position query SELECT VALUES	stricter checking ORDER clause VALUES expressions
+6044	table descriptions issue names download break word release ids long	poor word breaking table download
+6053	Transaction Server Connection Client set Isolation Network network server Statement	Client prepared statement regular statement Connection setTransactionIsolation set Transaction Isolation
+6063	variables class static access code Row Control ControlRow Control Row analysis trouble	Access static variables class TabInfoImpl InsertResultSet ControlRow Tab Info Impl Insert Result Set Control Row
+6064	test tests maintenance upgrade job routines suites don upgradeTests upgrade Tests releasing	Failures upgradeTests cardinality statistics upgrade Tests
+6086	connection Test StatementPoolingTest Statement Pooling Test Pooling jdbcapi custom Statement logic testing common	Factor logic creating custom connection jdbcapi StatementPoolingTest Statement Pooling Test
+6089	Type int registerOutParameter register Parameter Parameter typeName type client type sqlType sql Type Prepared NVARCHAR	CallableStatement registerOutParameter client lacks check legal types Callable Statement register Parameter
+6094	Manager Driver Derby DriverManager Driver Manager timeout ignores case setting login set	Derby ignores DriverManager setLoginTimeout Driver Manager set Login Timeout
+6147	ClosedObjectTest Closed Object Test fails Java WJj ZZFFKgap CCADjEm CCADj CCADj Closed running Test	ClosedObjectTest fails branch running Java Closed Object Test
+6150	connections Connection connection open opened locks Default openDefaultConnection open Default Connection database cleaned	Add automatic cleanup connections opened openDefaultConnection open Default Connection

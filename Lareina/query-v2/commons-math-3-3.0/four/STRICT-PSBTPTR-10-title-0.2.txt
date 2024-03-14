@@ -1,0 +1,16 @@
+641	distance method Implement segements methods calculates class Segments lines Lines	Implement distance methods Lines Segments
+718	Probability method returns Binomial inverseCumulativeProbability inverse Cumulative Probability Cumulative Distribution BinomialDistributionImpl Binomial Distribution Impl trials problem	inverseCumulativeProbability BinomialDistribution returns wrong large trials inverse Cumulative Probability Binomial Distribution
+764	sample Random RandomGenerator Random Generator Sampler interface Distribution Generator generator method createSampler create Sampler	sample API accept RandomGenerator parameter Random Generator
+775	ListPopulation List Population populationLimit population Limit population Population occur check constructor number List greater	ListPopulation constructor check negative populationLimit occur List Population population Limit
+776	elitismRate elitism Rate ElitisticListPopulation Elitistic List Population Rate List range Elitistic setting method check Elitism	range checks elitismRate ElitisticListPopulation constructors elitism Rate Elitistic List Population
+777	CrossoverPolicy Crossover Policy Crossover OnePointCrossover Point Crossover Policy Chromosomes Point Ordered needed	CrossoverPolicy needed Crossover Policy
+778	int multiply contract Field Dfp FieldElement Field Element method Element math org	Dfp Dfp multiply int comply general contract FieldElement multiply int Field Element
+779	ListPopulation List Population List iterator list method Population returns Iterator population protected	ListPopulation Iterator remove chromosomes population List Population
+782	user criterion block Brent implementation original algorithm addition defined exit	BrentOptimizer User defined check block badly Brent Optimizer
+835	method Fraction percentage double percentageValue percentage overflows fraction result converting numerator	Fraction percentageValue rare overflow percentage
+841	gcd checksum Integer int rng Int test System Arithmetic method	gcd speed
+849	accuracy values Gamma implementation ulps MATH NSWC logGamma log Gamma improvement Precision	Precision improvement class Gamma
+878	test Likelihood chi ratio tests Log Test LLR squared fit	Test Log Likelihood ratio LLR test math stat inference
+905	Math exp FastMath Fast Math cosh sinh values overflow Fast Double Jeff	FastMath cosh sinh support range values Math counterparts Fast Math
+915	Data Distribution random EmpiricalDistribution Empirical Distribution Empirical class RandomDataImpl Random Data Impl Random compatibility problem	compatibility broken EmpiricalDistribution Empirical Distribution
+1121	Optimizer Base iteration BrentOptimizer Brent Optimizer Brent iterations doOptimize Optimize optimizer Optimize BaseOptimizer Base Optimizer	Brent optimizer doesn Base optimizer iteration counter

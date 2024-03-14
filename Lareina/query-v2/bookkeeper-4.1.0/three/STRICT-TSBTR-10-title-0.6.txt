@@ -1,0 +1,21 @@
+55	channel retry Retry Hedwig connection channelDisconnected channel Disconnected subscription HedwigSubscriber Hedwig Subscriber topic Disconnected	SubscribeReconnectRetryTask retry subscription endlessly subscription created Subscribe Reconnect Retry Task
+247	ledger detect underreplication system discusses bookkeeper replication entries Detection JIRA	Detection replication
+248	underreplicated rereplicate data discusses entries replicated Rereplicating subtask	Rereplicating replicated data
+272	bookie BookKeeper Book Keeper automatic documents failures replication idea start mechanism failure	Provide automatic mechanism bookie failures
+299	Ledger fragments Fragment replicating Replicator LedgerFragmentReplicator Ledger Fragment Replicator replication Keeper code Book	Provide LedgerFragmentReplicator replicate fragments LedgerChecker Ledger Fragment Replicator Ledger Checker
+300	ledger Directories Ledger directories path format bookie command paths Journal	Create Bookie format command
+318	log tick mistake add error multi code Multi LOG Error	Spelling mistake MultiCallback log message Multi Callback
+326	ledger Deadlock recovery Dead attached thread find dump Lock DeadLock Dead Lock	DeadLock ledger recovery Dead Lock
+330	bookkeeper BOOKKEEPER server currentTimeMillis current Time Millis Time hedwig current usage Hedwig Millis	System currentTimeMillis usage Hedwig current Time Millis
+336	failed time Time failure bookie bookies read entries ledger entry	bookie readEntries time ensemble failed bookie read Entries
+337	bookies Write failures ensemble Bookies write Version Start fails entry	Add entry fails MetadataVersionException ensemble morethan bookie failures Metadata Version Exception
+345	IOExceptions IOException EntryLogger Entry Logger bookie mode Logger writable ledger Entry detect	Detect IOExceptions entrylogger bookie ledger dir
+346	ledger LedgerCache Ledger Cache Ledger IOExceptions detect iterate configured bookie dir jira	Detect IOExceptions LedgerCache bookie ledger dir Ledger Cache
+347	bookie bookies add client detect clients choose writable mechanism required	Provide mechanism detect bookie bookie clients
+355	ledger Ledger Read ensemble bookie recovery client written recover size	Ledger recovery mark ledger closed case slow bookie ensemble recovery add
+431	COOKIES cookie Ledger definition Abstract AbstractZkLedgerManager Abstract Ledger Manager NODE java Manager Duplicate	Duplicate definition COOKIES NODE
+447	flush Ledger ledger entry flushed LedgerCacheImpl Ledger Cache Impl entries recover Entry fail	Bookie fail recover flushed ledger flush acknowledged
+472	servers process Bookie start reduce overhead Autorecovery separate bit Auditor	Provide option start Autorecovery Bookie Servers
+491	configuration hedwig doc properly server parameters describing Hedwig	Hedwig doc configuration
+498	NPE build Jenkins Test complaining tear Bookie BookieRecoveryTest Bookie Recovery Test Recovery tearDown tear	BookieRecoveryTest tearDown NPE Bookie Recovery Test tear
+514	test Dead assert bad manager channel Test hanging Lock attached	TestDeadLock hanging Test Dead Lock

@@ -1,0 +1,7 @@
+18	Time Zone thread Test getTestDataTimeZoneBuilder Test Data Time Zone Builder test Builder return java TestDTZ Test DTZ	NPE DateTimeZoneBuilder Time Zone Builder
+21	Time time year Format DateTimeFormat Time Format Locale Equals Year format monthDay month Day	DateTimeFormat parseInto miscalculates year Time Format parse
+28	chronology GJChronology job equalTo equal LocalDate Local start year expectedEnd expected Field Exception	Questionable behaviour GJChronology dates pass
+42	Offset hour negative forOffsetHoursMinutes Offset Hours Minutes Time range Hours minutes DateTimeZone Time Zone documentation	DateTimeZone forOffsetHoursMinutes handle negative offset hour Time Zone Offset Hours Minutes
+43	max min Zone DateTimeZone Time Zone Time limited offset apply Ensure method	Ensure max min valid offset
+77	time addHours add Hours MutableDateTime Mutable Time add addDays add Days Days Hours Time getMillis Millis System	addDays MutableDateTime add Days Mutable Time
+88	int hourOfDay hour Day Type Partials java throws Time hour Partial Day	Constructing invalid Partials

@@ -1,0 +1,16 @@
+641	distance Implement methods method Segments lines Lines segements calculates point	Implement distance methods Lines Segments
+718	Binomial BinomialDistributionImpl Binomial Distribution Impl method inverseCumulativeProbability inverse Cumulative Probability Probability returns Cumulative wrong Impl Distribution	inverseCumulativeProbability BinomialDistribution returns wrong large trials inverse Cumulative Probability Binomial Distribution
+764	sample Sampler generator RandomGenerator Random Generator Sample Random interface method methods RealDistribution Real Distribution	sample API accept RandomGenerator parameter Random Generator
+775	population populationLimit population Limit Population ListPopulation List Population constructor check Limit List occur negative	ListPopulation constructor check negative populationLimit occur List Population population Limit
+776	elitismRate elitism Rate Elitism Elitistic ElitisticListPopulation Elitistic List Population elitism Rate range constructors check List	range checks elitismRate ElitisticListPopulation constructors elitism Rate Elitistic List Population
+777	CrossoverPolicy Crossover Policy Crossover Policy Ordered Point needed Chromosomes OnePointCrossover Point Crossover	CrossoverPolicy needed Crossover Policy
+778	Dfp FieldElement Field Element int contract method multiply Field limitation Element math	Dfp Dfp multiply int comply general contract FieldElement multiply int Field Element
+779	list List ListPopulation List Population iterator Population population Iterator method chromosomes returns	ListPopulation Iterator remove chromosomes population List Population
+782	Brent block criterion code Optimizer BrentOptimizer Brent Optimizer implementation algorithm defined check	BrentOptimizer User defined check block badly Brent Optimizer
+835	percentage percentageValue percentage method Fraction fraction numerator bug result double rare	Fraction percentageValue rare overflow percentage
+841	Int Integer int gcd ArithmeticUtils Arithmetic Utils checksum nanoTime nano Time Arithmetic rng nano	gcd speed
+849	logGamma log Gamma Numerical Gamma values improvement function accuracy NumericalNSWC Numerical NSWC Precision tested	Precision improvement class Gamma
+878	test Test tests wikipedia ratio case Log Likelihood chi LLR	Test Log Likelihood ratio LLR test math stat inference
+905	sinh cosh FastMath Fast Math Math StrictMath Strict Math exp values log Infinity double	FastMath cosh sinh support range values Math counterparts Fast Math
+915	EmpiricalDistribution Empirical Distribution RandomDataImpl Random Data Impl Empirical compatibility class Data Distribution Random RandomDataGenerator Random Data Generator broken	compatibility broken EmpiricalDistribution Empirical Distribution
+1121	Optimizer Optimize Brent Base iteration optimizer count doOptimize Optimize iter counter	Brent optimizer doesn Base optimizer iteration counter
