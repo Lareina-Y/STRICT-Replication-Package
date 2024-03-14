@@ -1,0 +1,13 @@
+bug method appendFixedWidthPadRight class StrBuilder append Fixed Width Pad Str Builder
+public StrBuilder appendFixedWidthPadRight Object obj int width char padChar width ensureCapacity size width Str Builder append Fixed Width Pad pad Char ensure Capacity
+String str obj null
+getNullText Null Text
+obj toString String
+int strLen str length str Len
+strLen width str getChars strLen buffer size BUG str Len Chars str Len
+str getChars width buffer size int padLen width strLen Chars pad Len str Len
+str getChars strLen buffer size Chars str Len
+int
+padLen pad Len
+buffer size strLen padChar size width return causing ArrayIndexOutOfBoundsException method unusable strLen width str Len pad Char Array Bounds Exception str Len
+counterpart method appendFixedWidthPadLeft append Fixed Width Pad Left

@@ -1,0 +1,8 @@
+computed EigenDecompositionImpl wrong Eigen Decomposition Impl
+case computed Fortran Lapack fails version code public void testMathpbx double mainTridiagonal test Mathpbx main Tridiagonal
+double secondaryTridiagonal reference values computed routine DSTEMR fortran library LAPACK version double refEigenValues secondary Tridiagonal Eigen Values
+RealVector refEigenVectors ArrayRealVector double ArrayRealVector double ArrayRealVector double ArrayRealVector double ArrayRealVector double ArrayRealVector double ArrayRealVector double triggers exception EigenDecomposition decomposition EigenDecompositionImpl mainTridiagonal secondaryTridiagonal MathUtils SAFE MIN Real Vector Eigen Vectors Array Real Vector Array Real Vector Array Real Vector Array Real Vector Array Real Vector Array Real Vector Array Real Vector Eigen Decomposition Eigen Decomposition Impl main Tridiagonal secondary Tridiagonal Math Utils
+double eigenValues decomposition getRealEigenvalues eigen Values Real Eigenvalues
+int
+refEigenValues length assertEquals refEigenValues eigenValues Eigen Values assert Equals Eigen Values eigen Values
+refEigenVectors dotProduct decomposition getEigenvector assertEquals refEigenVectors add decomposition getEigenvector getNorm assertEquals refEigenVectors subtract decomposition getEigenvector getNorm code Eigen Vectors dot Product Eigenvector assert Equals Eigen Vectors Eigenvector Norm assert Equals Eigen Vectors Eigenvector Norm

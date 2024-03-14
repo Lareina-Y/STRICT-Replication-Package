@@ -1,0 +1,12 @@
+infinity norm finite dimensional vector max absolute entries
+current implementation ArrayRealVector typo code public double getLInfNorm double max Array Real Vector LInf Norm
+double
+data max Math max max Math abs return max code
+sadly unit test assuring correct behavior effectively regression test test correctness
+Worse implementation OpenMapRealVector positive semi definite code public double getLInfNorm double max Open Map Real Vector LInf Norm
+Iterator iter entries iterator
+iter hasNext iter advance
+max iter return max code method moved AbstractRealVector superclass implemented sparseIterator code public double getLInfNorm double norm Abstract Real Vector sparse Iterator LInf Norm
+Iterator Entry sparseIterator sparse Iterator
+Entry
+hasNext null norm Math max norm Math abs getValue return norm code Unit tests negative valued vectors helpful check kind future

@@ -1,0 +1,10 @@
+OpenMapRealVector ebeMultiply RealVector OpenMapRealVector ebeDivide RealVector return wrong values entry RealVector nan infinity Open Map Real Vector ebe Multiply Real Vector Open Map Real Vector ebe Divide Real Vector Real Vector
+bug easy understand
+current implementation ebeMultiply code java public OpenMapRealVector ebeMultiply RealVector checkVectorDimensions getDimension ebe Multiply Open Map Real Vector ebe Multiply Real Vector check Vector Dimensions Dimension
+OpenMapRealVector res OpenMapRealVector Open Map Real Vector Open Map Real Vector
+Iterator iter entries iterator
+iter hasNext iter advance
+res setEntry iter key iter getEntry iter key return res code assumption double holds true set Entry Entry
+bug easy identify complex solve
+solution loop entries entries correspond entries
+afraid performance losses

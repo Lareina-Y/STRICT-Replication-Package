@@ -1,0 +1,12 @@
+serializable object reference primitive class
+int class int class SerializationUtils throw ClassNotFoundException clone object noformat import org apache commons lang SerializationUtils Serialization Utils Class Exception Serialization Utils
+import org junit Test
+public class SerializationUtilsTest Test public void primitiveTypeClassSerialization Class primitiveType int class Serialization Utils Test primitive Type Class Serialization primitive Type
+Class clone SerializationUtils clone primitiveType Serialization Utils primitive Type
+assertEquals primitiveType clone noformat problem reported java bug http bugs sun view bug bug ObjectInputStream fixed java version assert Equals primitive Type Object Input Stream
+SerializationUtils problem arises SerializationUtils internally ClassLoaderAwareObjectInputStream overrides ObjectInputStream resoleClass method delegating super method case ClassNotFoundException Serialization Utils Serialization Utils Class Loader Aware Object Input Stream Object Input Stream resole Class Class Exception
+understand intention ClassLoaderAwareObjectInputStream implementation implement fallback original implementation Class Loader Aware Object Input Stream
+noformat protected Class resolveClass ObjectStreamClass desc throws IOException ClassNotFoundException String desc getName resolve Class Object Stream Class Class Exception
+return Class forName false classLoader catch ClassNotFoundException return Class forName false Thread currentThread getContextClassLoader catch Exception return super resolveClass desc noformat code ObjectInputStream fixed java bug noformat protected Class resolveClass ObjectStreamClass desc throws IOException ClassNotFoundException String desc getName class Loader Class Exception current Thread Context Class Loader resolve Class Object Input Stream resolve Class Object Stream Class Class Exception
+return Class forName false latestUserDefinedLoader catch ClassNotFoundException Class Class primClasses latest User Defined Loader Class Exception prim Classes
+null return throw noformat

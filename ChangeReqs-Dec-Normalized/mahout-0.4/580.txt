@@ -1,0 +1,14 @@
+Reported user Pierre Mage
+issue trunk
+dataSource option hdfs org apache mahout classifier data Source
+Classify problem InMemoryBayesDatastore basePath param defined Memory Bayes Datastore base Path
+edited Classify
+
+hdfs equals dataSource data Source
+params set basePath modelBasePath base Path model Base Path
+InMemoryDataStore expects set HBaseDataStore Memory Data Store HBase Data Store
+takes base path table separately param
+InMemoryDataStore doesn Memory Data Store
+adjusted correct
+centralized handling Bayes params BayesParameters processed class Bayes Parameters
+attached elaborate patch reflects

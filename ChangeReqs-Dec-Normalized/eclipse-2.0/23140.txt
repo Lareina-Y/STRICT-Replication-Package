@@ -1,0 +1,22 @@
+Tested Linux gtk Mac Carbon Iall versions vulnerable shared codebase implementation
+Description problem
+Eclipse ships pure java based ssh client cvs
+enabled selecting extssh method authentication cvs repository
+client supplied SSH client supports password authentication users standard ext method public key authentication suitable ssh agent pagent openssh
+Eclipse extssh component history host
+enables attacker poison resolution eclipse client steal passwords modified ssh daemon server control
+Steps Reproduce
+
+Set access external cvs repository extssh password preferably username doesn exist locally notme
+Close eclipse
+
+Edit hosts point ssh server localhost
+Open eclipse choose browse repository cvs perspective
+
+logs messages
+sshd
+Failed illegal user notme xxx xxx xxx xxx port xxxx sshd
+Failed password illegal user notme xxx xxx xxx xxx port xxxx log var log log case Mandrake Expected
+prompt key changed
+malicious user gain access valuable accounts Workaround
+ssh client public ext method

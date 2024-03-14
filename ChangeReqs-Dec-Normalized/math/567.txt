@@ -1,0 +1,8 @@
+bug toDouble method Dfp class Double
+Dfp toDouble method returns negative infini Double
+double returned exposant equal xFFF significand equal FFF
+IEEE inf
+equal exposant significand equal
+simple test case import org apache commons math dfp DfpField Dfp Field
+public class test param args public static void main String args DfpField field DfpField Dfp Field Dfp Field
+System println toDouble getZero field getZero toDouble toDouble newDfp field newDfp toDouble simplest test equality toDouble method return correctly signed Double Double Double Dfp Dfp Double Double

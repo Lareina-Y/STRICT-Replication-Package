@@ -1,0 +1,10 @@
+Typical bank Account Transactions
+legacy Transaction compound key represented TransactionId class Transaction
+problem order generated SQL columns mapped transaction entity TransacionId expected Transacion
+Account class fragment OneToMany fetch FetchType LAZY cascade CascadeType PERSIST ElementJoinColumn maccno referencedColumnName maccno OrderBy processDate ASC tranSequenceNumber ASC private LinkedList Transaction transactions processDate tranSequenceNumber defined TransactionId class Fetch Type Cascade Type Element Join Column referenced Column Order process tran Sequence Number Linked List process tran Sequence Number Transaction
+Transaction fragment EmbeddedId private TransactionId Column mtrancde private int transactionCode Column mamount private BigDecimal amount Column mdesc private String description Column mactdate private actualDate Column mbranch private int branch Embedded Transaction transaction Code Big Decimal actual
+TransactionId defines primary key columns Embeddable public class TransactionId Column maccno private String accountNumber Column mprocdate private processDate Column mtranseqno private int tranSequenceNumber Transaction Transaction account Number process tran Sequence Number
+generated SQL order columns mapped Transaction
+executing prepstmnt SELECT maccno mprocdate mtranseqno mactdate mamount mbranch mchqcash mdesc mtmnlno mtrancde mtrnfeed transaction maccno
+ORDER mamount ASC mbranch ASC params String idea chose mamount mbranch
+ORDER mprocdate ASC mtranseqno ASC params String Michael

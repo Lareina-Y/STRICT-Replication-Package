@@ -1,0 +1,27 @@
+Build Identifier
+org eclipse ecf remoteservice rest
+ECF remote service API access remote REST service
+resources created POST request
+successful creation remote resource service returns HTTP stauts code Created falls Successful category HTTP status codes
+invokeRemoteCall method RestClientService checks HTTP status throws exception status code invoke Remote Call Rest Client Service
+logic extended bit status codes
+Reproducible
+
+Steps Reproduce
+Sample code method local couchdb
+String dbUrl COUCH URL sample database Url
+IContainerFactory containerFactory Activator getDefault getContainerFactory IContainer Factory container Factory Default Container Factory
+IContainer container containerFactory createContainer REST CONTAINER TYPE dbUrl container Factory create Container Url
+IRemoteServiceClientContainerAdapter adapter IRemoteServiceClientContainerAdapter container getAdapter IRemoteServiceClientContainerAdapter class IRemote Service Client Container Adapter IRemote Service Client Container Adapter Adapter IRemote Service Client Container Adapter
+IRemoteCallParameter parameters RemoteCallParameterFactory createParameters body null IRemote Call Parameter Remote Call Parameter Factory create Parameters
+HttpPutRequestType requestType HttpPutRequestType HttpPutRequestType STRING REQUEST ENTITY text plain Http Request Type request Type Http Request Type Http Request Type
+String uuid
+IRemoteCallable callable RestCallableFactory createCallable createDocument uuid parameters requestType IRemote Callable Rest Callable Factory create Callable create Document request Type
+String serviceInterfaceNames String ICouchDB class getName service Interface Names ICouch
+IRemoteCallable remoteCallables IRemoteCallable callable IRemote Callable remote Callables IRemote Callable
+IRemoteServiceRegistration registration adapter registerCallables serviceInterfaceNames remoteCallables null IRemote Service Registration register Callables service Interface Names remote Callables
+IRemoteService remoteService adapter getRemoteService registration getReference IRemote Service remote Service Remote Service Reference
+Object callParameters Object Dirk Olmes call Parameters
+IRestCall restCall RestCallFactory createRestCall ICouchDB class getName createDocument callParameters IRest Call rest Call Rest Call Factory create Rest Call ICouch create Document call Parameters
+Object result remoteService callSync restCall remote Service call Sync rest Call
+System println result

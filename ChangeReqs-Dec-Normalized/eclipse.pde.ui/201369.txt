@@ -1,0 +1,17 @@
+stumbled testing Adam patch bug
+Steps reproduce
+
+Create Plug Project template
+
+Switch Extension Point tab
+
+Add Extension Point
+
+Schema editor opens Manifest Editor
+Save file
+
+Delete schema
+Note object
+appears side fixing selection work area
+problem underlying listeners unregistered
+Schema file deleted plug listeners Manifest Editor removed updates listeners removed

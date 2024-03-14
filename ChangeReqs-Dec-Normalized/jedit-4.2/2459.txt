@@ -1,0 +1,12 @@
+size open save dialog incorrectly calculated restored dialog displayed display dual display system Windows
+Basically dialog opens secondary display previous size position lost
+tests performed explore behaviour
+dialog appears primary display width correctly calculated restore previous settings
+adjustments dialog primary display correctly restored opening dialog
+behaviour expect
+dialog appears secondary display previous size position settings lost
+width dialog determined minimum width tree component dialog attachment
+resizing dialog dialog secondary display lost time open
+abnormal behaviour
+dialog opened secondary display resized dragged primary display
+size position settings restored open

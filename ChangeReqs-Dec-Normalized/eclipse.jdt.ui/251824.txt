@@ -1,0 +1,27 @@
+Build
+
+Steps Reproduce
+
+Enable save actions remove trailing whitespace correct indentation
+
+Create class add comment
+
+Hit return times add blank lines comment
+
+Save
+
+Note trailing whitespace
+
+Disable remove trailing whitespace
+
+edit blank lines save
+
+Note trailing whitespace
+
+bug
+undesirable leave trailing whitespace user chooses remove
+coding style check files don trailing whitespace naturally doesn exemptions comments
+trimming whitespace correcting indentation involves adding trailing whitespace blank lines comment
+option formatter find comments indented character
+unrelated hit return comment doesn trailing whitespace isn indented
+undesirable padding comments whitespace isn good solution

@@ -1,0 +1,79 @@
+litmus WebDAV compliance test suite produces couple warnings copymove group tests Web DAV
+output tomcat trunk env TESTS copymove litmus http localhost webdav running copymove
+
+init
+pass
+
+
+pass
+
+copy init
+pass
+
+copy simple
+WARNING
+COPY resource didn
+pass warning
+
+copy overwrite
+pass
+
+copy cleanup
+pass
+
+copy coll
+pass
+
+move
+WARNING
+MOVE resource didn
+pass warning
+
+move coll
+pass
+
+move cleanup
+pass
+
+finish
+pass summary copymove
+tests
+passed failed
+warnings issued
+patch warnings env TESTS copymove litmus http localhost webdav running copymove
+
+init
+pass
+
+
+pass
+
+copy init
+pass
+
+copy simple
+pass
+
+copy overwrite
+pass
+
+copy cleanup
+pass
+
+copy coll
+pass
+
+move
+pass
+
+move coll
+pass
+
+move cleanup
+pass
+
+finish
+pass summary copymove
+tests
+passed failed
+

@@ -1,0 +1,25 @@
+Created attachment details
+Suggested bugfix
+Build
+cvs head today
+Steps Reproduce
+
+Install plugin multiple versions packaged Eclipse installation Runtime Workbench
+
+Open view PDE Runtime Plug Registry Registry Browser
+
+Expand plugin versions
+location differ
+
+org plugin points plugins org plugin jar
+org plugin points plugins org plugin jar
+org plugin points plugins org plugin jar
+org plugin points plugins org plugin jar
+
+bug
+RegistryBrowserContentProvider identifes items displayed solely symbolic Bundle version account Registry Browser Content Provider
+content provider identification bundle
+bundle reference bundleId bundle
+easy
+fPluginMap BundleId Object BundleSymbolicName Object Plugin Map Bundle Bundle Symbolic
+attached patch

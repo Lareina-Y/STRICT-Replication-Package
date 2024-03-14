@@ -1,0 +1,149 @@
+cases deadlock occurred
+created internal breakpoint calling
+JDIDebugModel createMethodEntryBreakpoint JDIDebug Model create Method Entry Breakpoint
+deadlock freeze entire
+
+situation summarized
+
+thread main thread process displaying GUI component
+
+dialog
+
+processing component triggers debugger call
+JDIDebugModel createMethodEntryBreakpoint set internal breakpoint JDIDebug Model create Method Entry Breakpoint
+
+process creating method entry breakpoint
+WorkbenchContentProvider resourceChanged IResourceChangeEvent executed Workbench Content Provider resource Changed IResource Change Event
+calls Display syncExec Runnable sync Exec
+
+deadlock
+discussed issue folks JDT team
+team reemphasize points
+
+Delay displaying GUI component valid solution
+displaying GUI component triggers rest
+reaction chain
+
+process displaying GUI component pending
+required GUI component completed
+breakpoint creation
+including thread snapshots deadlock occurred
+main thread
+Thread main Suspended
+DispatchMessageW MSG Dispatch Message
+native method
+DispatchMessage MSG Dispatch Message
+
+Display readAndDispatch read Dispatch
+
+Workbench runEventLoop Window IExceptionHandler Display Event Loop IException Handler
+
+Workbench runUI
+
+Workbench createAndRunWorkbench Display WorkbenchAdvisor create Workbench Workbench Advisor
+
+PlatformUI createAndRunWorkbench Display WorkbenchAdvisor Platform create Workbench Workbench Advisor
+
+IDEApplication Object
+
+PlatformActivator Object Platform Activator
+
+EclipseStarter Object Eclipse Starter
+
+EclipseStarter String Runnable Eclipse Starter
+
+NativeMethodAccessorImpl invoke Method Object Object Native Method Accessor Impl
+
+native method
+NativeMethodAccessorImpl invoke Object Object Native Method Accessor Impl
+
+NativeMethodAccessorImpl invoke Method Object Object Native Method Accessor Impl
+
+DelegatingMethodAccessorImpl invoke Method Object Object Delegating Method Accessor Impl
+
+Method invoke Object Object
+
+Main basicRun String basic
+
+Main String
+
+Main main String
+
+thread responsible creation java method entry
+breakpoint
+Thread org eclipse jdt debug
+JDI Event Dispatcher Suspended
+Semaphore Object wait long int
+native method
+Semaphore Object wait long
+
+Semaphore acquire long
+
+UISynchronizer syncExec Runnable sync Exec
+
+Display syncExec Runnable sync Exec
+
+WorkbenchContentProvider resourceChanged IResourceChangeEvent Workbench Content Provider resource Changed IResource Change Event
+
+NotificationManager Notification Manager
+
+InternalPlatform ISafeRunnable Internal Platform ISafe Runnable
+
+Platform ISafeRunnable ISafe Runnable
+
+NotificationManager notify ResourceChangeListenerList ListenerEntry Notification Manager Resource Change Listener List Listener Entry
+IResourceChangeEvent boolean IResource Change Event
+
+NotificationManager broadcastChanges ElementTree int boolean Notification Manager broadcast Element Tree
+
+Workspace broadcastChanges int boolean broadcast
+
+Workspace endOperation ISchedulingRule boolean IProgressMonitor Operation IScheduling Rule IProgress Monitor
+
+
+Workspace IWorkspaceRunnable ISchedulingRule int IWorkspace Runnable IScheduling Rule
+IProgressMonitor IProgress Monitor
+
+JavaMethodEntryBreakpoint JavaBreakpoint ISchedulingRule Java Method Entry Breakpoint Java Breakpoint IScheduling Rule
+IWorkspaceRunnable IWorkspace Runnable
+
+JavaMethodEntryBreakpoint init IResource String String String Java Method Entry Breakpoint
+int int int int boolean Map
+
+JDIDebugModel createMethodEntryBreakpoint IResource String String JDIDebug Model create Method Entry Breakpoint
+String int int int int boolean Map
+
+WSAJavaMethodEntryBreakpoint setBreakpoint IResource IDebugTarget WSAJava Method Entry Breakpoint set Breakpoint IDebug Target
+
+
+WSAJavaMethodEntryBreakpoint WSAJavaMethodBreakpoint setTemporaryBreakpoint IResource IDebugTarget WSAJava Method Entry Breakpoint WSAJava Method Breakpoint set Temporary Breakpoint IDebug Target
+
+WSABreakpointManager setMethodEntryBreakpoint String String String WSABreakpoint Manager set Method Entry Breakpoint
+
+
+WSAJavaThread handleBreakpointHit IBreakpoint WSAJava Thread handle Breakpoint Hit
+
+WSAJavaThread handleDebugEvents DebugEvent WSAJava Thread handle Debug Events Debug Event
+
+WSAJavaDebugTarget filterJavaEvents DebugEvent WSAJava Debug Target filter Java Events Debug Event
+
+WSAJavaDebugTarget filterDebugEvents DebugEvent WSAJava Debug Target filter Debug Events Debug Event
+
+DebugPlugin EventNotifier Debug Plugin Event Notifier
+
+InternalPlatform ISafeRunnable Internal Platform ISafe Runnable
+
+Platform ISafeRunnable ISafe Runnable
+
+DebugPlugin EventNotifier dispatch DebugEvent Debug Plugin Event Notifier Debug Event
+
+DebugPlugin fireDebugEventSet DebugEvent Debug Plugin fire Debug Event Set Debug Event
+
+EventDispatcher fireEvents Event Dispatcher fire Events
+
+EventDispatcher dispatch EventSet Event Dispatcher Event Set
+
+EventDispatcher Event Dispatcher
+
+Thread
+

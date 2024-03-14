@@ -1,0 +1,15 @@
+Fraction constructor Fraction double int takes double int maximal denominator approximates fraction
+double large negative number digits fractional maximal denominator big positive integer distinct bugs manifest
+
+constructor returns positive Fraction
+Calling Fraction returns fraction wrong sign absolute
+constructor manage reduce Fraction properly
+Calling Fraction returns fraction reduced
+solution
+constructor
+public Fraction double int maxDenominator throws FractionConversionException maxDenominator Increasing max iterations problem cases max Denominator Fraction Conversion Exception max Denominator
+Changing epsilon maximum allowed error small work breaks tests FractionTest Fraction Test
+problem neccissarily algorithm unable approximate fraction correctly
+solution FractionConversionException thrown examples solution improvement approximation algorithm turns hard find Fraction Conversion Exception
+bug explore idea axiom based testing http bldl uib testing html
+Attached java test class FractionTestByAxiom junit org apache commons math fraction bugs simplified approach kind testing text file describing maxDenominator combinations failures documentation Fraction class guarantees completely reduced rational numbers constructed comment equals method claims fractions lowest terms numerators compared equality intention Fraction Test Axiom max Denominator

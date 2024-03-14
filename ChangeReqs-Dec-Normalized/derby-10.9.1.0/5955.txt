@@ -1,0 +1,7 @@
+waiting Java module system aka project Jigsaw decided define subsets Java Platform Specification JEP http openjdk java net jeps
+quote JEP broadly feature intended enable migration applications built top Java Connected Device Configuration CDC Profiles Java Platform long term effort converge CDC Java good Derby limited profiles
+current proposal places JDBC Compact Profile
+link libraries Derby
+javax naming JNDI Profile larger
+good Derby smallest posible platform
+Profile involve Derby gracefully limit functionality libraries missing

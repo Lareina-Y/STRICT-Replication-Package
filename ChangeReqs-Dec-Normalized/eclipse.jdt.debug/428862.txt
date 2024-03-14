@@ -1,0 +1,85 @@
+Kepler Java Eclipse Java Development Tools Patch Java Support BETA code snippet
+package
+import java
+import java util function IntConsumer Int Consumer
+public class QuickSerializedLambdaTest Quick Serialized Lambda Test
+interface extends IntConsumer Serializable Int Consumer
+public static void main String args throws IOException ClassNotFoundException Class Exception
+System println lambda expression
+System exit method reference
+ByteArrayOutputStream debug ByteArrayOutputStream Byte Array Output Stream Byte Array Output Stream
+ObjectOutputStream ObjectOutputStream debug Object Output Stream Object Output Stream
+writeObject TODO write Object
+Add breakpoint
+writeObject write Object
+ObjectInputStream ObjectInputStream ByteArrayInputStream debug toByteArray Object Input Stream Object Input Stream Byte Array Input Stream Byte Array
+readObject read Object
+accept print
+readObject read Object
+accept exit catch Exception
+printStackTrace print Stack Trace
+throw AssertionError reach point Assertion Error
+Add breakpoint main method debug Java Application
+breakpoint hit popup dialog displayed Unable install breakpoint QuickSerializedLambdaTest missing number attributes Quick Serialized Lambda Test
+Modify compiler options generate number attributes
+Reason
+Absent Number
+mentioned bug executed javap
+result
+Compiled QuickSerializedLambdaTest java Quick Serialized Lambda Test
+public class QuickSerializedLambdaTest Quick Serialized Lambda Test
+public QuickSerializedLambdaTest Quick Serialized Lambda Test
+LineNumberTable Number Table
+
+
+LocalVariableTable Local Variable Table
+Start Length Slot Signature
+QuickSerializedLambdaTest Quick Serialized Lambda Test
+public static void main java lang String throws java IOException java
+ang ClassNotFoundException Class Exception
+LineNumberTable Number Table
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LocalVariableTable Local Variable Table
+Start Length Slot Signature
+args Ljava lang String
+QuickSerializedLambdaTest Quick Serialized Lambda Test
+QuickSerializedLambdaTest Quick Serialized Lambda Test
+debug Ljava ByteArrayOutputStream Byte Array Output Stream
+Ljava ObjectOutputStream Object Output Stream
+Ljava ObjectInputStream Object Input Stream
+QuickSerializedLambdaTest Quick Serialized Lambda Test
+Ljava lang Exception
+dialog coming

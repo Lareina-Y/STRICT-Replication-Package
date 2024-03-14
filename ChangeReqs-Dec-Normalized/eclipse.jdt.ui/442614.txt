@@ -1,0 +1,10 @@
+Required bug
+jdt core implementation string char literal escaping
+combined bugs fixed
+org eclipse jdt core dom StringLiteral setLiteralValue String String Literal set Literal
+org eclipse jdt internal core util Disassembler escapeChar StringBuffer char escape Char String Buffer
+escape wrongly octal numbers
+char sequence sequence escaped equivalent
+don reason escape chars
+chars represented source sense escape user doesn trouble tools don properly display characters
+JLS Unicode escapes preferred

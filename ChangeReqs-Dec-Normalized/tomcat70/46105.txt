@@ -1,0 +1,10 @@
+reproduce bug
+Configure tomcat connector URIEncoding UTF attribute
+simple write request parameter
+Configure protected form based authentication
+access site jsp
+UTF charset
+accessed time authentication parameter incorrectly interpreted ISO UTF
+subsequent access URI site jsp
+perfect result
+useBobyEncodingForURI true request setCharacterEncoding UTF changed Boby Encoding URI set Character Encoding

@@ -1,0 +1,25 @@
+Build
+
+Java Version
+
+Eclipse introduced bug compiler AbstractMethodError runtime Abstract Method Error
+code worked compiler doesn complain compile time
+code reproduces error
+package bugs
+public class AbstractMethodErrorBug Abstract Method Error Bug
+public static interface IListEntry IList Entry
+public static interface IExtendedListEntry extends IListEntry IExtended List Entry IList Entry
+public static interface IList
+IListEntry getEntry int IList Entry Entry
+public static interface IExtendedList extends IList IExtended List
+IExtendedListEntry getEntry int IExtended List Entry Entry
+public static class ExtendedList implements IExtendedList Extended List IExtended List
+public IExtendedListEntry getEntry int IExtended List Entry Entry
+return null
+private IList list ExtendedList Extended List
+public AbstractMethodErrorBug Abstract Method Error Bug
+public void testAbstractMethodErrorBug test Abstract Method Error Bug
+list getEntry AbstractMethodError Entry Abstract Method Error
+System println Bug fixed
+public static void main String args
+AbstractMethodErrorBug testAbstractMethodErrorBug Abstract Method Error Bug test Abstract Method Error Bug

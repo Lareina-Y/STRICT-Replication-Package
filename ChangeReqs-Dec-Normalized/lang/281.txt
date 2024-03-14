@@ -1,0 +1,13 @@
+DurationFormatUtils returns wrong result Duration Format Utils
+oddly set Dec code result String
+tested
+Calendar cal Calendar getInstance Instance
+cal set Calendar MONTH Calendar DECEMBER
+cal set Calendar DAY MONTH
+cal set Calendar YEAR
+cal set Calendar HOUR DAY
+cal set Calendar MINUTE
+cal set Calendar
+cal set Calendar MILLISECOND
+String result DurationFormatUtils formatPeriod cal getTimeInMillis System currentTimeMillis Duration Format Utils format Period Time Millis current Time Millis
+System println result

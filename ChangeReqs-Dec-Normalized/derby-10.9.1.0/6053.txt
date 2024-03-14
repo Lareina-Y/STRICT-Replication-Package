@@ -1,0 +1,32 @@
+client Connection setTransactionIsolation Statement builds time setTransactionIsolation called set Transaction Isolation set Transaction Isolation
+private Statement setTransactionIsolationStmt null set Transaction Isolation Stmt
+setTransactionIsolationStmt createStatementX java sql ResultSet TYPE java sql ResultSet CONCUR READ holdability set Transaction Isolation Stmt create Statement Result Set Result Set
+private void setTransactionIsolationX int level set Transaction Isolation
+setTransactionIsolationStmt executeUpdate SET CURRENT ISOLATION levelString set Transaction Isolation Stmt execute Update level String
+performance avoid garbage collection issues single prepared statement parameter marker
+program repeated calls setTransactionIsolation set Transaction Isolation
+import java sql
+import java net
+import java
+import org apache derby drda NetworkServerControl Client template starts NetworkServer runs SQL SQL JDBC API calls modified reproduce issues public class SetTransactionIsolation public static Statement Network Server Control Network Server Set Transaction Isolation
+public static void main String args throws Exception Load driver
+needed network server
+Class forName org apache derby jdbc ClientDriver Start Network Server startNetworkServer connecting customer database Client Driver start Network Server
+Change URL Connection conn DriverManager getConnection jdbc derby localhost wombat create true clean previous conn createStatement Driver Manager Connection create Statement
+executeUpdate DROP TABLE catch SQLException getSQLState equals throw int execute Update SQLState
+
+conn setTransactionIsolation Connection TRANSACTION REPEATABLE READ set Transaction Isolation
+conn setTransactionIsolation Connection TRANSACTION SERIALIZABLE close close set Transaction Isolation
+runtimeInfo runtime Info
+conn close Shutdown server shutdownServer catch SQLException null System println SQLState getSQLState getMessage shutdown Server SQLState Message
+printStackTrace print Stack Trace
+getNextException starts Network server public static void startNetworkServer throws SQLException Exception failException null Exception start Network Server fail Exception
+NetworkServerControl networkServer NetworkServerControl InetAddress getByName localhost Network Server Control network Server Network Server Control Inet Address
+networkServer start PrintWriter System Wait network server start boolean started false network Server Print Writer
+int retries Max retries max seconds wait started retries Sleep ping network server Thread sleep
+networkServer ping ping throw exception server started started true catch Exception retries network Server
+failException Check reply ping started throw failException catch Exception SQLException SQLException Error starting network server fail Exception fail Exception
+initCause failException init fail Exception
+throw public static void shutdownServer throws Exception NetworkServerControl networkServer NetworkServerControl InetAddress getByName localhost shutdown Server Network Server Control network Server Network Server Control Inet Address
+networkServer shutdown public static void runtimeInfo throws Exception NetworkServerControl networkServer NetworkServerControl InetAddress getByName localhost network Server runtime Info Network Server Control network Server Network Server Control Inet Address
+System println networkServer getRuntimeInfo network Server Runtime Info

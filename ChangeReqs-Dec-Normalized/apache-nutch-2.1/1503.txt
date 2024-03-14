@@ -1,0 +1,6 @@
+FetcherReducer java Bug Fetcher Reducer
+properties FetcherReducer nutch default xml code useHostSettings conf getBoolean fetcher queue host settings false Fetcher Reducer Host Settings Boolean
+timelimit conf getLong fetcher timelimit Long
+byIP conf getBoolean fetcher threads host true Boolean
+timelimit context getConfiguration getLong fetcher timelimit code properly code execution updated removed nutch default xml Configuration Long
+Patch coming

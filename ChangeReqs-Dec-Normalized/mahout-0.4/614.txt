@@ -1,0 +1,6 @@
+error org apache mahout classifier baytes MultipleOutputFormat Multiple Output Format
+overrides Hadoop class FileOutputFormat work getRecordWriter FileSystem Configuration String Progressable File Output Format Record Writer File System
+method override control FileOutputFormat writes records File Output Format
+getRecordWriter TaskAttemptContext Record Writer Task Attempt Context
+hunch work Hadoop APIs Override friend attached patch addresses clean
+track

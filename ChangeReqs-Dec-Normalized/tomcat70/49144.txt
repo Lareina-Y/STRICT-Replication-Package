@@ -1,0 +1,9 @@
+Incorrect lazy initialization update static fields
+org apache catalina startup Bootstrap daemon
+org apache catalina startup ContextConfig contextDigester Context Config context Digester
+Findbugs
+method unsynchronized lazy initialization static field
+field set object stored location updated accessed
+setting field visible threads set
+futher accesses method set field serve initialize object multithreading bug prevents thread accessing stored object fully initialized
+feel confident method called multiple threads set static field setting fully populated initialized

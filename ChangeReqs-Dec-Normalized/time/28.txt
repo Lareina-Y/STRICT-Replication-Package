@@ -1,0 +1,6 @@
+expect test pass Chronology chronology GJChronology getInstance Instance
+LocalDate start LocalDate chronology Local Local
+LocalDate expectedEnd LocalDate chronology assertThat start minusYears equalTo expectedEnd Local expected Local assert Years equal expected
+assertThat start Period years equalTo expectedEnd error org joda time IllegalFieldValueException assert equal expected Illegal Field Exception
+year supported year
+thought job framework skip existent year return

@@ -1,0 +1,17 @@
+Build
+
+Steps Reproduce
+
+Set JRE level args Preferences Dvm test arg jre Xmx
+
+Create simple java app prints args
+System getProperty test arg Property
+
+Create launch configuration class set args Dvm test arg launch Xmx
+
+Execute launcher
+JRE level args launch configuration args
+
+Filing bug behavior counterintuitive
+launchers overrides args invoking
+Tested reproducible builds

@@ -1,0 +1,6 @@
+Invoking SummaryStatistics setVarianceImpl Variance true false getStandardDeviation produce NaN Summary Statistics set Variance Impl Standard Deviation
+code reproduce code java int scores
+SummaryStatistics stats SummaryStatistics Summary Statistics Summary Statistics
+stats setVarianceImpl Variance false population variance int set Variance Impl
+scores stats addValue double stats getStandardDeviation add Standard Deviation
+System println code workaround suggested Mikkel code java double FastMath sqrt stats getSecondMoment stats getN code Fast Math Moment

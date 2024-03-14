@@ -1,0 +1,12 @@
+Derby pushes query conditions subqueries FETCH limits creating wrong
+snippet
+CREATE TABLE COFFEES COF VARCHAR PRICE INTEGER
+INSERT COFFEES COF PRICE VALUES Colombian
+INSERT COFFEES COF PRICE VALUES French Roast
+INSERT COFFEES COF PRICE VALUES Colombian Decaf
+select COF PRICE COFFEES order COF fetch rows
+select select COF PRICE COFFEES order COF fetch rows PRICE
+query correctly returns rows Colombian Colombian Decaf
+query filters result returns Colombian French Roast
+row French Roast result query
+supposedly filter condition evaluated fetch limit

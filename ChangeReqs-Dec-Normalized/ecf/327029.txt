@@ -1,0 +1,16 @@
+OSGi smart proxy intercept methods called generated service proxy consumer side
+
+public abstract class SmartProxyService implements IFooService Javadoc ecf IFooService foo Smart Proxy Service IFoo Service IFoo Service
+public boolean foo
+return false
+foo overwrites method declaration IFooService IFoo Service
+OSGi support calling original IFooService foo method smart proxy hold IFooService instance IFoo Service IFoo Service
+public abstract class SmartProxyService implements IFooService Javadoc ecf IFooService foo Smart Proxy Service IFoo Service IFoo Service
+public boolean foo
+return anIFooService foo IFoo Service
+functionality declare stub method SmartProxyService dispatched original IFooService foo method runtime Smart Proxy Service IFoo Service
+work stub method abstract declare signature prepend original method rosgi character capitalized
+public abstract class SmartProxyService implements IFooService Smart Proxy Service IFoo Service
+public abstract boolean rosgiFoo Javadoc ecf IFooService foo rosgi Foo IFoo Service
+public boolean foo
+return rosgiFoo http osgi sourceforge net advanced html rosgi Foo

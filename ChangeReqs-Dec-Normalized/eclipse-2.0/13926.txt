@@ -1,0 +1,6 @@
+problem migrating editors based JFace Text driver
+inserting selected completion proposal context popup black rectangle top display
+attached screen shot
+Tracing appearance rectangle rectangle BusyIndicator showWhile rectangle appears execution class ContextInformationPopup public void showContextInformation final IContextInformation info final int position Control control fViewer getTextWidget Busy Indicator Context Popup Context IContext Viewer Text Widget
+BusyIndicator showWhile control getDisplay Runnable public void internalShowContextInfo info position Busy Indicator Display internal Context Info
+hideContextSelector hide Context Selector
