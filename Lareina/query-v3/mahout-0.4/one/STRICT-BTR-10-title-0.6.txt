@@ -1,0 +1,16 @@
+526	Tree forest Builder building DefaultTreeBuilder Default Tree Builder	Infinite Recursion DefaultTreeBuilder Default Tree Builder
+552	Vectors vectors Vector sparse Sparse Named names Cluster clustering NamedVectors Named Vectors	AbstractCluster eliminates NamedVectors replacing RandomAccessSparseVector Abstract Cluster Named Vectors Random Access Sparse Vector
+561	TestClassifier Test Classifier Classifier	TestClassifier correctly handle type source command parameters Test Classifier
+564	KMeansClusterer KMeans Clusterer KMeans distanceThreshold distance Threshold distance convergenceDelta convergence Delta convergence	KMeansClusterer distanceThreshold parameter testConvergence Iterable Cluster clusters double distanceThreshold method KMeans Clusterer distance Threshold test Convergence distance Threshold
+565	bits bit minhash feature	Features incorrectly hashed Minhash
+576	updateItemPref update Item Pref DiffStorage Diff Storage AVG Average JDBC update removedpreference preference Preference RunningAverage Running Average	AbstractJDBCDiffStorage updateItemPref updating AVG incorrectly cases Abstract JDBCDiff Storage update Item Pref
+580	modelBasePath model Base Path basePath base Path BayesParameters Bayes Parameters Bayes HBaseDataStore HBase Data Store HBase Base base	Missing basePath Bayes job InMemoryDataStore base Path Memory Data Store
+583	files file	Loss data create sequence files directory
+602	Partial Implementation fails	Partial Implementation throws exceptions
+604	Bayes Classifier data training exception	Bayes Classifier fails data training data
+610	Similarity similarity CooccurencesMapper Cooccurences Mapper Cooccurences Coocurences SimilarityReducer Similarity Reducer cooccurences CoocurencesMapper Coocurences Mapper	Coocurrences SimilarityReducer Similarity Reducer
+614	MultipleOutputFormat Multiple Output Format Hadoop FileOutputFormat File Output Format mahout baytes classifier Multiple	org apache mahout classifier baytes MultipleOutputFormat working intended Hadoop Multiple Output Format
+625	patterns pattern bug generated support occurs real	generated patterns support higher reality
+631	Weighted weighted WeightedRunningAverage Weighted Running Average	Small bug WeightedRunningAverage add WeightedRunningAverageAndStdDev Weighted Running Average Weighted Running Average Std Dev
+641	Conf setConf set Conf Confs TransposeJob Transpose Job Configuration Transpose	DistributedRowMatrix hadoop jobs ignore Configuration set setConf Distributed Row Matrix set Conf
+678	gradient Gradient RankingGradient Ranking Gradient Ranking MixedGradient Mixed Gradient NullPointerException Null Pointer Exception	NullPointerException MixedGradient SGD algorithm Null Pointer Exception Mixed Gradient

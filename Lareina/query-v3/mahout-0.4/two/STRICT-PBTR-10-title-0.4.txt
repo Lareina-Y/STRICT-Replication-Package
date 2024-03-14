@@ -1,0 +1,16 @@
+526	Tree Builder DefaultTreeBuilder Default Tree Builder StackOverflowError Stack Overflow Error Default forest Stack cases dataset recursion	Infinite Recursion DefaultTreeBuilder Default Tree Builder
+552	RandomAccessSparseVector Random Access Sparse Vector AbstractCluster Abstract Cluster Vectors Random NamedVectors Named Vectors Vector vectors Abstract Cluster Access	AbstractCluster eliminates NamedVectors replacing RandomAccessSparseVector Abstract Cluster Named Vectors Random Access Sparse Vector
+561	TestClassifier Test Classifier Classifier type command Test source parameters	TestClassifier correctly handle type source command parameters Test Classifier
+564	KMeansClusterer KMeans Clusterer distanceThreshold distance Threshold KMeans Clusterer distance Threshold convergence parameter Delta Configuration	KMeansClusterer distanceThreshold parameter testConvergence Iterable Cluster clusters double distanceThreshold method KMeans Clusterer distance Threshold test Convergence distance Threshold
+565	bit byte operations Minhash Features signature bits sign array integer	Features incorrectly hashed Minhash
+576	Diff DiffStorage Diff Storage updateItemPref update Item Pref removePreference remove Preference RunningAverage Running Average Item preference AVG Pref case	AbstractJDBCDiffStorage updateItemPref updating AVG incorrectly cases Abstract JDBCDiff Storage update Item Pref
+580	basePath base Path base BayesParameters Bayes Parameters InMemoryDataStore Memory Data Store HBase dataSource data Source data Bayes HBaseDataStore HBase Data Store modelBasePath model Base Path	Missing basePath Bayes job InMemoryDataStore base Path Memory Data Store
+583	files file chunk sequence directory data Loss output loss overwrite	Loss data create sequence files directory
+602	Implementation operations org confluence wiki MAHOUT dataset apache Partial https	Partial Implementation throws exceptions
+604	Bayes Classifier training data exception	Bayes Classifier fails data training data
+610	Similarity WeightedCoocurrenceArray Weighted Coocurrence Array cooccurences Coocurences Row isn tests similarity Reducer class	Coocurrences SimilarityReducer Similarity Reducer
+614	FileOutputFormat File Output Format Output Hadoop Format work File getRecordWriter Record Writer classifier Record apache	org apache mahout classifier baytes MultipleOutputFormat working intended Hadoop Multiple Output Format
+625	patterns pattern support test point data bug FPGrowth incorrect returns	generated patterns support higher reality
+631	Weighted WeightedRunningAverage Weighted Running Average WeightedRunningAverageAndStdDev Weighted Running Average Std Dev Dev datum weighted Std problem hey Running	Small bug WeightedRunningAverage add WeightedRunningAverageAndStdDev Weighted Running Average Weighted Running Average Std Dev
+641	setConf set Conf Conf DistributedRowMatrix Distributed Row Matrix Matrix TransposeJob Transpose Job DistributedLanczosSolver Distributed Lanczos Solver Confs Lanczos Configuration Row	DistributedRowMatrix hadoop jobs ignore Configuration set setConf Distributed Row Matrix set Conf
+678	MixedGradient Mixed Gradient Gradient Null NullPointerException Null Pointer Exception Mixed algorithm gradient Pointer Ranking RankingGradient Ranking Gradient	NullPointerException MixedGradient SGD algorithm Null Pointer Exception Mixed Gradient

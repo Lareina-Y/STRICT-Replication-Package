@@ -1,0 +1,24 @@
+1400	DRDAStatement method Typ places issues calls setTypDefValues set Typ Def Values variables purpose DERBY	Cleanup code network server DRDAStatement class
+4279	statement thread deadlock Thread MYTABLE lock cache LOCK MYCOLUMN table	Statement cache deadlock
+5232	database directories directory README files file backup users touch effects	stern README file log seg directories warn users corrpution touch files
+5561	Connection checkForNullPhysicalConnection check Null Physical Connection LogicalConnection Logical Connection Physical member rollBack roll Schema getWarnings Warnings getSchema Schema Point	Race conditions LogicalConnection checking null physical connection Logical Connection
+5854	issue BrokeredCallableStatement Brokered Callable Statement Brokered test Statement methods adds Callable Test unused	Test methods BrokeredCallableStatement Brokered Callable Statement
+5896	tabs spaces change bash code drda diff files network script	Change java drda source code spaces tabs clean tab creep java client
+5911	query PRICE COF COFFEES Decaf limits condition conditions TABLE rows	condition pushed query FETCH
+5927	URL utility methods change Embed EmbedConnection Embed Connection formatting readability Connection code	Add utility methods query URL attributes EmbedConnection Embed Connection
+5930	typos method feature Encryption comments setup change DERBY RawStore Raw Store tabs	Reformat RawStore setupEncryptionEngines Raw Store setup Encryption Engines
+5933	sorting SQL result JDBC Hibernate Netbeans GUI database simple query	SQL sorting error
+5955	Derby Platform Java JEP Profiles java JNDI applications posible project	Prepare Derby Compact Profiles JEP
+5996	files database readme creation time DERBY release hard users upgrade	Create readme files cautioning users modifying database files database hard upgrade time
+6000	support JDBC java Derby maintenance JDK spec net time discussion	Implement support JDBC
+6008	query order ORDER set paren row clause expression DISTINCT union	ORDER FETCH OFFSET set operands
+6009	error column ORDER NullPointerException Null Pointer Exception exception numbers errorCode error Code Null order query	stricter checking ORDER clause VALUES expressions
+6044	table XXXX release descriptions names DERBY break download word ids	poor word breaking table download
+6053	Server network server Network Connection networkServer network Server Exception Statement Transaction Isolation	Client prepared statement regular statement Connection setTransactionIsolation set Transaction Isolation
+6063	variables code ControlRow Control Row access class Control analysis Insert Row method	Access static variables class TabInfoImpl InsertResultSet ControlRow Tab Info Impl Insert Result Set Control Row
+6064	tests test job branches side org apache consideration maintenance Derby	Failures upgradeTests cardinality statistics upgrade Tests
+6086	custom Statement testing StatementPoolingTest Statement Pooling Test jdbcapi connection boilerplate test Test methods	Factor logic creating custom connection jdbcapi StatementPoolingTest Statement Pooling Test
+6089	Type registerOutParameter register Parameter NVARCHAR Statement type register client getTypeAsInt Type Int int Prepared	CallableStatement registerOutParameter client lacks check legal types Callable Statement register Parameter
+6094	Manager DriverManager Driver Manager Driver test Derby login set Timeout timeout case	Derby ignores DriverManager setLoginTimeout Driver Manager set Login Timeout
+6147	ZZFFKgap mail Java Closed Test CCADjEm CCADj CCADj mbox DTchPU DTch ClosedObjectTest Closed Object Test	ClosedObjectTest fails branch running Java Closed Object Test
+6150	connections Default openDefaultConnection open Default Connection Connection locks database connection tests JDBCBaseTestCase JDBCBase Test Case hold	Add automatic cleanup connections opened openDefaultConnection open Default Connection

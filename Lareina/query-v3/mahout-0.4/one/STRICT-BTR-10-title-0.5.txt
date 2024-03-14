@@ -1,0 +1,16 @@
+526	Tree forest Builder building DefaultTreeBuilder Default Tree Builder	Infinite Recursion DefaultTreeBuilder Default Tree Builder
+552	AbstractCluster Abstract Cluster Abstract Vectors vectors Vector sparse Sparse Named names Cluster	AbstractCluster eliminates NamedVectors replacing RandomAccessSparseVector Abstract Cluster Named Vectors Random Access Sparse Vector
+561	TestClassifier Test Classifier Classifier Test	TestClassifier correctly handle type source command parameters Test Classifier
+564	KMeansClusterer KMeans Clusterer KMeans distanceThreshold distance Threshold distance Clusterer convergenceDelta convergence Delta convergence	KMeansClusterer distanceThreshold parameter testConvergence Iterable Cluster clusters double distanceThreshold method KMeans Clusterer distance Threshold test Convergence distance Threshold
+565	bits bit minhash feature	Features incorrectly hashed Minhash
+576	RunningAverage Running Average updateItemPref update Item Pref Running DiffStorage Diff Storage AVG Average JDBC update removedpreference preference	AbstractJDBCDiffStorage updateItemPref updating AVG incorrectly cases Abstract JDBCDiff Storage update Item Pref
+580	basePath base Path BayesParameters Bayes Parameters Bayes base Base HBaseDataStore HBase Data Store HBase modelBasePath model Base Path Path	Missing basePath Bayes job InMemoryDataStore base Path Memory Data Store
+583	files file directory	Loss data create sequence files directory
+602	Implementation operations Partial	Partial Implementation throws exceptions
+604	Bayes Classifier data training exception	Bayes Classifier fails data training data
+610	Similarity similarity CooccurencesMapper Cooccurences Mapper Cooccurences Coocurrence Coocurences WeightedCoocurrenceArray Weighted Coocurrence Array SimilarityReducer Similarity Reducer cooccurences CoocurencesMapper Coocurences Mapper	Coocurrences SimilarityReducer Similarity Reducer
+614	MultipleOutputFormat Multiple Output Format Hadoop FileOutputFormat File Output Format mahout baytes File FileSystem File System classifier Multiple	org apache mahout classifier baytes MultipleOutputFormat working intended Hadoop Multiple Output Format
+625	patterns pattern bug generated support occurs real	generated patterns support higher reality
+631	Weighted weighted WeightedRunningAverage Weighted Running Average WeightedRunningAverageAndStdDev Weighted Running Average Std Dev	Small bug WeightedRunningAverage add WeightedRunningAverageAndStdDev Weighted Running Average Weighted Running Average Std Dev
+641	Conf TransposeJob Transpose Job MatrixMultiplicationJob Matrix Multiplication Job setConf set Conf Transpose Confs Configuration	DistributedRowMatrix hadoop jobs ignore Configuration set setConf Distributed Row Matrix set Conf
+678	gradient Gradient RankingGradient Ranking Gradient Ranking MixedGradient Mixed Gradient NullPointerException Null Pointer Exception	NullPointerException MixedGradient SGD algorithm Null Pointer Exception Mixed Gradient

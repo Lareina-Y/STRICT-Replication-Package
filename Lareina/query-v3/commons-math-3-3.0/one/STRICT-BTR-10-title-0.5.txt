@@ -1,0 +1,16 @@
+641	Implement method distance lines	Implement distance methods Lines Segments
+718	Binomial Probability cumulativeProbability cumulative Probability BinomialDistributionImpl Binomial Distribution Impl cumulative	inverseCumulativeProbability BinomialDistribution returns wrong large trials inverse Cumulative Probability Binomial Distribution
+764	sample Sampler RandomGenerator Random Generator Random Sample generator Generator sampleSize sample Size createSampler create Sampler	sample API accept RandomGenerator parameter Random Generator
+775	population Population ListPopulation List Population populationLimit population Limit List	ListPopulation constructor check negative populationLimit occur List Population population Limit
+776	elitism Elitism elitismRate elitism Rate Elitistic ElitisticListPopulation Elitistic List Population	range checks elitismRate ElitisticListPopulation constructors elitism Rate Elitistic List Population
+777	CrossoverPolicy Crossover Policy Crossover	CrossoverPolicy needed Crossover Policy
+778	FieldElement Field Element multiply math Field Element	Dfp Dfp multiply int comply general contract FieldElement multiply int Field Element
+779	ListPopulation List Population list List Population	ListPopulation Iterator remove chromosomes population List Population
+782	Brent block criterion	BrentOptimizer User defined check block badly Brent Optimizer
+835	percentage fraction percentageValue percentage numerator Fraction	Fraction percentageValue rare overflow percentage
+841	ArithmeticUtils Arithmetic Utils Arithmetic nanoTime nano Time Int int method approach Integer nano gcd	gcd speed
+849	Numerical NumericalNSWC Numerical NSWC logGamma log Gamma Gamma log	Precision improvement class Gamma
+878	test tests testing Test	Test Log Likelihood ratio LLR test math stat inference
+905	sinh cosh FastMath Fast Math Math	FastMath cosh sinh support range values Math counterparts Fast Math
+915	EmpiricalDistribution Empirical Distribution Empirical RandomDataImpl Random Data Impl randomData random Data	compatibility broken EmpiricalDistribution Empirical Distribution
+1121	BrentOptimizer Brent Optimizer Brent Optimizer Optimize doOptimize Optimize BaseOptimizer Base Optimizer Base	Brent optimizer doesn Base optimizer iteration counter

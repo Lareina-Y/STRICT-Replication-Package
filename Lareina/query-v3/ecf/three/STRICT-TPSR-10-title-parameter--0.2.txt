@@ -1,0 +1,68 @@
+90428	Jabber user login action hotmail group button Character ECF Provider	Bug Jabber Provider Character allowed Jabber login names
+125572	Sync Client SOContainer provider Time app ECF Initiator Container TimeSyncInitiator Time Sync Initiator	Bug ECF Generic provider thread interlock
+134483	Client ECFPlugin Application Container ClientApplication Client Application Factory ContainerFactory Container Factory Null Eclipse Pointer	Bug Standalone ClientApplication breaks ContainerFactory ECFPlugin Client Application Container Factory
+165815	bug Service assertion bugs refsOne access Paul issues Woodward getRemoteServiceReferences Remote Service References	Bug Local access local remoteservicereference implemented
+172958	IRC Channel Patch setup work command Bug commands Containers Container	Bug IRC Patch commands Root Channel Containers
+192574	Defaults settings isn buttons preference Communications Bug empty Restore Apply	Bug Communications preference isn empty
+196007	Presence pictures Hover support highlights display parse supports XMPP Bug	Bug Presence Hover highlights support pictures
+198043	groups contacts dialog users list Bug entries doesn recognize open	Bug open contacts dialog doesn recognize users groups
+198334	settings Manager Room CTabFolders CTab Folders Folders Chat ChatRoomManagerView Chat Room Manager View messages appearance Messages	Bug messages view CTabFolders doesn follow appearance settings CTab Folders
+198731	irc Ctrl IRC hyperlink Bug Chatroom move text problem channel	Bug Wrong underline hyperlink recognition
+199259	ServiceInfo Service Info constructors class Service discovery Info parameters takes smaller bug	Bug discovery ServiceInfo constructors cumbersome Service Info
+199309	connection IRC freenode chatroom editor problems channel eclipse irc Wizard	Bug IRC Wrong connection click hyperlink
+204329	client Adapter Service replica remoteContainerTwo remote Container adapter Container IRemote getAdapter Adapter registry	Bug remoteservice registry updated adapter accessed connect
+205532	chat URL channel subject account hyperlinking IRC box topic accessed	Bug IRC add hyperlinking chat subject box
+208667	client presence msn UNAVAILABLE Update sendPresenceUpdate send Presence Update Presence null Personal MSNContainer	Bug msn MSNContainer sendPresenceUpdate throws NullPointerException UNAVAILABLE send Presence Update Null Pointer Exception
+221053	Message null packet server message form Server Presence jivesoftware handleMessageEvent handle Message Event	Bug message XMPP Server displayed
+222824	port user Google default provider XMPP work talk gmail Host	Bug XMPP doesn work port Google Talk Host
+222868	MSN mail password connection button Bug entered wizard Finish clicked	Bug MSN mail password entered Finish button clicked
+233808	Discovery provider Test Listener discovery IService Type Service SLP IDIService	Bug Discovery SLP org eclipse ecf tests discovery DiscoveryTest testAddServiceListenerIServiceTypeIDIServiceListener fails SLP provider Discovery Test test Add Service Listener IService Type IDIService Listener
+238970	CPU MSN bit usage bug Eclipse seconds report sun Bug	Bug MSN CPU usage increases connecting
+242950	Container targetID target NPE target IRCChannel Exception IRCChannelContainer IRCChannel Container irc IRC plugin	Bug IRCChannelContainer throws NPE disconnect connection timeouts IRCChannel Container
+250717	IResource core URI IResourceID IResource mailing dev org eclipse environment CDC	Bug api add IResourceID IResource
+254833	Bundle service system consumer org eclipse BundleContext Bundle Context Discovery jslp Context	Bug Discovery SLP org eclipse ecf internal provider jslp Activator start BundleContext activate jSLP eagerly Bundle Context SLP
+255329	IService IServiceID IService Service hostname org registerService register Service getServiceName Service JMDNSDiscoveryContainer JMDNSDiscovery Container JMDNSDiscovery checks	Bug Discovery JMDNS Fall hostname IServiceID getServiceName null IService Service
+255347	discovery service Service IServiceID IService getServiceName Service Discovery isn eclipse fall IService	Bug Discovery SLP optional IServiceID getServiceName isn set service discovery registration IService Service
+255352	Service Info JMDNS Container exchanges priority provider weight IService JMDNSDiscoveryContainer JMDNSDiscovery Container	Bug Discovery JMDNS JMDNS exchanges priority weight
+257926	JSLPServiceInfo JSLPService Info Security SecurityException Security Exception Info JSLPService eclipse IService IServiceInfo IService Info jslp doesn	Bug Discovery SLP JSLPServiceInfo IServiceInfo doesn throw SecurityException JSLPService Info IService Info Security Exception
+258488	error Eclipse SDK code Framework Graphical Release EMF Install Modelling	NPE status code
+259233	Discovery discovery URI path JMDNS lost segment Bug	Bug Discovery JMDNS URI path lost discovery
+259389	case scope SLP aid func Bug sourceforge tracker Discovery lookup	Bug Discovery SLP lookup scope case insensitive
+265551	tests resource Pause transfer Http TIME Test provider pause HttpClient Http Client	Bug pause reads entire resource HttpClient provider Http Client
+266120	authority service Type Service Discovery getServiceTypeIDs Service Type IDs servicetypes JmDNS DNS naming ECF	Bug Discovery JmDNS IServiceTypeID default naming authority set DNS IService Type
+267481	class Container server support IRemoteServiceContainerAdapter IRemote Service Container Adapter adapter plugin Server IRemote xml	Bug server supporrt remoteservice container adapter generic server
+270332	patch problems attachment group meaning details channels Doc called Remy	Bug called DocShares ECF Generic group handling Doc Shares
+273135	implementation Log Service StringBuffer String Buffer LogService Log Service String details Buffer parameter logging	Bug LogService implementation misses details logging Log Service
+282667	Extension class bug Code ExtensionPoint Extension Point Point CodeAnalyzer Code Analyzer service impl Points	Bug remotesrvs osgi class parsing exception ethz iks osgi impl CodeAnalyzer Code Analyzer
+296107	version SLPv messages SLP jSLP SLP Discovery formats versions change Bug	Bug Discovery jSLP discard SLP protocol messages version SLP
+302394	parser tags attribute jSLP SLP HTAB Bug Discovery bad SLP Test	Bug Discovery jSLP Test parser bad tags SLP
+302407	Impl Service exception java org type Remote inheritance Method parameter	Bug remotesrvs osgi remote method invocation fails mismatch caused parameter type inheritance org eclipse ecf internal provider osgi RemoteServiceImpl callSync Remote Service Impl call Sync
+314558	Discovery test API DiscoveryTestsWithoutRegister Discovery Tests Register DNS checks Bug Tests suite Register	Bug Discovery DNS Add API checks null test suite
+316595	service Bug Discovery retrieval Defer retrieving unit request instances test	Bug Discovery Defer service retrieval unit tests
+318075	Whitespaces IService Bug property Discovery Property allowed IServiceProperty IService Property	Bug Discovery Whitespaces allowed property
+327029	foo method IFooService IFoo Service Smart Proxy stub proxy rosgi OSGi Service	Bug OSGi RemoteSrvs Smart Proxy delegate original method Remote Srvs
+327060	location dev mailing org bug solution html eclipse discovery zookeeper	Bug discovery zookeeper location URI include port
+327379	Remote RemoteCallFactory Remote Call Factory IRemoteCallFactory IRemote Call Factory factory Factory Call RestCallFactory Rest Call Factory remoteservice IRemote RemoteCalls Remote Calls	Bug IRemoteCallFactory IRemote Call Factory
+327582	implementation idFilter Filter Service getRemoteServiceReferences Remote Service References Remote osgi Filter parameter simplified String	Bug osgi simplify implementation getRemoteServiceReferences Remote Service References
+328772	Throwable org core Serializable Status SerializableStatus Serializable Status eclipse STATUS ecf exception	Bug org eclipse ecf core status SerializableStatus STATUS exception org eclipse ecf core status SerializableStatus checkForSerializable Throwable null Serializable Status Serializable Status check Serializable
+328998	Container Discovery Composite discovery Type eclipse CompositeDiscoveryContainer Composite Discovery Container ecf provider Instance	Bug Discovery Composite CompositeDiscoveryContainer advertisers set locator Composite Discovery Container
+328999	Discovery Service discovery hostname ServiceResource Service Resource Listener org Inet resource hostnames	Bug Discovery resilient broken hostnames
+329054	Container provider containers CDC Discovery ecf CompositeDiscoveryContainer Composite Discovery Container Composite discovery providers	Bug Discovery Composite org eclipse ecf provider discovery CompositeDiscoveryContainer connect IConnectContext handle ContainerConnectExceptions nested discovery providers Composite Discovery Container IConnect Context Container Connect Exceptions
+331740	Discovery Container Containers CompositeDiscoveryContainer Composite Discovery Container Composite DiscoveryContainers Discovery Containers misses instantiation Bug	Bug Discovery Composite CompositeDiscoveryContainer misses DiscoveryContainers Composite Discovery Container Discovery Containers
+332852	Discovery Zoo startup Bundle Activator Container Zookeeper BundleActivator Bundle Activator timeout ZooDiscoveryContainer Zoo Discovery Container	Bug Discovery ZooDiscovery Slow Zookeeper startup timeout BundleActivator start Zoo Discovery Bundle Activator
+337345	Service devsosgi service endpoint osgi ERROR ecf container Container configs	Bug remoteserviceadmin Service Info null publish endpointDescription endpoint Description
+337643	Service service props ServiceA Service ecf osgi propsA props property class Consumer	Bug remoteserviceadmin classloader proxy creation access IRemoteServiceProxy IRemote Service Proxy
+342002	Service service Factory status IRemote Call Container class Remote adapter	Bug RestClientService invokeRemoteCall throws exception successful HTTP operation returns HTTP status Rest Client Service invoke Remote Call
+342352	RSA foo properties someProperty Property intent private service Property exported exports	Bug TCK RSA exports private properties
+342782	bundle TCK properties RSA events set version Bug symbolicname event	Bug TCK RSA events set properties incorrectly
+369023	Trace org pluginId plugin git util option Pointer method framework String	Bug NullPointerException tracing org eclipse ecf core util Trace catching Null Pointer Exception
+371768	service NPE watchmanager Zoodiscovery needed annoying Bug Harmless thrown unpublish	Bug Zoodiscovery NPE unpublishing service
+406064	client Discovery percentage Zoo server zookeeper CPU high cpu zoodiscovery	Bug Discovery ZooDiscovery high cpu percentage server client zookeeper Zoo Discovery
+408030	Service org RestClientService Rest Client Service content Client client Type remoteservice creation ecf	Bug RestClientService ignores content encoding Rest Client Service
+414448	error Service importService import Service configs registration Remote Admin matching RemoteServiceAdmin Remote Service Admin import	Bug RemoteServiceAdmin importService robust face matching configs Remote Service Admin import Service
+419902	NPE Channel Impl ethz Endpoint String impl OSGi update Topics	Bug OSGi NPE ethz iks osgi impl ChannelEndpointImpl updateTopics String String Channel Endpoint Impl update Topics
+420433	SERVICE Message OSGi service NPE Channel Remote ethz Impl handleMessage handle Message	Bug OSGi NPE ethz iks osgi impl ChannelEndpointImpl handleMessage RemoteOSGiMessage SERVICE MODIFIED received SERVICE Channel Endpoint Impl handle Message Remote OSGi Message
+426497	Service org Listener register listener discovery eclipse type IService ecf	Bug org eclipse ecf internal discovery DiscoveryServiceListener register IServiceTyped listener type wildcards Discovery Service Listener IService Typed
+464701	connection client Zookeeper Zoodiscovery case event application Thread services Client	Bug Discovery Zookeeper Auto reconnect issue
+471541	problem tests service test unit forums JVM server trace ClassCastException Class Cast Exception	Bug ClassCastException JUnit integration tests Class Cast Exception
+485482	org distribution Discovery ecf eclipse dev Composite provider discovery release	Bug remove code org eclipse ecf provider discovery

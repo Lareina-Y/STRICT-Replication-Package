@@ -1,0 +1,21 @@
+55	Reconnect retry Retry connection channel channelDisconnected channel Disconnected SubscribeReconnectRetryTask Subscribe Reconnect Retry Task HedwigSubscriber Hedwig Subscriber Subscriber subscribe	SubscribeReconnectRetryTask retry subscription endlessly subscription created Subscribe Reconnect Retry Task
+247	ledger bookkeeper detect underreplication	Detection replication
+248	underreplicated rereplicate subtask	Rereplicating replicated data
+272	BookKeeper Book Keeper failures automatic mechanism documents Book approaches replication process multiple	Provide automatic mechanism bookie failures
+299	Replicator Fragment LedgerFragmentReplicator Ledger Fragment Replicator replicating Replication Ledger fragments	Provide LedgerFragmentReplicator replicate fragments LedgerChecker Ledger Fragment Replicator Ledger Checker
+300	command ledger Ledger admin bookie format Directories directories Zookeeper root	Create Bookie format command
+318	Error error success Result processResult process Result int void successRc success process	Spelling mistake MultiCallback log message Multi Callback
+326	ledger recovery thread attached	DeadLock ledger recovery Dead Lock
+330	bookkeeper BOOKKEEPER server hedwig	System currentTimeMillis usage Hedwig current Time Millis
+336	readTimeOut read Time bookie read ledger failure timeout failed connection waiting time	bookie readEntries time ensemble failed bookie read Entries
+337	ensemble bookies Bookies ledger Scenario	Add entry fails MetadataVersionException ensemble morethan bookie failures Metadata Version Exception
+345	IOExceptions IOException EntryLogger Entry Logger Logger Entry	Detect IOExceptions entrylogger bookie ledger dir
+346	LedgerCache Ledger Cache ledger Ledger Cache	Detect IOExceptions LedgerCache bookie ledger dir Ledger Cache
+347	client bookies bookie choose	Provide mechanism detect bookie bookie clients
+355	ledger Ledger ensemble Recovery bookie doRecoveryRead Recovery Read reading	Ledger recovery mark ledger closed case slow bookie ensemble recovery add
+431	cookie COOKIES AbstractZkLedgerManager Abstract Ledger Manager Ledger	Duplicate definition COOKIES NODE
+447	Ledger flush flushLedger flush Ledger ledger Bookkeeper recovery Cache bookie LedgerCacheImpl Ledger Cache Impl crash	Bookie fail recover flushed ledger flush acknowledged
+472	Bookie servers users Auditor Autorecovery Monitoring option	Provide option start Autorecovery Bookie Servers
+491	configuration parameters server describing hedwig	Hedwig doc configuration
+498	build Jenkins	BookieRecoveryTest tearDown NPE Bookie Recovery Test tear
+514	test assert	TestDeadLock hanging Test Dead Lock

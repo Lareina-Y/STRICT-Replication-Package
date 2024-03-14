@@ -1,0 +1,16 @@
+1613	class Superclass superclass SubclassPerson Subclass Person Subclass AbstractSuperclass Abstract Superclass persistent MappedSuperclass Mapped Superclass Mapped annotated	Exception thrown enhancing property access class abstract MappedSuperclass annotated properties Mapped Superclass
+1627	Order Transaction Column ORDER TransactionId Transaction chose ElementJoinColumn Element Join Column referencedColumnName referenced Column transaction Account	ORderBy ElementJoinColumn EmbeddedId wrong columns SQL ORder Element Join Column Embedded
+1699	Streaming support Lob	Streaming Lob support
+1743	anchor ant mappingtool	Tool configuration support EMF anchors
+1762	lock Lock ManyToMany relationship PessimisticLockScope Pessimistic Lock Scope scope Scope persistence PESSIMISTIC Pessimistic	javax persistence lock scope EXTENDED doesn properly lock join tables
+1764	dbcp DBCP databases BasicDataSource Basic Data Source commons org environment Data Class unmanaged	Automatically enable connection pooling unmanaged environments
+1765	TableJDBCSeq Table JDBCSeq JDBCSeq Table key problem duplicate	TableGenerator doesn properly utilize heavy stress Table Generator
+1784	commit Map map change hash Hash UPDATE HashMap Hash Map bug Transaction	Map updates flushed
+1830	deserializes serialized connectionPassword connection Password connection Password writeExternal write External Configuration readExternal read External StringValue String ConfigurationImpl Configuration Impl	Deserialization EMF connectionPassword overwritten INVISIBLE connection Password
+1837	embedded embedCollection embed Collection Embeddable embeddable Embed embed EmbedValue Embed collection Collection Exception	ElementCollection Embeddable blob fails Oracle Element Collection
+1863	HSQLDB	update HSQL dictionary HSQLDB
+1865	keySet key Set entrySet entry Set entry Set key	inefficient keySet iterator entrySet iterator key Set entry Set
+1870	column Column columnDefinition column Definition BINARY byte SQL blobs account MySQL SQL storage	Blob types override column definition Column annotation MySQL SQL
+1888	generics Kernel	Add generics Kernel
+1896	key JPA OpenJPA Open JPA openjpa existing persist identity POJO jdbc primary	OpenJPA store POJOs record exists Open JPA
+1943	query Query lock SQL timeout wait hung plan result execute	Query timeout hint honored consistently pessimistic lock issued database requires multi statements locking scheme

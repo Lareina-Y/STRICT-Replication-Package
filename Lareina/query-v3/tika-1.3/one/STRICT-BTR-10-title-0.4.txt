@@ -1,0 +1,18 @@
+820	HtmlParser Html Parser Locator locator Html setDocumentLocator set Document Locator Parser	Locator unset HTML parser
+991	duration durations extract Parser	Parser extract duration audio file
+992	Metadata properties appended appendedValues appended Values Html	OpenGraph meta tags multiple values Open Graph
+1012	MimeType Mime Type Mime formats mimetypes mime xml format file	Add additional fields MimeType reader Mime Type
+1014	MimeTypesReader Mime Types Reader Mime	custom MimeTypesReader Mime Types Reader
+1047	metadata document mediatype JAX	Provide JAX detect mediatype
+1053	Tika ASM upgrading version issues XWiki xwiki	Upgrade Tika Parsers ASM
+1062	tags lists HTML tests test RTF	Add list detection RTFParser
+1074	document documents issue problematic bug	Extraction continue exception hit visiting embedded document
+1109	documents presentationml presentation metadata PPT openxmlformats resource pptx testPPT test PPT file	Metadata extracted content OOXML pptx
+1110	Chm chm ChmParser Chm Parser types mimetypes Parser TYPES	Incorrectly declared SUPPORTED TYPES ChmParser Chm Parser
+1124	document PDF docs extracted embedded problem solved attachments attached handler	Nested documents extracted PDF file chain
+1126	html text	text html procuder tika server
+1130	document officedocument extracts extracted wordprocessingml docx openxmlformats	docx text extract leaves portions text
+1193	HTMLSchema HTML	access HtmlParser HtmlSchema Html Parser Html Schema
+1202	ParseContext Parse Context Parse extractAnnotationText extract Annotation Text PDFParser Annotation extract parameters	Refactor PDFParser enable easier parameter setting
+1210	swf SWF assertTypeByData assert Type Data assert svn repos apache src https	Address tika parsers mime TestMimeTypes TODO test flash file Test Mime Types
+1211	endDocuments Documents OpenDocumentFiles Open Document Files Document startDocuments start Documents startDocument start Document Files Documents	OpenDocument ODF parser produces multiple startDocument events Open Document start Document

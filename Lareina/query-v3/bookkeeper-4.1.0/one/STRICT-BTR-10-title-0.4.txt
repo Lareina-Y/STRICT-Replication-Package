@@ -1,0 +1,21 @@
+55	retry Retry HedwigSubscriber Hedwig Subscriber subscribe channelDisconnected channel Disconnected connection channel Subscriber Reconnect Disconnected	SubscribeReconnectRetryTask retry subscription endlessly subscription created Subscribe Reconnect Retry Task
+247	ledger bookkeeper detect underreplication	Detection replication
+248	rereplicate underreplicated	Rereplicating replicated data
+272	BookKeeper Book Keeper failures approaches Keeper documents bookie	Provide automatic mechanism bookie failures
+299	Replicator LedgerFragmentReplicator Ledger Fragment Replicator Fragment fragments replicating Replication Ledger	Provide LedgerFragmentReplicator replicate fragments LedgerChecker Ledger Fragment Replicator Ledger Checker
+300	ledger Ledger Journal format bookie	Create Bookie format command
+318	Error error success processResult process Result Result successRc success	Spelling mistake MultiCallback log message Multi Callback
+326	Deadlock ledger recovery thread	DeadLock ledger recovery Dead Lock
+330	bookkeeper BOOKKEEPER hedwig	System currentTimeMillis usage Hedwig current Time Millis
+336	readTimeOut read Time read timeout waiting failed failure time Time	bookie readEntries time ensemble failed bookie read Entries
+337	bookies Bookies ensemble	Add entry fails MetadataVersionException ensemble morethan bookie failures Metadata Version Exception
+345	IOExceptions IOException EntryLogger Entry Logger Logger Entry	Detect IOExceptions entrylogger bookie ledger dir
+346	LedgerCache Ledger Cache ledger Ledger Cache	Detect IOExceptions LedgerCache bookie ledger dir Ledger Cache
+347	bookies bookie client entries	Provide mechanism detect bookie bookie clients
+355	ledger Ledger	Ledger recovery mark ledger closed case slow bookie ensemble recovery add
+431	cookie COOKIES AbstractZkLedgerManager Abstract Ledger Manager Abstract	Duplicate definition COOKIES NODE
+447	Ledger flush Bookkeeper ledger LedgerCacheImpl Ledger Cache Impl flushed flushLedger flush Ledger bookie crash InterleavedStorageLedger Interleaved Storage Ledger	Bookie fail recover flushed ledger flush acknowledged
+472	servers users Autorecovery Monitoring monitor	Provide option start Autorecovery Bookie Servers
+491	configuration server hedwig	Hedwig doc configuration
+498	NPE build Jenkins complaining	BookieRecoveryTest tearDown NPE Bookie Recovery Test tear
+514	test assert	TestDeadLock hanging Test Dead Lock
