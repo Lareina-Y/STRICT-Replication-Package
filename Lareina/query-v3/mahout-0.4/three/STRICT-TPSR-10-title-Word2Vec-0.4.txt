@@ -1,0 +1,16 @@
+526	Default Builder DefaultTreeBuilder Default Tree Builder Error Stack Overflow Tree dataset recursion cases	Infinite Recursion DefaultTreeBuilder Default Tree Builder
+552	Cluster Vectors NamedVectors Named Vectors RandomAccessSparseVector Random Access Sparse Vector Random AbstractCluster Abstract Cluster Sparse vectors running issues	AbstractCluster eliminates NamedVectors replacing RandomAccessSparseVector Abstract Cluster Named Vectors Random Access Sparse Vector
+561	TestClassifier Test Classifier correctly Test type handle Classifier source parameters command	TestClassifier correctly handle type source command parameters Test Classifier
+564	KMeansClusterer KMeans Clusterer KMeans Clusterer distanceThreshold distance Threshold distance Cluster convergence parameter clusters set	KMeansClusterer distanceThreshold parameter testConvergence Iterable Cluster clusters double distanceThreshold method KMeans Clusterer distance Threshold test Convergence distance Threshold
+565	bit operations byte integer signature vector feature array Minhash Features	Features incorrectly hashed Minhash
+576	preference userid updateItemPref update Item Pref AVG Storage delta case removedpreference table Preference	AbstractJDBCDiffStorage updateItemPref updating AVG incorrectly cases Abstract JDBCDiff Storage update Item Pref
+580	base Bayes basePath base Path Memory InMemoryDataStore Memory Data Store Pierre data dataSource data Source Base Data	Missing basePath Bayes job InMemoryDataStore base Path Memory Data Store
+583	files chunk file data sequence create output Loss directory overwrite	Loss data create sequence files directory
+602	Implementation confluence org MAHOUT wiki throws dataset apache Partial display	Partial Implementation throws exceptions
+604	data Classifier exception Bayes training tested throws fails	Bayes Classifier fails data training data
+610	Similarity Row cooccurences isn class Mapper RowB Row tests rowpairs change	Coocurrences SimilarityReducer Similarity Reducer
+614	Hadoop work FileOutputFormat File Output Format Output getRecordWriter Record Writer Record apache APIs classifier override	org apache mahout classifier baytes MultipleOutputFormat working intended Hadoop Multiple Output Format
+625	data pattern test FPGrowth patterns support project retail times incorrect	generated patterns support higher reality
+631	Weighted WeightedRunningAverage Weighted Running Average Std Average WeightedRunningAverageAndStdDev Weighted Running Average Std Dev Dev datum weighted bug Running	Small bug WeightedRunningAverage add WeightedRunningAverageAndStdDev Weighted Running Average Weighted Running Average Std Dev
+641	Matrix Lanczos Configuration hadoop setConf set Conf Conf DistributedRowMatrix Distributed Row Matrix Job method MatrixMultiplicationJob Matrix Multiplication Job	DistributedRowMatrix hadoop jobs ignore Configuration set setConf Distributed Row Matrix set Conf
+678	Gradient MixedGradient Mixed Gradient Mixed Null algorithm negative object correctly category code	NullPointerException MixedGradient SGD algorithm Null Pointer Exception Mixed Gradient

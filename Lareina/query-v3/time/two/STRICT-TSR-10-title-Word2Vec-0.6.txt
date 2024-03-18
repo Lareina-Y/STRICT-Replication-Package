@@ -1,0 +1,7 @@
+18	Boolean initialized cVerbose Verbose generated Test Zone java verbose Time false	NPE DateTimeZoneBuilder Time Zone Builder
+21	year format month bugs Format Time bug time parse parseInto parse	DateTimeFormat parseInto miscalculates year Time Format parse
+28	year chronology equalTo equal GJChronology assert skip Illegal expectedEnd expected LocalDate Local pass	Questionable behaviour GJChronology dates pass
+42	minutes Hours documentation checking Time argument Zone Offset offset range	DateTimeZone forOffsetHoursMinutes handle negative offset hour Time Zone Offset Hours Minutes
+43	offset min method max valid apply Time limited DateTimeZone Time Zone Zone	Ensure max min valid offset
+77	add Years time addDays add Days mdt Months MutableDateTime Mutable Time Instant addHours add Hours println	addDays MutableDateTime add Days Mutable Time
+88	Partial case hourOfDay hour Day int constructed invalid throws Type java Time	Constructing invalid Partials
