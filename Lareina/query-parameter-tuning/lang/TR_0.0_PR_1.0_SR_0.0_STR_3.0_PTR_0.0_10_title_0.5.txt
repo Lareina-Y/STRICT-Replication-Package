@@ -1,0 +1,42 @@
+59	DateUtils Utils Calendar MDT MST Utils Equals lang hour buggy DST	truncate method dealing switching hours
+259	compareTo compare Enum ValuedEnum Valued Enum compare values typesafe Valued classes Object enums	easily
+281	Duration Time currentTimeMillis current Time Millis DurationFormatUtils Duration Format Utils getTimeInMillis Time Millis Calendar String format Dec Utils	returns wrong result
+292	EntitiesTest Entities Test xFFFF FFFF FFFF test Unescape Test doTestUnescapeEntity Test Unescape Entity Entity reference entity	unescapeXml unescape Xml
+295	thisBuf Buf Buf StrBuilder Str Builder length Str Builder LANG shouldn size places	usages
+299	str Width pad width size Pad Fixed bug padChar pad Char strLen str Len	Bug method appendFixedWidthPadRight class StrBuilder ArrayIndexOutOfBoundsException append Str Builder Array Bounds Exception
+300	NumberUtils Number Utils Number createNumber create Number Digits Exception Format NumberFormatException Number Format Exception Utils isDigits Digits string	throws digit long
+304	cAvailableLocaleSet Locale Set availableLocaleSet Locale Set LocaleUtils Locale Utils Locale Exception Bugs FindBugs Find Bugs cAvailableSet Set Null Pointer	NullPointerException isAvailableLocale
+315	pause suspend getTime Time Time time counter shouldn acts opinion split	StopWatch Watch
+328	Locale toLocale Locale LocaleUtils Locale Utils country language case POSIX Utils code PropertyConverter Property Converter	rejects strings variant
+346	Calendar minutes seconds getTime Time Time DateUtils Utils TimeZone Time Zone getTimeZone Time Zone System test	Dates behaves incorrectly
+363	javaScriptEscape java Script Escape String JavascriptEscape Javascript Escape JavaScriptUtils Java Script Utils Javascripts Javascript scripts StringEscapeUtils String Escape Utils Escape escape	escapeJavaScript method render uncorrectly
+365	BooleanUtils Boolean Utils Boolean toBoolean Boolean case Exception test Utils statement source String	invalid drop StringIndexOutOfBoundsException Bounds
+368	getDateInstance Instance getDateTimeInstance Time Instance Locale locale case FastDateFormat Fast Format Time Format Instance methods	assume getDefault won change Default
+380	Summary Fraction loop numerator reduce pretty infinite	
+393	BigDecimal Big Decimal Decimal compare compareTo compare comparing Big Decimals EqualsBuilder Equals Builder Builder BigDecimals Big Decimals	don correctly
+412	Null null pointer width getNullText Null Text Builder Fixed appendFixedWidth append Fixed Width StrBuilder Str Builder Width	handle nulls
+419	WordUtils Word Utils Word String string str length StringIndexOutOfBoundsException String Bounds Exception Utils Exception abbreviate	bug greater
+432	Bug Bugs http html locale Case String case details string	insensitive handling
+457	StringIndexOutOfBoundsException String Bounds Exception digit Exception LANG String Bounds front Utils Number NumberUtils Number Utils	createNumber thows passed create
+477	Format format formatRegistry format Registry formattedPattern formatted Pattern ExtendedMessageFormat Extended Message Format FORMAT formatted escapingOn escaping ExtendedMessageFormatTest Extended Message Format Test code	OutOfMemory custom registry pattern single quotes Memory
+480	utf unicode escapeHtml escape Html Html StringEscapeUtils String Escape Utils String characters Characters escape Escape	incorrectly converts FFFF
+521	number Number isNumber Number decimal NumberUtils Number Utils Decimal Digit return Utils code	Return True Valid Trailing Place
+538	Calendar Time TimeZone Time Zone getTimeZone Time Zone GMT GregorianCalendar Gregorian Calendar Calendars testFormat test Format CalendarIsoMsZulu Calendar Iso Zulu time	DateFormatUtils format correctly change situations Utils
+552	String StringUtils String Utils replaceEach replace replacementList replacement List replacement replace Utils case Test import	Bug Missing Documentation
+586	ToStringStyle String Style memory thread leak org String Style LANG reference web	ThreadLocals HashCodeBuilder trigger leaks container environments Thread Locals Hash Code Builder
+587	Class NPE toClass Class Utils Object element array ClassUtils Class Utils null throws	
+638	NumberUtils Number Utils Number createNumber create Number Exception String StringIndexOutOfBoundsException String Bounds Exception Format Utils indicators NumberFormatException Number Format Exception	throws argument passed
+645	FastDateFormat Fast Format SimpleDateFormat Simple Format week Week locale Locale firstDayOfWeek Day Week Format format minimalDaysInFirstWeek minimal Days Week	outputs incorrect year isn respected
+662	Fraction getDenominator Denominator Denominator Integer FractionTest Fraction Test denominator int test MIN Test	org apache commons lang math reduce
+664	Number NumberUtils Number Utils isNumber Number return hasDecPoint Dec Point code java change String hasExp Exp	
+677	isSameLocalTime Local Time DateUtils Utils Assert assert Calendar assertFalse assert False setTimeInMillis set Time Millis Time Local Utils	work correct
+719	JDK format Javadoc Format FastDateFormat Fast Format SimpleDateFormat Simple Format pattern Java year number	formats differently
+746	Number NumberUtils Number Utils createNumber create Number Integer case Utils NumberFormatException Number Format Exception Format Exception handles	upper hex
+747	Number numbers NumberUtils Number Utils Integer createNumber create Number createLong create Long Long hex Utils Hex	handle
+788	Serialization primitiveType primitive Type SerializationUtils Serialization Utils ObjectInputStream Object Input Stream Class SerializationUtilsTest Serialization Utils Test primitiveTypeClassSerialization primitive Type Class Serialization classLoader class Loader ClassLoaderAwareObjectInputStream Class Loader Aware Object Input Stream Exception	throws ClassNotFoundException cloning classes
+805	length null Int size empty int char random nextInt Int chars	RandomStringUtils count false false universe throws java lang ArrayIndexOutOfBoundsException Random String Utils Array Bounds Exception
+807	RandomUtils Random Utils Random Int nextInt Int Utils String source problem lang IllegalArgumentException Illegal Argument Exception	RandomStringUtils throws confusing IAE start
+822	NumberUtils Number Utils Number createNumber create Number Decimal BigDecimal Big Decimal Big behaviour work Utils Java	bad leading
+831	FastDateParser Fast Parser SimpleDateFormat Simple Format parse FDP Parser parsed dates SDP Format space	handle white properly
+832	SimpleDateFormat Simple Format quotes parse format FastDateParser Fast Parser parsed Format Simple Parser FDP	handle unterminated correctly
+882	String Char CharSequence Char Sequence StringEscapeUtils String Escape Utils char lookupMap lookup Map HashMap Hash Map hashCode hash Code Buffer Escape	LookupTranslator accepts input fails work implementations Lookup Translator

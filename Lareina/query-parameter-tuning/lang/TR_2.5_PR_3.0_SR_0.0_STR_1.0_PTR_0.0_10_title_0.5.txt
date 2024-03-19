@@ -1,0 +1,42 @@
+59	MDT hour Utils DateUtils Utils DST Equals buggy hours lang DAY	truncate method dealing switching
+259	typesafe ValuedEnum Valued Enum Enum values compareTo compare classes int lang Valued org	Object easily
+281	Calendar Duration Time set DurationFormatUtils Duration Format Utils String result Dec Utils getTimeInMillis Time Millis	returns wrong
+292	test doTestUnescapeEntity Test Unescape Entity EntitiesTest Entities Test Test reference Entity entity Unescape testNumberOverflow test Number Overflow unescape	unescapeXml Xml
+295	thisBuf Buf length Str StrBuilder Str Builder Builder LANG Buf shouldn places size	usages
+299	str width size Pad method pad obj strLen str Len appendFixedWidthPadRight append Fixed Width Pad Width	Bug class StrBuilder ArrayIndexOutOfBoundsException Str Builder Array Bounds Exception
+300	Number createNumber create Number NumberFormatException Number Format Exception Format string substring Exception Utils NumberUtils Number Utils fine	throws digit long
+304	Locale Null NullPointerException Null Pointer Exception Exception cAvailableLocaleSet Locale Set Pointer LocaleUtils Locale Utils Bugs FindBugs Find Bugs hasn	isAvailableLocale
+315	Time time counter shouldn acts bug StopWatch Watch suspend Watch doesn	split
+328	Locale toLocale Locale language LocaleUtils Locale Utils case country POSIX string variant code	rejects strings
+346	Calendar minutes test Time Mon CDT println seconds DateUtils Utils testCalendar test Calendar	Dates behaves incorrectly
+363	String Escape Utils script org Spring scripts escape println Script	StringEscapeUtils escapeJavaScript method render uncorrectly Java
+365	BooleanUtils Boolean Utils Boolean toBoolean Boolean case test statement String source StringIndexOutOfBoundsException String Bounds Exception Exception	invalid drop
+368	locale case getDateTimeInstance Time Instance getDateInstance Instance Instance Locale Format methods Hash test	FastDateFormat assume getDefault won change Fast Default
+380	Fraction loop reduce Summary pretty numerator infinite	
+393	Big compareTo compare BigDecimal Big Decimal Decimal compare Decimals don Builder EqualsBuilder Equals Builder equals	BigDecimals correctly
+412	Fixed appendFixedWidth append Fixed Width pointer Null Builder getNullText Null Text width null exception handle	StrBuilder nulls Str
+419	length string str String Word StringIndexOutOfBoundsException String Bounds Exception upper abbreviate Bounds Exception	WordUtils bug greater Utils
+432	Bugs locale Case http String Bug html insensitive case Common	string handling
+457	StringIndexOutOfBoundsException String Bounds Exception String Number Exception Bounds front digit createNumber create Number Utils LANG	NumberUtils thows passed
+477	format Format ExtendedMessageFormat Extended Message Format formatRegistry format Registry code Extended formattedPattern formatted Pattern String appendTo append QUOTE	OutOfMemory custom registry pattern single quotes Memory
+480	String characters escapeHtml escape Html unicode problem org StringEscapeUtils String Escape Utils utf escape byte	incorrectly converts FFFF
+521	Number return isNumber Number number code Exp Point exponent Decimal Dec	NumberUtils Return True Valid Trailing Place Utils
+538	Time Calendar Format test TimeZone Time Zone format Zone GMT noformat dateTime Time	DateFormatUtils correctly change situations Utils
+552	String replaceEach replace StringUtils String Utils case replacement Test Utils replacementList replacement List org import	Bug Missing Documentation
+586	memory ToStringStyle String Style thread org String LANG Style application web leak	ThreadLocals HashCodeBuilder trigger leaks container environments Thread Locals Hash Code Builder
+587	Class toClass Class NPE Object element Utils array throws null ClassUtils Class Utils	
+638	Number String Exception StringIndexOutOfBoundsException String Bounds Exception NumberUtils Number Utils createNumber create Number Utils indicators NumberFormatException Number Format Exception Format	throws argument passed
+645	locale week FastDateFormat Fast Format Format Week format SimpleDateFormat Simple Format Simple Locale println	outputs incorrect year isn respected
+662	Fraction Integer MIN method test code getDenominator Denominator case void getReducedFraction Reduced Fraction	org apache commons lang math reduce
+664	Number return code String hasExp Exp isNumber Number hasDecPoint Dec Point java Dec Digit	NumberUtils Utils
+677	isSameLocalTime Local Time Calendar Time DateUtils Utils Utils Local HOUR method False Millis	work correct
+719	pattern Java SimpleDateFormat Simple Format year Format bug number FastDateFormat Fast Format format behavior	formats differently
+746	Number NumberFormatException Number Format Exception createNumber create Number Integer case Utils Format NumberUtils Number Utils upper decode	handle hex
+747	Number Integer Long numbers hex createLong create Long createNumber create Number Hex NumberUtils Number Utils check	handle
+788	Class Serialization ClassNotFoundException Class Exception SerializationUtils Serialization Utils noformat Exception ObjectInputStream Object Input Stream class primitiveType primitive Type clone	throws cloning classes
+805	code Int start ends array gap pass length char int	RandomStringUtils random count false false universe random throws java lang ArrayIndexOutOfBoundsException Random String Utils Array Bounds Exception
+807	Random Utils lang source Argument String IllegalArgumentException Illegal Argument Exception Illegal start problem	RandomStringUtils throws confusing IAE
+822	Number Big BigDecimal Big Decimal createNumber create Number behaviour work Java Format Decimal invocations	NumberUtils bad leading Utils
+831	FastDateParser Fast Parser dates space FDP Format parse Parser white Javadoc parsed	handle properly
+832	format parse quotes Simple SimpleDateFormat Simple Format FastDateParser Fast Parser Format unterminated Fast handle	correctly
+882	CharSequence Char Sequence Char String work code CharBuffer Char Buffer Map Sequence char Buffer	LookupTranslator accepts input fails implementations Lookup Translator

@@ -1,0 +1,16 @@
+526	forest Builder Tree building DefaultTreeBuilder Default Tree Builder cases infinite enters Error Recursion	Infinite
+552	AbstractCluster Abstract Cluster Abstract Vector Vectors vectors Named Cluster sparse names Sparse	eliminates NamedVectors replacing RandomAccessSparseVector Random Access
+561	TestClassifier Test Classifier Test Classifier correctly handle source type parameters command	
+564	KMeansClusterer KMeans Clusterer distance distanceThreshold distance Threshold Clusterer setting KMeans convergence convergenceDelta convergence Delta testConvergence test Convergence test	parameter Iterable clusters double method
+565	bits bit implementation minhash operations feature doesn signature byte shift	Features incorrectly hashed Minhash
+576	RunningAverage Running Average Running userid preference JDBCDiff updateItemPref update Item Pref updating AbstractJDBCDiffStorage Abstract JDBCDiff Storage update DiffStorage Diff Storage	AVG incorrectly cases
+580	basePath base Path BayesParameters Bayes Parameters Bayes HBase HBaseDataStore HBase Data Store base Base Parameters params modelBasePath model Base Path	Missing job InMemoryDataStore Memory
+583	files file directory output sequence loss data Loss chunk create	
+602	Implementation operations Partial MAHOUT confluence org display wiki throws exceptions	
+604	Bayes data exception Classifier training tested throws fails	
+610	Similarity CooccurencesMapper Cooccurences Mapper Cooccurences similarity Coocurrence WeightedCoocurrenceArray Weighted Coocurrence Array RecommenderJob Recommender Job adapt Coocurences SimilarityReducer Similarity Reducer	Coocurrences
+614	FileSystem File System Task MultipleOutputFormat Multiple Output Format Hadoop FileOutputFormat File Output Format File mahout baytes TaskAttemptContext Task Attempt Context classifier	org apache working intended
+625	pattern patterns generated occurs note bug data focus project proves	support higher reality
+631	Weighted WeightedRunningAverage Weighted Running Average weighted WeightedRunningAverageAndStdDev Weighted Running Average Std Dev datum add Std Small Average problem	bug
+641	Conf TransposeJob Transpose Job MatrixMultiplicationJob Matrix Multiplication Job Transpose setConf set Conf Configuration Confs calculation internal Multiplication	DistributedRowMatrix hadoop jobs ignore Distributed Row
+678	RankingGradient Ranking Gradient Gradient gradient Ranking negative MixedGradient Mixed Gradient NullPointerException Null Pointer Exception positive larger Null	SGD algorithm

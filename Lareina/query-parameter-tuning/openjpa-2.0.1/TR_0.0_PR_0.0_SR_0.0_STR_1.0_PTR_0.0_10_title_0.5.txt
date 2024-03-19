@@ -1,0 +1,15 @@
+1613	superclass Superclass Subclass SubclassPerson Subclass Person class inheritance JPA OpenJPA Open JPA hierarchy AccessType Access Type	Exception thrown enhancing property access abstract MappedSuperclass annotated properties Mapped
+1627	OrderBy Order Order TransactionId Transaction EmbeddedId Embedded tranSequenceNumber tran Sequence Number Transaction Sequence transactionCode transaction Code transaction Column	ORderBy ElementJoinColumn wrong columns SQL ORder Element Join
+1699	Lob Streaming support	
+1743	mappingtool anchor Invoking configuration ant work anchors support EMF Tool	
+1762	lock Lock scope Scope small PessimisticLockScope Pessimistic Lock Scope portion PESSIMISTIC Extended remove	javax persistence EXTENDED doesn properly join tables
+1764	dbcp DBCP unmanaged Basic environments automatically Automatically Driver DriverClassName Driver Class commons	enable connection pooling
+1765	TableJDBCSeq Table JDBCSeq JDBCSeq Table exception theoretical insert properly problem top row	TableGenerator doesn utilize heavy stress Generator
+1784	Map HashMap Hash Map map hashCode hash Code equals equal getMap Map Hash hash String	updates flushed
+1830	connectionPassword connection Password Password StringValue String String Configuration serializes toProperties Properties Properties overwritten connection	Deserialization EMF INVISIBLE
+1837	Embeddable embeddable Embed embed embedCollection embed Collection EmbedValue Embed embedded blob Lob collection	ElementCollection fails Oracle Element
+1865	entrySet entry Set keySet key Set Set entry key Bugs code simple FindBugs Find Bugs iterator	inefficient
+1870	Column column columnDefinition column Definition MySQL SQL SQL byte BINARY private BLOB storage	Blob types override definition annotation
+1888	generics Kernel Add	
+1896	OpenJPA Open JPA JPA duplicate unique SQLException ReportingSQLException Reporting SQLException data lib Curtis objects	store POJOs record exists
+1943	Query query SQL QueryImpl Query Impl lock Entity wait data separate scheme	timeout hint honored consistently pessimistic issued database requires multi statements locking

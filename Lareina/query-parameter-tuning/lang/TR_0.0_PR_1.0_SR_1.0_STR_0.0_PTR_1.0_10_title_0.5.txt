@@ -1,0 +1,42 @@
+59	MDT DateUtils Utils hour Calendar lang assertEquals assert Equals truncate Utils buggy Equals	method dealing DST switching hours
+259	ValuedEnum Valued Enum Enum compareTo compare typesafe Object values compare Valued classes int	easily
+281	Duration DurationFormatUtils Duration Format Utils Calendar Time set result Format String MONTH returns	wrong
+292	EntitiesTest Entities Test unescapeXml unescape Xml Test test unescape doTestUnescapeEntity Test Unescape Entity Xml xFFFF FFFF Entity reference	
+295	length thisBuf Buf StrBuilder Str Builder Str Builder Buf LANG size usages places	
+299	str size Width Fixed method width appendFixedWidthPadRight append Fixed Width Pad pad Pad Char	Bug class StrBuilder ArrayIndexOutOfBoundsException Str Builder Array Bounds Exception
+300	Number createNumber create Number NumberUtils Number Utils NumberFormatException Number Format Exception Format Utils Exception throws Digits digit	long
+304	Locale NullPointerException Null Pointer Exception Null FindBugs Find Bugs cAvailableLocaleSet Locale Set Pointer LocaleUtils Locale Utils Exception Bugs availableLocaleSet Locale Set	isAvailableLocale
+315	Time suspend StopWatch Watch Watch getTime Time acts time counter shouldn opinion	split
+328	Locale toLocale Locale LocaleUtils Locale Utils language country PropertyConverter Property Converter Utils code case Property	rejects strings variant
+346	Calendar minutes seconds test Time getTimeZone Time Zone getTime Time behaves System println	Dates incorrectly
+363	String Escape escape Utils StringEscapeUtils String Escape Utils Java script Javascripts scripts escapeJavaScript escape Java Script	method render uncorrectly
+365	BooleanUtils Boolean Utils Boolean toBoolean Boolean case Utils statement Exception assert test String	invalid drop StringIndexOutOfBoundsException Bounds
+368	getDateInstance Instance getDateTimeInstance Time Instance Locale locale FastDateFormat Fast Format Instance HashMap Hash Map case Time Format	assume getDefault won change Default
+380	Fraction loop numerator reduce infinite pretty Summary	
+393	EqualsBuilder Equals Builder compare Big compareTo compare Decimal Decimals BigDecimal Big Decimal BigDecimals Big Decimals comparing don	correctly
+412	appendFixedWidth append Fixed Width StrBuilder Str Builder Null Builder pointer width Fixed handle nulls getNullText Null Text	
+419	string str length Word String WordUtils Word Utils abbreviate upper StringIndexOutOfBoundsException String Bounds Exception Utils	bug greater
+432	Bugs string insensitive String case Case http sensitive locale Bug	handling
+457	createNumber create Number Number StringIndexOutOfBoundsException String Bounds Exception NumberUtils Number Utils String Bounds Exception Utils front thows	passed
+477	Format format formatRegistry format Registry Extended Message ExtendedMessageFormat Extended Message Format appendTo append String borderStyle border Style escapingOn escaping	OutOfMemory custom registry pattern single quotes Memory
+480	String escapeHtml escape Html StringEscapeUtils String Escape Utils characters unicode Escape escape utf Characters println	incorrectly converts FFFF
+521	Number isNumber Number NumberUtils Number Utils number return Decimal hasDecPoint Dec Point Utils hasExp Exp Dec	Return True Valid Trailing Place
+538	Time Calendar Zone format Format test TimeZone Time Zone GregorianCalendar Gregorian Calendar problem testFormat test Format	DateFormatUtils correctly change situations Utils
+552	String replaceEach replace replacement replacementList replacement List StringUtils String Utils Utils replace searchList search List Test case	Bug Missing Documentation
+586	ThreadLocals Thread Locals ToStringStyle String Style memory web webapp String org HashCodeBuilder Hash Code Builder thread Style	trigger leaks container environments
+587	toClass Class Class NPE Object ClassUtils Class Utils Utils throws null array element	
+638	createNumber create Number Number NumberUtils Number Utils String StringIndexOutOfBoundsException String Bounds Exception Exception throws Format Utils indicators	argument passed
+645	week FastDateFormat Fast Format Format locale format Simple Week Locale SimpleDateFormat Simple Format output	outputs incorrect year isn respected
+662	Fraction Integer case MIN getDenominator Denominator FractionTest Fraction Test factory Factory apache org	commons lang math reduce
+664	Number isNumber Number hasDecPoint Dec Point String return hasExp Exp NumberUtils Number Utils code java Utils	
+677	isSameLocalTime Local Time Time Calendar Utils DateUtils Utils Local assertFalse assert False method HOUR Millis	work correct
+719	Format FastDateFormat Fast Format SimpleDateFormat Simple Format Java year pattern formats Javadoc format JDK	differently
+746	Number createNumber create Number NumberUtils Number Utils case Utils upper handle Integer NumberFormatException Number Format Exception hex	
+747	Number Long createLong create Long NumberUtils Number Utils numbers create handle hex Integer createNumber create Number	Hex
+788	Class Serialization SerializationUtils Serialization Utils ClassNotFoundException Class Exception ObjectInputStream Object Input Stream primitiveType primitive Type class bug Loader Utils	throws cloning classes
+805	Int random code RandomStringUtils Random String Utils nextInt Int length Random int ends chars	count false false universe throws java lang ArrayIndexOutOfBoundsException Array Bounds Exception
+807	Random Utils nextInt Int start String RandomUtils Random Utils RandomStringUtils Random String Utils throws source Int	confusing IAE
+822	Number createNumber create Number NumberUtils Number Utils Decimal behaviour BigDecimal Big Decimal Big work Utils Java	bad leading
+831	FastDateParser Fast Parser FDP space treats treat white SDP parse Parser SimpleDateFormat Simple Format	handle properly
+832	quotes format handle unterminated parse FastDateParser Fast Parser Simple Format works correctly	
+882	CharSequence Char Sequence Char String work CharBuffer Char Buffer Buffer Sequence hashCode hash Code Map Escape	LookupTranslator accepts input fails implementations Lookup Translator

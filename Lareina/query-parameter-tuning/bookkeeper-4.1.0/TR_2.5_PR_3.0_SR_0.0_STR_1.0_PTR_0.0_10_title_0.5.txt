@@ -1,0 +1,21 @@
+55	topic channel subscription auto recovery Subscribe HedwigSubscriber Hedwig Subscriber Subscriber Retry connection	SubscribeReconnectRetryTask retry endlessly created Reconnect Task
+247	bookkeeper system ledger underreplication JIRA replication discusses Detection detect entries	
+248	rereplicate subtask underreplicated entries replicated discusses data Rereplicating	
+272	bookie BookKeeper Book Keeper mechanism documents Keeper Book failure failures automatic approaches	Provide
+299	Ledger LedgerFragmentReplicator Ledger Fragment Replicator Fragment Replicator fragments code Keeper Book worker replication	Provide replicate LedgerChecker Checker
+300	bookie command format Directories paths machine Zookeeper Journal directories path	Create Bookie
+318	code process Multi log Callback MultiCallback Multi Callback LOG Object void callback	Spelling mistake message
+326	ledger thread Dead dump recovery Deadlock attached DeadLock Dead Lock find Lock	
+330	bookkeeper hedwig Time currentTimeMillis current Time Millis server Hedwig BOOKKEEPER usage Millis current	System
+336	bookie time entry ensemblesize failure failed quorumsize read entries ledger	readEntries Entries
+337	ensemble Metadata Version bookies Start MetadataVersionException Metadata Version Exception Write quroum bookie morethan	Add entry fails failures
+345	bookie ledger IOException Entry IOExceptions EntryLogger Entry Logger mode Logger entrylogger writable	Detect dir
+346	LedgerCache Ledger Cache ledger Ledger Cache IOExceptions jira dir bookie detect iterate	Detect
+347	bookie client bookies entries mechanism add clients discuss writable detect	Provide
+355	ledger ensemble bookie Ledger client recovery case size NoSuchLedgerException Ledger Exception quorum	mark closed slow add
+431	COOKIES cookie Ledger AbstractZkLedgerManager Abstract Ledger Manager Abstract definition Manager java NODE definitions	Duplicate
+447	Ledger ledger entries problem entry flush LedgerCacheImpl Ledger Cache Impl flushLedger flush Ledger experience getEntry Entry	Bookie fail recover flushed acknowledged
+472	servers Bookie start deployment process Autorecovery overhead Auditor case users	Provide option Servers
+491	configuration doc server parameters hedwig describing Hedwig properly	
+498	NPE Test Recovery Bookie BookieRecoveryTest Bookie Recovery Test build tearDown tear Jenkins complaining tear	
+514	test Lock manager assert callback channel bad Test Dead hanging	TestDeadLock

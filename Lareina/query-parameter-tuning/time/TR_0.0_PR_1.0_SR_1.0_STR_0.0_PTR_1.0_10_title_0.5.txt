@@ -1,0 +1,7 @@
+18	Time Zone thread generated Builder Test TestDTZ Test DTZ DateTimeZoneBuilder Time Zone Builder java testDateTimeZoneBuilder test Time Zone Builder	NPE
+21	year Time time DateTimeFormat Time Format Format parseInto parse Locale startOfYear start Year MutableDateTime Mutable Time joda	miscalculates
+28	chronology GJChronology LocalDate Local equalTo equal expectedEnd expected behaviour error assertThat assert getInstance Instance start	Questionable dates pass
+42	forOffsetHoursMinutes Offset Hours Minutes hour DateTimeZone Time Zone Hours Offset Minutes Time minutes negative offset	handle
+43	max min offset valid Zone apply DateTimeZone Time Zone Time Ensure method	
+77	MutableDateTime Mutable Time addHours add Hours time Hours mdt addDays add Days Days Years getMillis Millis Millis	
+88	hourOfDay hour Day Partials hour clockhourOfDay clockhour Day Partial Types isEqual Equal DateTimeFieldType Time Field Type clockhour Day	Constructing invalid

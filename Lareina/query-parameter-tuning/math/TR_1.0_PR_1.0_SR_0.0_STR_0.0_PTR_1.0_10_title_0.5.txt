@@ -1,0 +1,60 @@
+60	Fraction Parse source pos ProperFractionFormat Proper Fraction Format Format String ParsePosition Parse Position Function denominator	math math fraction parse return illogical result
+85	reg getSumSquaredErrors Sum Squared Errors Simple Sum SimpleRegression Simple Regression Regression Errors Squared addData add Data testSimpleRegression test Simple Regression	math
+167	ConvergenceException Convergence Exception CDF Convergence cumulativeProbability cumulative Probability Exception Impl double throws Distribution cases	normal
+175	test chi expected observed sum Chi double Test Square dev	chiSquare long returning incorrect statistic
+198	ComplexFormat Complex Format source StringIndexOutOfBoundsException String Bounds Exception Format Complex String length pos getImaginaryCharacter Imaginary Character substring	java lang parse ParsePosition Parse Position
+200	Parameters guessParametersErrors guess Parameters Errors parameters Abstract AbstractEstimator Abstract Estimator crash length Covariances problem getCovariances Covariances	bound
+209	vector RealMatrixImpl Real Matrix Impl length result matrix create Real operate Impl linear	dimensions wrong
+221	complex Complex res equals comp code method bug numbers println	Result multiplying wrong
+238	MathUtils Math Utils Math gcd fails high test powers Utils assertEquals assert Equals product	
+241	binomialCoefficient binomial Coefficient Math MathUtils Math Utils binomial noformat Utils BigInteger Big Integer Big assertEquals assert Equals int	fails large
+259	Object API Frequency OBJ object add Comparable class fail println	Bugs
+273	SimplexTableau Simplex Tableau Simplex tableau variable entry code suite path test correctly	Basic simplex
+274	matrix symmetric conditions possibility methods catch positive exceptions test exception	testing definite CholeskyDecomposition Cholesky Decomposition
+318	Eigen decomposition Values refEigenVectors Eigen Vectors double EigenDecompositionImpl Eigen Decomposition Impl refEigenValues Eigen Values Vectors version assertEquals assert Equals	wrong result eigen
+322	event step function integration bug close detected interval ODE events	pair
+326	max LInf code norm Vector ArrayRealVector Array Real Vector Real iter OpenMapRealVector Open Map Real Vector double	getLInfNorm wrong formula ways Norm
+329	getPct Pct Frequency Pct Object getCumPct Cum Pct Comparable percentage java Cum change	stat
+338	step parameter initializeStep initialize Step method call size scale Integrator Step Kutta	Wrong guess Embedded Runge methods
+344	returns min bracket max final Brent Function solver double endpoint	wrong root
+358	integrator range integration Integrator Exception events DerivativeException Derivative Exception Equations void yDot Dot	ODE
+362	VectorialConvergenceChecker Vectorial Convergence Checker custom Vectorial ignores Marquardt Levenberg Optimizer criteria parameter LevenbergMarquardtOptimizer Levenberg Marquardt Optimizer	passed
+369	BisectionSolver Bisection Solver Bisection double solve Null max NullPointerException Null Pointer Exception Univariate UnivariateRealFunction Univariate Real Function Solver	final min initial throws
+371	getCorrelationPValues Correlation PValues Correlation PearsonsCorrelation Pearsons Correlation MATH cumulativeProbability cumulative Probability problem machine cumulative Pearsons epsilon	precision limited
+377	observation weight AbstractLeastSquares Abstract Squares Abstract getRMS RMS Squares Chi RMS getChiSquare Chi Square WEIGHTS	sigma
+393	getResult Result Result MultiStartUnivariateRealOptimizer Multi Start Univariate Real Optimizer Multi method code Real Univariate Start return	Method
+482	max Max bug Fast FastMath Fast Math Min test testMinMaxFloat test Min Max Float variable case	
+546	KMeansPlusPlusClusterer KMeans Clusterer int Clusterer points KMeans distances bug return issue Cluster	Truncation
+552	int getCounts Counts MultidimensionalCounter Multidimensional Counter Output Multidimensional counter Counter println returns Counts	wrong array indices
+554	Vector crossProduct cross Product cross code implementation formulas println vectors product answer	sensitive numerical cancellation
+567	Dfp toDouble Double class method test exposant field return significand Double	inf whan
+618	NaN code Complex test Subtract add isNaN javadoc rules link	Add handle arguments differently contracts
+631	Solver Regula RegulaFalsiSolver Regula Falsi Solver Univariate Real Math code test UnivariateRealFunction Univariate Real Function solver	failure
+679	overflow OpenMapRealMatrix Open Map Real Matrix matrix integer code heap Open Real access store	Integer
+691	Variance stats setVarianceImpl set Variance Impl Summary SummaryStatistics Summary Statistics getStandardDeviation Standard Deviation code int Standard Statistics	produce NaN
+695	reinitialization events unit handling event breaks step tests complete patch	Incomplete
+704	length methods work Variance method evaluate double moment int math	correctly
+713	restrict SimplexSolver Simplex Solver coefficients Simplex flag Solver Goal coefficient restrictions Function	Negative restrictNonNegative Negative
+716	Bracketing BracketingNthOrderBrentSolver Bracketing Nth Order Brent Solver Order Brent maxIterationCount max Iteration Count Nth bracket updates side root	exceeds updating boundary
+722	Complex tanh big cos FastMath Fast Math return cosh create Tanh infinity	math numbers
+727	step size integrators Kutta Runge range Bulirsch function integration Stoer	large embedded Dormand Prince
+776	Rate constructors ElitisticListPopulation Elitistic List Population elitismRate elitism Rate range Population List check Elitistic checks	
+778	int Dfp multiply FieldElement Field Element contract Field org general method math	comply
+779	ListPopulation List Population iterator List list Iterator chromosomes population remove Population method	
+781	SimplexSolver Simplex Solver Simplex commons bad math problem test Solver optimeze Methode	
+803	RealVector Real Vector OpenMapRealVector Open Map Real Vector ebeMultiply ebe Multiply iter Real Vector ebe entries return complex	Bugs ebeDivide Divide
+835	method Fraction percentageValue percentage double bug percentage result MAX overflows Integer	rare
+836	Fraction fraction maxDenominator max Denominator int testing bugs max FractionConversionException Fraction Conversion Exception constructor double	strange behaviour
+844	ParameterGuesser Parameter Guesser HarmonicFitter Harmonic Fitter Harmonic Parameter package fails optimization guess Guesser amplitude	return values
+859	isSupportXxxInclusive Support Xxx Inclusive RealDistribution Real Distribution Support interface Xxx definition message Real NaN dxuxh	deprecate
+865	parameters NaN bounds fitness upper MAX Double bound FitnessFunction Fitness Function function	Wide CMAESOptimizer result passed
+867	bounds bound CMAESOptimizer range fits precision point parameter ulp numbers	finely coarsely upper
+904	pow Math Jeff FastMath Fast Math POWER Fast integer values Hain base	deviates negative finite exponent
+929	Multivariate MultivariateNormalDistribution Multivariate Normal Distribution double code density Assert Equals Distribution dimension Normal	returns wrong odd
+934	Complex reciprocal NaN return org returns complex apache math commons	INF
+935	atan cases Math special DerivativeStructure Derivative Structure handle Derivative properly FastMath Fast Math Fast	
+942	sample Discrete DiscreteDistribution Discrete Distribution Object type int list Pair code class	throw exception element singletons
+949	LevenbergMarquardtOptimizer Levenberg Marquardt Optimizer Optimizer otim iterations Levenberg getIterations Iterations test Iterations Evaluations Multivariate	reports
+988	intersection implementations SubLine test lines twod calling Exception fixes Pointer	NPE intersecting
+1005	linearCombination linear Combination MathArrays Math Arrays Array length prodHighNext prod High Exception Math arguments Bounds Combination	ArrayIndexOutOfBoundsException
+1021	HypergeometricDistribution Hypergeometric Distribution Hypergeometric sample integer return Distribution commons code Prints overflow	suffers

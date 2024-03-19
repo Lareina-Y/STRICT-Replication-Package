@@ -1,0 +1,42 @@
+59	DateUtils Utils MDT Calendar hour Utils truncate assert DST hours result	lang method buggy dealing switching
+259	ValuedEnum Valued Enum Enum compareTo compare typesafe values Valued int compare lang commons	Object easily
+281	Duration Time Calendar set DurationFormatUtils Duration Format Utils result cal getTimeInMillis Time Millis currentTimeMillis current Time Millis String	returns wrong
+292	EntitiesTest Entities Test test Test doTestUnescapeEntity Test Unescape Entity xFFFF FFFF reference entity Unescape Entity unescape	unescapeXml Xml
+295	thisBuf Buf length StrBuilder Str Builder Str Builder LANG Buf shouldn places noticed	usages size
+299	str size width pad Pad strLen str Len method Width padChar pad Char obj	Bug appendFixedWidthPadRight class StrBuilder ArrayIndexOutOfBoundsException append Fixed Str Builder Array Bounds Exception
+300	Number createNumber create Number NumberFormatException Number Format Exception NumberUtils Number Utils string isDigits Digits Format substring fine numeric	throws digit long
+304	cAvailableLocaleSet Locale Set Locale LocaleUtils Locale Utils availableLocaleSet Locale Set Null NullPointerException Null Pointer Exception Find initialized pointed apache	isAvailableLocale
+315	Time suspend time shouldn counter pause getTime Time acts doesn bug	StopWatch split Watch
+328	Locale toLocale Locale LocaleUtils Locale Utils case language variant POSIX country string PropertyConverter Property Converter	rejects strings
+346	Calendar minutes Time test seconds CDT Mon getTimeZone Time Zone testCalendar test Calendar DateUtils Utils	Dates behaves incorrectly
+363	String Escape escape scripts JavaScriptUtils Java Script Utils script Utils JavascriptEscape Javascript Escape javaScriptEscape java Script Escape Spring	StringEscapeUtils escapeJavaScript method render uncorrectly
+365	BooleanUtils Boolean Utils Boolean case toBoolean Boolean test String statement StringIndexOutOfBoundsException String Bounds Exception false source	invalid drop
+368	locale getDateInstance Instance Locale getDateTimeInstance Time Instance Instance case Hash Format key test	FastDateFormat assume getDefault won change Fast Default
+380	Fraction loop reduce Summary pretty numerator infinite	
+393	BigDecimal Big Decimal compare compareTo compare Big comparing Decimal don EqualsBuilder Equals Builder Decimals equals	BigDecimals correctly
+412	Null null appendFixedWidth append Fixed Width Fixed Builder getNullText Null Text pointer handle width append	StrBuilder nulls Str
+419	string Word str String length upper abbreviate StringIndexOutOfBoundsException String Bounds Exception WordUtils Word Utils Bounds	bug greater
+432	Bugs insensitive Case String html locale Bug http string Common	case handling
+457	StringIndexOutOfBoundsException String Bounds Exception Number String createNumber create Number digit Bounds front don Exception place	NumberUtils thows passed Utils
+477	format Format formatRegistry format Registry ExtendedMessageFormat Extended Message Format formattedPattern formatted Pattern code String appendTo append Extended append	OutOfMemory custom registry pattern single quotes Memory
+480	String escapeHtml escape Html unicode characters utf StringEscapeUtils String Escape Utils escape problem org byte	incorrectly converts FFFF
+521	Number number decimal isNumber Number Decimal return Point code Exp hasDecPoint Dec Point	NumberUtils Return True Valid Trailing Place Utils
+538	Time Calendar TimeZone Time Zone test Format format GMT GregorianCalendar Gregorian Calendar dateTime Time problem	DateFormatUtils correctly change situations Utils
+552	String replaceEach replace replacement replacementList replacement List StringUtils String Utils replace case Test searchList search List null	Bug Missing Documentation
+586	ToStringStyle String Style memory thread org String web LANG application Code Style	ThreadLocals HashCodeBuilder trigger leaks container environments Thread Locals Hash Builder
+587	toClass Class Class Object element NPE array Utils throws ClassUtils Class Utils null	
+638	Number createNumber create Number String Exception StringIndexOutOfBoundsException String Bounds Exception NumberUtils Number Utils passed NumberFormatException Number Format Exception indicators throws	argument
+645	week FastDateFormat Fast Format locale Week Locale SimpleDateFormat Simple Format format Format output Simple	outputs incorrect year isn respected
+662	Fraction Integer getDenominator Denominator case MIN test FractionTest Fraction Test method code int	org apache commons lang math reduce
+664	Number hasExp Exp code return String isNumber Number hasDecPoint Dec Point Dec chars Digit	NumberUtils Utils
+677	isSameLocalTime Local Time DateUtils Utils Calendar assertFalse assert False Time Utils method HOUR Local Assert	work correct
+719	SimpleDateFormat Simple Format Format Java pattern year FastDateFormat Fast Format bug JDK number Javadoc	formats differently
+746	Number createNumber create Number Integer NumberUtils Number Utils NumberFormatException Number Format Exception upper Format case decode handles	hex
+747	Number Integer Long numbers createLong create Long NumberUtils Number Utils hex createNumber create Number create handle	Hex
+788	Class Serialization SerializationUtils Serialization Utils ObjectInputStream Object Input Stream primitiveType primitive Type ClassNotFoundException Class Exception noformat bug class primitive	throws cloning classes
+805	Int random code empty start array chars length Random null	RandomStringUtils count false false universe throws java lang ArrayIndexOutOfBoundsException String Utils Array Bounds Exception
+807	Random Utils lang Argument confusing RandomUtils Random Utils source nextInt Int throws IllegalArgumentException Illegal Argument Exception	RandomStringUtils IAE start String
+822	Number createNumber create Number BigDecimal Big Decimal Big behaviour work NumberUtils Number Utils Decimal create leading	bad
+831	FastDateParser Fast Parser parse parsed space dates treat white FDP Fast Format	handle properly
+832	format parse quotes unterminated Simple SimpleDateFormat Simple Format handle works correctly Fast	FastDateParser Parser
+882	String Char CharSequence Char Sequence work CharBuffer Char Buffer code char equals Map hashCode hash Code	LookupTranslator accepts input fails implementations Lookup Translator

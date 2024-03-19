@@ -1,0 +1,42 @@
+59	MDT Utils hour Equals DateUtils Utils lang DST buggy Calendar hours	truncate method dealing switching
+259	Enum ValuedEnum Valued Enum typesafe values classes compareTo compare Object int org lang	easily
+281	Calendar Duration Time DurationFormatUtils Duration Format Utils set String Dec Utils getTimeInMillis Time Millis result	returns wrong
+292	test EntitiesTest Entities Test doTestUnescapeEntity Test Unescape Entity Test Entity reference entity Unescape testNumberOverflow test Number Overflow unescape	unescapeXml Xml
+295	length thisBuf Buf Str StrBuilder Str Builder Builder LANG Buf shouldn size places	usages
+299	str size width Pad pad method obj Width int Char	Bug appendFixedWidthPadRight class StrBuilder ArrayIndexOutOfBoundsException append Fixed Str Builder Array Bounds Exception
+300	Number NumberFormatException Number Format Exception createNumber create Number Format string Exception Utils NumberUtils Number Utils substring works	throws digit long
+304	Null Locale NullPointerException Null Pointer Exception Exception FindBugs Find Bugs cAvailableLocaleSet Locale Set Bugs Pointer LocaleUtils Locale Utils Field	isAvailableLocale
+315	Time time counter shouldn acts bug StopWatch Watch suspend opinion Watch	split
+328	Locale toLocale Locale language LocaleUtils Locale Utils country case POSIX PropertyConverter Property Converter code Utils	rejects strings variant
+346	Calendar minutes test Time seconds Mon println CDT DateUtils Utils System	Dates behaves incorrectly
+363	String Escape Utils org scripts script Spring escape Java println	StringEscapeUtils escapeJavaScript method render uncorrectly Script
+365	BooleanUtils Boolean Utils Boolean toBoolean Boolean case test statement String Exception source StringIndexOutOfBoundsException String Bounds Exception	invalid drop
+368	locale case Locale getDateInstance Instance getDateTimeInstance Time Instance Instance Format FastDateFormat Fast Format Hash Time	assume getDefault won change Default
+380	Fraction loop numerator reduce pretty Summary infinite	
+393	Big compareTo compare Decimals BigDecimal Big Decimal EqualsBuilder Equals Builder compare Decimal Builder comparing BigDecimals Big Decimals	don correctly
+412	pointer Fixed width getNullText Null Text Builder appendFixedWidth append Fixed Width Null null StrBuilder Str Builder exception	handle nulls
+419	string str length String Word StringIndexOutOfBoundsException String Bounds Exception Utils Exception substring upper	WordUtils abbreviate bug greater
+432	Bugs Case locale String http insensitive case string Bug html	handling
+457	String StringIndexOutOfBoundsException String Bounds Exception Number Exception front createNumber create Number Bounds Utils NumberUtils Number Utils digit	thows passed
+477	format Format formatRegistry format Registry ExtendedMessageFormat Extended Message Format code appendTo append Extended String formattedPattern formatted Pattern java	OutOfMemory custom registry pattern single quotes Memory
+480	String characters escapeHtml escape Html StringEscapeUtils String Escape Utils unicode problem org escape utf Escape	incorrectly converts FFFF
+521	Number return isNumber Number number code Point Exp Decimal Dec hasDecPoint Dec Point	NumberUtils Return True Valid Trailing Place Utils
+538	Time Calendar test Format format Zone TimeZone Time Zone problem noformat GregorianCalendar Gregorian Calendar	DateFormatUtils correctly change situations Utils
+552	String replaceEach replace replacement case replacementList replacement List Test Utils StringUtils String Utils searchList search List org	Bug Missing Documentation
+586	org memory String ToStringStyle String Style thread web LANG Style application reference	ThreadLocals HashCodeBuilder trigger leaks container environments Thread Locals Hash Code Builder
+587	Class toClass Class NPE Object Utils element array ClassUtils Class Utils throws null	
+638	Number String Exception createNumber create Number StringIndexOutOfBoundsException String Bounds Exception NumberUtils Number Utils Utils Format indicators NumberFormatException Number Format Exception	throws argument passed
+645	week locale FastDateFormat Fast Format Format format Week Simple Locale SimpleDateFormat Simple Format import	outputs incorrect year isn respected
+662	Fraction Integer case MIN method code test getDenominator Denominator void getReducedFraction Reduced Fraction	org apache commons lang math reduce
+664	Number return code hasDecPoint Dec Point hasExp Exp String isNumber Number java Digit Dec	NumberUtils Utils
+677	Calendar isSameLocalTime Local Time Time Utils Local DateUtils Utils HOUR method False Millis	work correct
+719	pattern Java SimpleDateFormat Simple Format Format year number bug FastDateFormat Fast Format format YYY	formats differently
+746	Number createNumber create Number NumberFormatException Number Format Exception case Integer Utils Format NumberUtils Number Utils upper decode	handle hex
+747	Number Long Integer createLong create Long hex numbers createNumber create Number Hex NumberUtils Number Utils create	handle
+788	Class Serialization ClassNotFoundException Class Exception ObjectInputStream Object Input Stream Exception noformat SerializationUtils Serialization Utils class Loader primitiveType primitive Type	throws cloning classes
+805	Int code start ends array gap pass length char user	RandomStringUtils random count false false universe random throws java lang ArrayIndexOutOfBoundsException Random String Utils Array Bounds Exception
+807	Random Utils source lang String Argument IllegalArgumentException Illegal Argument Exception Illegal problem start	RandomStringUtils throws confusing IAE
+822	Number Big BigDecimal Big Decimal createNumber create Number behaviour work Decimal Java Utils Format	NumberUtils bad leading
+831	FastDateParser Fast Parser FDP dates space Format Parser SDP parse treat Javadoc	handle white properly
+832	format parse quotes Simple Format FastDateParser Fast Parser unterminated handle SimpleDateFormat Simple Format Parser	correctly
+882	CharSequence Char Sequence Char String work CharBuffer Char Buffer Map Sequence code Buffer Utils	LookupTranslator accepts input fails implementations Lookup Translator

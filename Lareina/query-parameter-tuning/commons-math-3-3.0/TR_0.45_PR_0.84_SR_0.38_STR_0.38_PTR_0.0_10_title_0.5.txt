@@ -1,0 +1,16 @@
+641	distance Implement methods segements Lines Segments method point lines exists	
+718	Probability Binomial BinomialDistributionImpl Binomial Distribution Impl method inverseCumulativeProbability inverse Cumulative Probability returns cumulativeProbability cumulative Probability Impl problem Distribution	wrong large trials
+764	sample RandomGenerator Random Generator Sampler Random generator interface RealDistribution Real Distribution method Distribution createSampler create Sampler	API accept parameter
+775	population ListPopulation List Population Population populationLimit population Limit constructor List Limit check chromosomes occur	negative
+776	Rate Population Elitism ElitisticListPopulation Elitistic List Population constructors List elitismRate elitism Rate Elitistic elitism set	range checks
+777	CrossoverPolicy Crossover Policy Crossover Point Ordered Policy OnePointCrossover Point Crossover Chromosomes needed	
+778	FieldElement Field Element int Field Dfp math multiply org contract method Element	comply general
+779	ListPopulation List Population list List Population iterator population Iterator chromosomes method returns	remove
+782	Brent block criterion algorithm user implementation addition code location BrentOptimizer Brent Optimizer	User defined check badly
+835	percentage Fraction method percentageValue percentage bug fraction result double numerator overflows	rare
+841	int Int gcd rng Integer Arithmetic test System nanoTime nano Time checksum	speed
+849	implementation values accuracy logGamma log Gamma Commons resolution function docs NSWC citations	Precision improvement class
+878	test tests chi Test wikipedia case ratio sense Likelihood cell	Log LLR math stat inference
+905	cosh Math sinh exp Jeff Hain FastMath Fast Math values overflow log	support range counterparts
+915	EmpiricalDistribution Empirical Distribution RandomDataImpl Random Data Impl Data class compatibility Random RandomDataGenerator Random Data Generator Empirical randomData random Data field	broken
+1121	Optimizer Brent BrentOptimizer Brent Optimizer Base iteration BaseOptimizer Base Optimizer count doOptimize Optimize iter optimizer	doesn counter

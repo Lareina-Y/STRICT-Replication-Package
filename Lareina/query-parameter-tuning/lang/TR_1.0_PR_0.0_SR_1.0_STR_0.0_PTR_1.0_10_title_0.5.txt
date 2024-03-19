@@ -1,0 +1,42 @@
+59	DateUtils Utils truncate MDT hour oct Calendar result assert assertEquals assert Equals lang	method buggy dealing DST switching hours
+259	ValuedEnum Valued Enum Valued compareTo compare Enum typesafe compare int Object values commons	easily
+281	result Duration Calendar Time set DurationFormatUtils Duration Format Utils cal MONTH returns Format	wrong
+292	unescape Test unescapeXml unescape Xml EntitiesTest Entities Test test xFFFF FFFF Xml doTestUnescapeEntity Test Unescape Entity reference entity	
+295	length thisBuf Buf StrBuilder Str Builder Str Builder LANG places noticed usages size	
+299	str method size width pad StrBuilder Str Builder append appendFixedWidthPadRight append Fixed Width Pad Fixed Pad	Bug class ArrayIndexOutOfBoundsException Array Bounds Exception
+300	Number createNumber create Number NumberUtils Number Utils throws NumberFormatException Number Format Exception isDigits Digits fine numeric substring Digits	digit long
+304	Locale NullPointerException Null Pointer Exception cAvailableLocaleSet Locale Set Null LocaleUtils Locale Utils Find Set availableLocaleSet Locale Set initialized pointed	isAvailableLocale
+315	suspend Time StopWatch Watch Watch getTime Time acts time doesn shouldn counter	split
+328	Locale toLocale Locale LocaleUtils Locale Utils variant language strings case PropertyConverter Property Converter string code	rejects
+346	Calendar minutes behaves Time test incorrectly getTimeZone Time Zone seconds output getTime Time	Dates
+363	String Escape escape escapeJavaScript escape Java Script script Utils Java uncorrectly JavaScriptUtils Java Script Utils StringEscapeUtils String Escape Utils	method render
+365	BooleanUtils Boolean Utils Boolean toBoolean Boolean case false statement assert String test invalid	drop StringIndexOutOfBoundsException Bounds Exception
+368	getDateInstance Instance getDateTimeInstance Time Instance Locale locale Instance HashMap Hash Map Hash key case test	FastDateFormat assume getDefault won change Fast Format Default
+380	Fraction loop reduce numerator infinite pretty Summary	
+393	compare Big BigDecimal Big Decimal don EqualsBuilder Equals Builder comparing compareTo compare BigDecimals Big Decimals Equals correctly	
+412	appendFixedWidth append Fixed Width Null handle null nulls Fixed Str Builder append StrBuilder Str Builder	
+419	string Word str abbreviate length upper WordUtils Word Utils greater String bug	
+432	insensitive string Bugs String sensitive Case case intended html handling	
+457	createNumber create Number Number StringIndexOutOfBoundsException String Bounds Exception String NumberUtils Number Utils thows Bounds don place digit	passed
+477	Format format formatRegistry format Registry Extended ExtendedMessageFormat Extended Message Format String custom border escaping pattern	OutOfMemory registry single quotes Memory
+480	escapeHtml escape Html String unicode characters StringEscapeUtils String Escape Utils incorrectly escape println utf Utils	converts FFFF
+521	Number isNumber Number number decimal NumberUtils Number Utils return Decimal hasDecPoint Dec Point Return Dec	True Valid Trailing Place
+538	Time Calendar format Format test TimeZone Time Zone GregorianCalendar Gregorian Calendar dateTime Time cal GMT	DateFormatUtils correctly change situations Utils
+552	String replaceEach replace replace replacementList replacement List StringUtils String Utils replacement null result Test Utils	Bug Missing Documentation
+586	ToStringStyle String Style memory created ThreadLocals Thread Locals remove web webapp String org Thread	HashCodeBuilder trigger leaks container environments Hash Code Builder
+587	toClass Class Class Object ClassUtils Class Utils throws NPE array element null Utils	
+638	createNumber create Number Number throws StringIndexOutOfBoundsException String Bounds Exception String NumberUtils Number Utils passed Exception argument NumberFormatException Number Format Exception	
+645	week FastDateFormat Fast Format format locale Locale output Week Format SimpleDateFormat Simple Format Fast	outputs incorrect year isn respected
+662	Fraction Integer apache case MIN commons getDenominator Denominator assert borderStyle border Style FractionTest Fraction Test	org lang math reduce
+664	Number isNumber Number String hasExp Exp return hasDecPoint Dec Point code chars NumberUtils Number Utils Dec	
+677	DateUtils Utils isSameLocalTime Local Time Utils assertFalse assert False Time Calendar Local method cal work	correct
+719	FastDateFormat Fast Format Format SimpleDateFormat Simple Format Java year Fast formats pattern adjusted Javadoc	differently
+746	Number NumberUtils Number Utils createNumber create Number upper handle Integer case work NumberFormatException Number Format Exception handles	hex
+747	Long create handle Number NumberUtils Number Utils createLong create Long numbers hex Integer createNumber create Number	Hex
+788	Class Serialization SerializationUtils Serialization Utils primitive ClassNotFoundException Class Exception bug ObjectInputStream Object Input Stream class noformat primitiveType primitive Type	throws cloning classes
+805	random chars code Int empty false Random RandomStringUtils Random String Utils lang array	count universe throws java ArrayIndexOutOfBoundsException Array Bounds Exception
+807	Random throws confusing start Utils nextInt Int Argument lang RandomStringUtils Random String Utils Illegal	IAE
+822	Number createNumber create Number behaviour NumberUtils Number Utils leading BigDecimal Big Decimal create Big Decimal nulll	bad
+831	white space parse FastDateParser Fast Parser treat treats Fast parsed handle FDP	properly
+832	unterminated handle quotes format parse correctly Simple handled works Fast	FastDateParser Parser
+882	CharSequence Char Sequence Char String work CharBuffer Char Buffer equals hashCode hash Code Escape implemented lookupMap lookup Map	LookupTranslator accepts input fails implementations Lookup Translator
