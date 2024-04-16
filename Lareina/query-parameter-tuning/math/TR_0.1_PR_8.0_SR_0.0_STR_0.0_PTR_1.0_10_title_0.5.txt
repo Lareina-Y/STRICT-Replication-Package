@@ -1,0 +1,30 @@
+60	Parse Format source Fraction pos String ProperFractionFormat Proper Fraction Format function Position denominator	math Function math fraction parse ParsePosition return illogical result
+85	Errors Sum Regression getSumSquaredErrors Sum Squared Errors reg addData add Data Simple assertTrue assert True SimpleRegression Simple Regression test	math
+167	ConvergenceException Convergence Exception Exception CDF Impl Distribution NormalDistributionImpl Normal Distribution Impl Probability cases cumulativeProbability cumulative Probability Convergence	normal
+175	test chi Chi Square Test Statistic sense sum values data	chiSquare double expected long observed returning incorrect statistic
+198	ComplexFormat Complex Format source Complex Format Character ParsePosition Parse Position length StringIndexOutOfBoundsException String Bounds Exception Parse Exception	java lang parse pos
+200	parameters Parameters guessParametersErrors guess Parameters Errors length Covariances cols AbstractEstimator Abstract Estimator crash Abstract problem	getCovariances bound
+209	RealMatrixImpl Real Matrix Impl length vector matrix Matrix Impl yields input apache result	operate dimensions wrong
+221	Complex code Format bug method problem complex numbers println res	Result multiplying equals wrong
+238	Math MathUtils Math Utils Utils assertEquals assert Equals powers gcd arguments test power fails	high
+241	Math MathUtils Math Utils binomial binomialCoefficient binomial Coefficient BigInteger Big Integer Utils assertEquals assert Equals noformat Big return	fails large
+259	Object API OBJ object println getCount Count Exception Count getPct Pct class	Bugs Frequency
+273	SimplexTableau Simplex Tableau Simplex path suite tableau code test nonzero bug work	Basic variable correctly simplex
+274	matrix conditions test methods force possibility catch cholesky decomposition CholeskyDecomposition Cholesky Decomposition	testing symmetric positive definite
+318	Eigen decomposition Values refEigenVectors Eigen Vectors version refEigenValues Eigen Values Vectors assertEquals assert Equals code Impl	wrong result eigen
+322	event step function integration signs bug maximum interval start ODE	pair close detected
+326	max LInf abs Norm Vector Iterator norm iter Math code	getLInfNorm wrong formula ArrayRealVector OpenMapRealVector ways Array Real Open Map Real
+329	getPct Pct Frequency Object Pct Cum getCumPct Cum Pct java percentage change link	stat Comparable Comparable
+338	initializeStep initialize Step step method Integrator Step parameter scale Runge application Kutta	Wrong size guess Embedded methods
+344	returns root bracket Function min Brent yMax Max max UnivariateRealFunction Univariate Real Function function	solver wrong endpoint
+358	integrator Integrator integration void range Exception Equations DerivativeException Derivative Exception yDot Dot Derivatives	ODE
+362	custom Vectorial Marquardt Levenberg Optimizer VectorialConvergenceChecker Vectorial Convergence Checker Checker LevenbergMarquardtOptimizer Levenberg Marquardt Optimizer criteria optimizer	ignores parameter passed
+369	BisectionSolver Bisection Solver Null Bisection Impl Pointer max Univariate NullPointerException Null Pointer Exception UnivariateRealFunction Univariate Real Function Real	solve final double min double double initial throws
+371	Correlation getCorrelationPValues Correlation PValues problem MATH cumulativeProbability cumulative Probability Probability PearsonsCorrelation Pearsons Correlation machine PValues Probabily	precision limited epsilon
+377	weight getRMS RMS Chi Squares RMS observation getChiSquare Chi Square AbstractLeastSquares Abstract Squares Square WEIGHTS	sigma
+393	Result getResult Result method Multi MultiStartUnivariateRealOptimizer Multi Start Univariate Real Optimizer Real Optimizer Start optimaValues optima Values Univariate	Method
+482	Max bug FastMath Fast Math Min testMinMaxFloat test Min Max Float Float case test max tests	
+546	KMeansPlusPlusClusterer KMeans Clusterer int Clusterer points return distances Cluster version bug clusterer	Truncation issue
+552	int System Output Counter String MultidimensionalCounter Multidimensional Counter Counts returns getCounts Counts println	wrong array indices
+554	Vector cross crossProduct cross Product implementation Cross formulas vectors code answer Product	sensitive numerical cancellation
+567	Dfp method class toDouble Double test field FFF exposant xFFF FFF significand	return inf whan

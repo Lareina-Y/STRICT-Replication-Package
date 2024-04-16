@@ -1,0 +1,21 @@
+480	characters String StringEscapeUtils String Escape Utils Escape escapeHtml escape Html import org problem test Html	incorrectly converts unicode FFFF
+521	isNumber Number return Number Utils code block Exp Point hasExp Exp number	NumberUtils Return True Valid Trailing Decimal Place
+538	Time Zone Calendar Format test format TimeZone Time Zone problem noformat FastDateFormat Fast Format	DateFormatUtils correctly change situations Utils
+552	Utils String replaceEach replace replacement case Test StringUtils String Utils import List org	Bug Missing Documentation
+586	memory ToStringStyle String Style org String thread Style LANG reference web leak	ThreadLocals HashCodeBuilder trigger leaks container environments Thread Locals Hash Code Builder
+587	Class NPE toClass Class Utils Object element array ClassUtils Class Utils throws null	
+638	Exception String Number NumberUtils Number Utils StringIndexOutOfBoundsException String Bounds Exception Format createNumber create Number Utils indicators NumberFormatException Number Format Exception	throws argument passed
+645	Format locale week FastDateFormat Fast Format Simple format import Week println SimpleDateFormat Simple Format	outputs incorrect year isn respected
+662	Fraction MIN Integer method code case void test getReducedFraction Reduced Fraction Denominator	org apache commons lang math reduce
+664	return Number hasDecPoint Dec Point code java String change isNumber Number hasExp Exp Digit	NumberUtils Utils
+677	Calendar Time isSameLocalTime Local Time Local Utils Millis DateUtils Utils HOUR False method	work correct
+719	pattern Java SimpleDateFormat Simple Format Format year number bug format FastDateFormat Fast Format YYY	formats differently
+746	Number case Utils NumberFormatException Number Format Exception createNumber create Number Integer NumberUtils Number Utils Format Exception upper	handle hex
+747	Number Long Integer hex createLong create Long numbers Utils Hex createNumber create Number length	NumberUtils handle
+788	Class ClassNotFoundException Class Exception Serialization Exception Input class noformat Loader SerializationUtils Serialization Utils clone	throws cloning primitive classes
+805	code ends Int pass start user length char gap nextInt Int	RandomStringUtils random count false false universe random throws java lang ArrayIndexOutOfBoundsException Random String Utils Array Bounds Exception
+807	Random Utils String source problem lang IllegalArgumentException Illegal Argument Exception Argument Illegal start	RandomStringUtils throws confusing IAE
+822	Number Big createNumber create Number BigDecimal Big Decimal behaviour Decimal work Utils Java Exception	NumberUtils bad leading
+831	FastDateParser Fast Parser FDP Parser dates SDP space Format SimpleDateFormat Simple Format Javadoc number	handle white properly
+832	format parse FastDateParser Fast Parser Format quotes Simple SimpleDateFormat Simple Format Parser unterminated FDP	handle correctly
+882	CharSequence Char Sequence Char Sequence String work Map CharBuffer Char Buffer Utils Buffer Code	LookupTranslator accepts input fails implementations Lookup Translator

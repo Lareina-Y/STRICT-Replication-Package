@@ -1,0 +1,30 @@
+618	NaN Complex code test isNaN arguments rules parts values Inifinite	Add Subtract handle differently javadoc contracts
+631	Solver Real Regula RegulaFalsiSolver Regula Falsi Solver Univariate code Math UnivariateRealFunction Univariate Real Function unit Pegasus	failure
+679	overflow Matrix heap matrix code store problem integer vulnerability access	Integer OpenMapRealMatrix Open Map Real
+691	Variance stats setVarianceImpl set Variance Impl Deviation Impl int Summary java SummaryStatistics Summary Statistics code	getStandardDeviation produce NaN Standard
+695	reinitialization track unit tests events context step breaks patch handling	Incomplete
+704	length Variance methods method work check weights int moment values	evaluate correctly
+713	SimplexSolver Simplex Solver flag variables coefficients values Simplex Solver MINIMIZE function GoalType Goal Type	Negative restrictNonNegative restrict Negative
+716	Order Brent Bracketing bracket BracketingNthOrderBrentSolver Bracketing Nth Order Brent Solver root updates side Solver Nth	exceeds maxIterationCount updating boundary max Iteration Count
+722	Complex cos return tanh FastMath Fast Math java number Tanh formula problem	math big numbers
+727	step size Kutta integrators Runge function integration Bulirsch Gragg Stoer	large embedded Dormand Prince
+776	Rate Population List constructors Elitistic ElitisticListPopulation Elitistic List Population range check checks Elitism	elitismRate elitism
+778	int Dfp FieldElement Field Element Field method contract org Element math class	multiply comply general multiply
+779	Population ListPopulation List Population list List iterator Iterator method population returns chromosomes	remove
+781	math problem SimplexSolver Simplex Solver test Methode Solver commons Simplex works optimeze	bad
+803	OpenMapRealVector Open Map Real Vector iter ebe bug ebeMultiply ebe Multiply complex Open Map RealVector Real Vector return	Bugs ebeDivide Divide
+835	method Fraction percentage bug percentageValue percentage result overflows fraction MAX Integer	rare
+836	Fraction maxDenominator max Denominator fraction FractionConversionException Fraction Conversion Exception Test bugs int Exception testing denominator	double constructor strange behaviour
+844	HarmonicFitter Harmonic Fitter ParameterGuesser Parameter Guesser Harmonic package Guesser Parameter optimization guess parameter class	fails return values
+859	isSupportXxxInclusive Support Xxx Inclusive Distribution Xxx interface definition Support RealDistribution Real Distribution xejde message support	deprecate
+865	NaN parameters fitness bounds function MAX guess FitnessFunction Fitness Function optimizer divide	Wide CMAESOptimizer result passed
+867	range CMAESOptimizer bounds precision point ulp parameter interval numbers fits	finely coarsely upper
+904	pow Jeff Hain FastMath Fast Math Math integer power values POWER base	deviates negative finite exponent
+929	Multivariate Distribution density Assert MultivariateNormalDistribution Multivariate Normal Distribution Equals dimension code assertEquals assert Equals returns	double wrong odd
+934	Complex org NaN complex return math apache INF reciprocal returns	
+935	atan cases DerivativeStructure Derivative Structure Math FastMath Fast Math special handle Fast properly values	
+942	sample Discrete Distribution Object DiscreteDistribution Discrete Distribution list int code Array type	throw exception element singletons class
+949	Optimizer LevenbergMarquardtOptimizer Levenberg Marquardt Optimizer Levenberg otim Marquardt test getIterations Iterations iterations Evaluations assertThat assert	reports
+988	intersection test implementations twod cases fixes Exception SubLine toSubSpace Space Pointer	NPE calling intersecting lines
+1005	linearCombination linear Combination MathArrays Math Arrays Exception prodHighNext prod High Combination Array arguments Arrays length multiplication	ArrayIndexOutOfBoundsException Bounds
+1021	HypergeometricDistribution Hypergeometric Distribution Distribution Hypergeometric sample integer math return Sample Prints method	suffers overflow
