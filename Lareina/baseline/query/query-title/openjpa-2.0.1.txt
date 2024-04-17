@@ -1,0 +1,15 @@
+1613	Exception thrown when enhancing a  property access  class that has an abstract  MappedSuperclass with no annotated properties
+1627	ORderBy with  ElementJoinColumn and EmbeddedId uses wrong columns in SQL
+1699	Streaming Lob support in DB
+1743	Tool configuration does not support EMF anchors
+1762	javax persistence lock scope EXTENDED doesn t properly lock join tables
+1764	Automatically enable connection pooling in unmanaged environments
+1765	TableGenerator doesn t properly utilize all keys when under heavy stress
+1784	Map value updates not flushed
+1830	Deserialization of EMF causes connectionPassword to be overwritten with Value INVISIBLE
+1837	ElementCollection contains Embeddable with blob value fails in Oracle
+1865	Makes inefficient use of keySet iterator instead of entrySet iterator
+1870	Blob types override column definition from  Column annotation with MySQL
+1888	Add generics to the Kernel
+1896	OpenJPA cannot store POJOs if a corresponding record already exists
+1943	Query timeout hint not honored consistently when pessimistic lock is issued to database requires multi statements locking scheme

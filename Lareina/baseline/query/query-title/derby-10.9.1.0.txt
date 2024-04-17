@@ -1,0 +1,24 @@
+1400	Cleanup code in network server s DRDAStatement class
+4279	Statement cache deadlock
+5232	Put a stern README file in log and seg  directories to warn users of corrpution they will cause if they touch files there
+5561	Race conditions in LogicalConnection checking for a null physical connection
+5854	Test for methods in BrokeredCallableStatement
+5896	Change java drda source code to use spaces instead of tabs and clean up tab creep in java client
+5911	WHERE condition getting pushed into sub query with FETCH
+5927	Add utility methods to query state of URL attributes in EmbedConnection
+5930	Reformat RawStore setupEncryptionEngines
+5933	SQL sorting error
+5955	Prepare Derby to run with Compact Profiles  JEP
+5996	Create readme files  cautioning users against modifying database files  at database hard upgrade time
+6000	Implement support for JDBC
+6008	Allow ORDER BY and FETCH OFFSET in set operands
+6009	Need stricter checking of ORDER BY clause in VALUES expressions
+6044	Fix poor word breaking in table on download page s
+6053	Client should use a prepared statement rather than regular statement for Connection setTransactionIsolation
+6063	Access static variables by class name in TabInfoImpl  InsertResultSet and ControlRow
+6064	Failures in upgradeTests Changes    related to index cardinality statistics
+6086	Factor out logic for creating custom connection in jdbcapi StatementPoolingTest
+6089	CallableStatement registerOutParameter on client lacks check of legal types
+6094	Derby ignores DriverManager setLoginTimeout
+6147	ClosedObjectTest fails on the     branch when running on Java
+6150	Add automatic cleanup of connections opened with openDefaultConnection

@@ -1,0 +1,29 @@
+29516	Bug   � SearchEngine regressions in
+42243	Bug   � Incorrect syntax diagnosis for assert in source     mode
+65738	Bug   �  builder  Build automatically happens only on every other save
+79809	Bug   �      dom javadoc  Need better support for type parameter Javadoc tags
+110797	Bug   � In case of multiple task tags on a single line  the tasks view does not show the complete line for each tag
+126180	Bug   �      compiler  NPE reporting invalid enclosing type
+145202	Bug   � False positive in null reference analyzer after negated instanceof
+165346	Bug   �  compiler null  org eclipse jdt internal compiler ast OperatorExpression nullStatus FlowInfo  too conservative
+168331	Bug   �      compiler  AbstractMethodError on interface method
+228691	Bug   � JDT impl of com sun mirror util Types isAssignable  returns false for wrapper to primitive assignment
+291322	Bug   � Test errors when running JDT Core tests on Windows
+380501	Bug   �      compiler  Add support for default methods  JSR
+381358	Bug   �       Compiler should gracefully reject JSR   constructs at source levels
+385293	Bug   �      compiler  compiler accepts normal modifiers on type arguments
+388634	Bug   �       Test failure in Compliance     at compliance
+396139	Bug   �       define which JRE  build we are targeting in BETA JAVA
+396258	Bug   �       adopt new syntax for annotations on qualified type names in NullTypeAnnotationTest
+399567	Bug   �       Different error message from the reference compiler
+401848	Bug   � ASTRewrite on type annotations adds an additional  CR
+405051	Bug   � JavaModel refreshExternalArchives needs to happen before search is primed
+405889	Bug   �      compiler codegen  Resilience against NPE needed in Scope getJavaLangInvokeMethodHandlesLookup
+412882	Bug   � Unnecessary validation of optional library classpath entries
+415911	Bug   �      compiler  NPE when TYPE USE annotated method with missing return type
+417388	Bug   � TypeBinding on a TypeReference for parameter does not have type use annotations
+417669	Bug   �      dom Incorrect source ranges for annotated SimpleType that is nested in a ParameterizedType
+418919	Bug   �      compiler internal  Remove boolean forcing creation of annotated bindings
+424718	Bug   �      compiler  API backward compatibility AST TypeReference
+430451	Bug   � Tests fail in org eclipse jdt compiler tool tests CompilerInvocationTests with JRE
+456395	Bug   � can t compile the Java  code

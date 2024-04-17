@@ -1,0 +1,42 @@
+59	 lang  DateUtils truncate method is buggy when dealing with
+259	 ValuedEnum compareTo Object other  not typesafe   it
+281	 DurationFormatUtils returns wrong result
+292	 unescapeXml    should be
+295	 StrBuilder contains usages of thisBuf length when they should use
+299	 Bug in method appendFixedWidthPadRight of class StrBuilder causes an ArrayIndexOutOfBoundsException
+300	 NumberUtils createNumber throws NumberFormatException for one digit long
+304	 NullPointerException in isAvailableLocale Locale
+315	 StopWatch  suspend  acts as split  if followed
+328	 LocaleUtils toLocale  rejects strings with only language variant
+346	 Dates round  behaves incorrectly for minutes and seconds
+363	 StringEscapeUtils escapeJavaScript  method did not escape   into
+365	 BooleanUtils toBoolean    invalid drop thru in case
+368	 FastDateFormat getDateInstance  and getDateTimeInstance  assume Locale getDefault 
+380	 infinite loop in Fraction reduce when numerator
+393	 EqualsBuilder don t compare BigDecimals correctly
+412	 StrBuilder appendFixedWidth does not handle nulls
+419	 WordUtils abbreviate bug when lower is greater than str length
+432	 Fix case insensitive string handling
+457	 NumberUtils createNumber thows a StringIndexOutOfBoundsException when only an  l
+477	 ExtendedMessageFormat  OutOfMemory with custom format registry and a pattern
+480	 StringEscapeUtils escapeHtml incorrectly converts unicode characters above U  FFFF
+521	 NumberUtils isNumber  Should Return True for Valid Number with
+538	 DateFormatUtils format does not correctly change Calendar TimeZone in certain
+552	 StringUtils replaceEach   Bug or Missing Documentation
+586	 Use of ThreadLocals in ToStringStyle and HashCodeBuilder trigger memory leaks
+587	 ClassUtils toClass Object  throws NPE on null array element
+638	 NumberUtils createNumber throws a StringIndexOutOfBoundsException when argument containing  e
+645	 FastDateFormat format  outputs incorrect week of year because locale
+662	 org apache commons lang  math Fraction does not reduce
+664	 NumberUtils isNumber String  is not right when the String
+677	 DateUtils isSameLocalTime does not work correct
+719	 FastDateFormat formats year differently than SimpleDateFormat in Java
+746	 NumberUtils does not handle upper case hex   X
+747	 NumberUtils does not handle Long Hex numbers
+788	 SerializationUtils throws ClassNotFoundException when cloning primitive classes
+805	 RandomStringUtils random count       
+807	 RandomStringUtils throws confusing IAE when end   start
+822	 NumberUtils createNumber   bad behaviour for leading
+831	 FastDateParser does not handle white space properly
+832	 FastDateParser does not handle unterminated quotes correctly
+882	 LookupTranslator accepts CharSequence as input  but fails to work

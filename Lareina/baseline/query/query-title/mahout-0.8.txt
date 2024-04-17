@@ -1,0 +1,15 @@
+1030	Regression  Clustered Points Should be WeightedPropertyVectorWritable not WeightedVectorWritable
+1242	No key redistribution function for associative maps
+1261	TasteHadoopUtils idToIndex can return an int that has size Integer MAX VALUE
+1284	DummyRecordWriter s bug with reused Writables
+1301	toString  method of SequentialAccessSparseVector has excess comma at the end
+1308	Cannot extend CandidateItemsStrategy due to restricted visibility
+1317	Clarify some of the messages in Preconditions checkArgument
+1319	seqdirectory  filter argument silently ignored when run as MR
+1345	Enable randomised testing for all Mahout modules
+1351	Adding DenseVector support to AbstractCluster
+1364	Upgrade Mahout codebase to Lucene
+1368	Convert OnlineSummarizer to use the new TDigest
+1379	ClusterQualitySummarizer fails with the new T Digest for clusters with   data point
+1398	FileDataModel should provide a constructor with a delimiterPattern
+1409	MatrixVectorView has index check error

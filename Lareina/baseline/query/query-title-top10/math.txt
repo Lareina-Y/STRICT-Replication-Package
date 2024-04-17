@@ -1,0 +1,60 @@
+60	 math  Function math fraction ProperFractionFormat parse String  ParsePosition
+85	 math  SimpleRegression getSumSquaredErrors
+167	 ConvergenceException in normal CDF
+175	 chiSquare double  expected  long  observed  is
+198	 java lang StringIndexOutOfBoundsException in ComplexFormat parse String source  ParsePosition
+200	 AbstractEstimator  getCovariances  and guessParametersErrors  crash when having
+209	 RealMatrixImpl operate gets result vector dimensions wrong
+221	 Result of multiplying and equals for complex numbers is wrong
+238	 MathUtils gcd u  v  fails when u and
+241	 MathUtils binomialCoefficient n k  fails for large results
+259	 Bugs in Frequency API
+273	 Basic variable is not found correctly in simplex tableau
+274	 testing for symmetric positive definite matrix in CholeskyDecomposition
+318	 wrong result in eigen decomposition
+322	 during ODE integration  the last event in a pair
+326	 getLInfNorm  uses wrong formula in both ArrayRealVector and OpenMapRealVector
+329	 In stat Frequency  getPct Object  uses getCumPct Comparable
+338	 Wrong parameter for first step size guess for Embedded Runge
+344	 Brent solver returns the wrong value if either bracket endpoint
+358	 ODE integrator goes past specified end of integration range
+362	 LevenbergMarquardtOptimizer ignores the VectorialConvergenceChecker parameter passed to it
+369	 BisectionSolver solve final UnivariateRealFunction f  double min  double
+371	 PearsonsCorrelation getCorrelationPValues  precision limited by machine epsilon
+377	 weight versus sigma in AbstractLeastSquares
+393	 Method  getResult  in  MultiStartUnivariateRealOptimizer
+482	 FastMath max    f    
+546	 Truncation issue in KMeansPlusPlusClusterer
+552	 MultidimensionalCounter getCounts int  returns wrong array of indices
+554	 Vector D crossProduct is sensitive to numerical cancellation
+567	 class Dfp toDouble method return  inf whan Dfp value
+618	 Complex Add and Subtract handle NaN arguments differently  but
+631	 RegulaFalsiSolver  failure
+679	 Integer overflow in OpenMapRealMatrix
+691	 Statistics setVarianceImpl makes getStandardDeviation produce NaN
+695	 Incomplete reinitialization with some events handling
+704	 One of Variance evaluate  methods does not work correctly
+713	 Negative value with restrictNonNegative
+716	 BracketingNthOrderBrentSolver exceeds maxIterationCount while updating always the same boundary
+722	 math  Complex Tanh for  big  numbers
+727	 too large first step with embedded Runge Kutta integrators 
+776	 Need range checks for elitismRate in ElitisticListPopulation constructors
+778	 Dfp Dfp multiply int x  does not comply with
+779	 ListPopulation Iterator allows you to remove chromosomes from the population
+781	 SimplexSolver gives bad results
+803	 Bugs in RealVector ebeMultiply RealVector  and ebeDivide RealVector
+835	 Fraction percentageValue rare overflow
+836	 Fraction double  int  constructor strange behaviour
+844	 HarmonicFitter ParameterGuesser  sometimes fails to return sensible values
+859	 Fix and then deprecate isSupportXxxInclusive in RealDistribution interface
+865	 Wide bounds to CMAESOptimizer result in NaN parameters passed to
+867	 CMAESOptimizer with bounds fits finely near lower bound and coarsely
+904	 FastMath pow deviates from Math pow for negative  finite
+929	 MultivariateNormalDistribution density double  returns wrong value when the dimension
+934	 Complex ZERO reciprocal  returns NaN but should return INF
+935	 DerivativeStructure atan  y x  does not handle special
+942	 DiscreteDistribution sample int  may throw an exception if first
+949	 LevenbergMarquardtOptimizer reports   iterations
+988	 NPE when calling SubLine intersection  with non intersecting lines
+1005	 ArrayIndexOutOfBoundsException in MathArrays linearCombination
+1021	 HypergeometricDistribution sample suffers from integer overflow

@@ -1,0 +1,16 @@
+641	Implement distance methods on  D and  D Lines as well as Line Segments
+718	inverseCumulativeProbability of BinomialDistribution returns wrong value for large trials
+764	New sample  API should accept RandomGenerator as parameter
+775	In the ListPopulation constructor  the check for a negative populationLimit should occur first
+776	Need range checks for elitismRate in ElitisticListPopulation constructors
+777	More CrossoverPolicy s are needed
+778	Dfp Dfp multiply int x  does not comply with the general contract FieldElement multiply int n
+779	ListPopulation Iterator allows you to remove chromosomes from the population
+782	BrentOptimizer  User defined check block is badly placed
+835	Fraction percentageValue rare overflow
+841	gcd speed up
+849	Precision improvement in class Gamma
+878	G Test  Log Likelihood ratio   LLR test  in math stat inference
+905	FastMath cosh  sinh  do not support the same range of values as the Math counterparts
+915	Backward compatibility broken in  EmpiricalDistribution
+1121	Brent optimizer doesn t use the Base optimizer iteration counter
