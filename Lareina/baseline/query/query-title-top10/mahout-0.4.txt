@@ -1,16 +1,16 @@
-526	 Infinite Recursion in DefaultTreeBuilder
-552	 AbstractCluster eliminates NamedVectors by replacing them with RandomAccessSparseVector always
-561	 TestClassifier does not correctly handle  type  and 
-564	 KMeansClusterer does not use distanceThreshold parameter in testConvergence Iterable Cluster
-565	 Features incorrectly hashed in Minhash
-576	 AbstractJDBCDiffStorage updateItemPref is updating the AVG incorrectly in most cases
-580	 Missing basePath in Bayes job   InMemoryDataStore
-583	 Loss some data when create sequence files from directory
-602	 Partial Implementation  throws exceptions
-604	 Bayes Classifier fails on data other than training data
-610	 Not all Coocurrences provided to SimilarityReducer
-614	 org apache mahout classifier baytes MultipleOutputFormat not working as intended
-625	 Some of generated patterns have support higher than in reality
-631	 Small bug in WeightedRunningAverage  add WeightedRunningAverageAndStdDev
-641	 DistributedRowMatrix hadoop jobs ignore Configuration set via setConf
-678	 NullPointerException while using MixedGradient with SGD algorithm
+526	 Infinite Recursion DefaultTreeBuilder
+552	 AbstractCluster eliminates NamedVectors replacing RandomAccessSparseVector
+561	 TestClassifier correctly handle type source command parameters
+564	 KMeansClusterer distanceThreshold parameter testConvergence Iterable Cluster clusters double distanceThreshold method
+565	 Features incorrectly hashed Minhash
+576	 AbstractJDBCDiffStorage updateItemPref updating AVG incorrectly cases
+580	 Missing basePath Bayes job InMemoryDataStore
+583	 Loss data create sequence files directory
+602	 Partial Implementation throws exceptions
+604	 Bayes Classifier fails data training data
+610	 Coocurrences SimilarityReducer
+614	 org apache mahout classifier baytes MultipleOutputFormat working intended Hadoop
+625	 generated patterns support higher reality
+631	 Small bug WeightedRunningAverage add WeightedRunningAverageAndStdDev
+641	 DistributedRowMatrix hadoop jobs ignore Configuration set setConf
+678	 NullPointerException MixedGradient SGD algorithm

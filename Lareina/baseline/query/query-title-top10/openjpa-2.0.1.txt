@@ -1,15 +1,15 @@
-1613	 Exception thrown when enhancing a  property access  class
-1627	 ORderBy with  ElementJoinColumn and EmbeddedId uses wrong columns in
-1699	 Streaming Lob support in DB
-1743	 Tool configuration does not support EMF anchors
-1762	 javax persistence lock scope EXTENDED doesn t properly lock join
-1764	 Automatically enable connection pooling in unmanaged environments
-1765	 TableGenerator doesn t properly utilize all keys when under heavy
-1784	 Map value updates not flushed
-1830	 Deserialization of EMF causes connectionPassword to be overwritten with Value
-1837	 ElementCollection contains Embeddable with blob value fails in Oracle
-1865	 Makes inefficient use of keySet iterator instead of entrySet iterator
-1870	 Blob types override column definition from  Column annotation with
-1888	 Add generics to the Kernel
-1896	 OpenJPA cannot store POJOs if a corresponding record already exists
-1943	 Query timeout hint not honored consistently when pessimistic lock is
+1613	 Exception thrown enhancing property access class abstract MappedSuperclass annotated properties
+1627	 ORderBy ElementJoinColumn EmbeddedId wrong columns SQL
+1699	 Streaming Lob support
+1743	 Tool configuration support EMF anchors
+1762	 javax persistence lock scope EXTENDED doesn properly lock join tables
+1764	 Automatically enable connection pooling unmanaged environments
+1765	 TableGenerator doesn properly utilize heavy stress
+1784	 Map updates flushed
+1830	 Deserialization EMF connectionPassword overwritten INVISIBLE
+1837	 ElementCollection Embeddable blob fails Oracle
+1865	 inefficient keySet iterator entrySet iterator
+1870	 Blob types override column definition Column annotation MySQL
+1888	 Add generics Kernel
+1896	 OpenJPA store POJOs record exists
+1943	 Query timeout hint honored consistently pessimistic lock issued database requires

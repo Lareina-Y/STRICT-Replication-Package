@@ -1,24 +1,24 @@
-1400	 Cleanup code in network server s DRDAStatement class
+1400	 Cleanup code network server DRDAStatement class
 4279	 Statement cache deadlock
-5232	 Put a stern README file in log and seg 
-5561	 Race conditions in LogicalConnection checking for a null physical connection
-5854	 Test for methods in BrokeredCallableStatement
-5896	 Change java drda source code to use spaces instead of
-5911	 WHERE condition getting pushed into sub query with FETCH
-5927	 Add utility methods to query state of URL attributes in
+5232	 stern README file log seg directories warn users corrpution touch
+5561	 Race conditions LogicalConnection checking null physical connection
+5854	 Test methods BrokeredCallableStatement
+5896	 Change java drda source code spaces tabs clean tab creep
+5911	 condition pushed query FETCH
+5927	 Add utility methods query URL attributes EmbedConnection
 5930	 Reformat RawStore setupEncryptionEngines
 5933	 SQL sorting error
-5955	 Prepare Derby to run with Compact Profiles  JEP
-5996	 Create readme files  cautioning users against modifying database files
-6000	 Implement support for JDBC
-6008	 Allow ORDER BY and FETCH OFFSET in set operands
-6009	 Need stricter checking of ORDER BY clause in VALUES expressions
-6044	 Fix poor word breaking in table on download page s
-6053	 Client should use a prepared statement rather than regular statement
-6063	 Access static variables by class name in TabInfoImpl  InsertResultSet
-6064	 Failures in upgradeTests Changes    related to index
-6086	 Factor out logic for creating custom connection in jdbcapi StatementPoolingTest
-6089	 CallableStatement registerOutParameter on client lacks check of legal types
+5955	 Prepare Derby Compact Profiles JEP
+5996	 Create readme files cautioning users modifying database files database hard
+6000	 Implement support JDBC
+6008	 ORDER FETCH OFFSET set operands
+6009	 stricter checking ORDER clause VALUES expressions
+6044	 poor word breaking table download
+6053	 Client prepared statement regular statement Connection setTransactionIsolation
+6063	 Access static variables class TabInfoImpl InsertResultSet ControlRow
+6064	 Failures upgradeTests cardinality statistics
+6086	 Factor logic creating custom connection jdbcapi StatementPoolingTest
+6089	 CallableStatement registerOutParameter client lacks check legal types
 6094	 Derby ignores DriverManager setLoginTimeout
-6147	 ClosedObjectTest fails on the     branch when
-6150	 Add automatic cleanup of connections opened with openDefaultConnection
+6147	 ClosedObjectTest fails branch running Java
+6150	 Add automatic cleanup connections opened openDefaultConnection

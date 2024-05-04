@@ -1,7 +1,7 @@
-18	 NPE in DateTimeZoneBuilder
-21	 DateTimeFormat parseInto sometimes miscalculates year
-28	 Questionable behaviour of GJChronology when dates pass  BC
-42	 DateTimeZone forOffsetHoursMinutes cannot handle negative offset    
-43	 Ensure there is a max min valid offset
-77	 addDays    changes value of MutableDateTime
+18	 NPE DateTimeZoneBuilder
+21	 DateTimeFormat parseInto miscalculates year
+28	 Questionable behaviour GJChronology dates pass
+42	 DateTimeZone forOffsetHoursMinutes handle negative offset hour
+43	 Ensure max min valid offset
+77	 addDays MutableDateTime
 88	 Constructing invalid Partials

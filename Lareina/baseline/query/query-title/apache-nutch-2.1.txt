@@ -1,17 +1,17 @@
 956	solrindex issues
 1047	Pluggable indexing backends
-1370	Expose exact number of urls injected  runtime
-1393	Display consistent usage of GeneratorJob with   X
-1419	parsechecker and indexchecker to report protocol status
-1453	Substantiate tests for IndexingFilters
-1493	Error adding field  contentLength  during solrindex using index more
-1501	Harmonize behavior of parsechecker and indexchecker
-1503	Configuration properties not in sync between FetcherReducer and nutch default xml
-1513	Support Robots txt for Ftp urls
-1514	Phase out the deprecated configuration properties  if possible
-1532	Replace  segment  mapping field with batchId
-1542	adddays param for generator not present in   x
-1552	possibility of a NPE in index more plugin
-1563	FetchSchedule getFields is never used by GeneraterJob
-1569	Upgrade   x to Gora
-1575	support solr authentication in nutch   x
+1370	Expose exact number urls injected runtime
+1393	Display consistent usage GeneratorJob
+1419	parsechecker indexchecker report protocol status
+1453	Substantiate tests IndexingFilters
+1493	Error adding field contentLength solrindex
+1501	Harmonize behavior parsechecker indexchecker
+1503	Configuration properties sync FetcherReducer nutch default xml
+1513	Support Robots txt Ftp urls
+1514	Phase deprecated configuration properties
+1532	Replace segment mapping field batchId
+1542	adddays param generator
+1552	possibility NPE plugin
+1563	FetchSchedule getFields GeneraterJob
+1569	Upgrade Gora
+1575	support solr authentication nutch

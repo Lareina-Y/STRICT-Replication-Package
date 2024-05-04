@@ -1,33 +1,33 @@
-33356	 � Incorrect parsing of tag attributes
-37326	 � No error reported when  jsp include  has
-38553	 � Wrong HTTP code for failed CLIENT CERT authentication
-41059	 � WebAppClassLoader clearReferences code break running threads
-42039	 � Tomcat doesn t output the stack trace of UnavailableException
-42503	 � ServletContext getResourceAsStream returns stale data
-42693	 � JSP Generation error with recursive tagfile structure
-43706	 � Fix a litmus warning for WebdavServlet
-43868	 � MBeanServer invoke issue
-46105	 � URIEncoding doesn t affect after form authentication redirect
-46915	 � Unable to get ResourceBundle keys in Tomcat
-47111	 � do caching the resources like the docu say it
-47378	 � welcome file ignores servlet mapping
-47413	 � There is difference in composite  a b 
-47568	 � TestTomcat fails to delete work directory
-47744	 � Memory leak when using SSL   Java security
-47820	 � Static utility methods in Tomcat should be instance methods
-48113	 � Member hostname components are printed as signed  bits
-48117	 � two misspellings in the javadoc of class  org
-48139	 � Tomcat Javadoc and unthrown exception fixes
-48172	 � JspRuntimeContext synch  problems
-48387	 � Make RemoteIpFilter parameters consistent with RemoteIpValve
-49118	 � Inefficient use of String concatenation in loop
-49132	 � JNDI not working
-49144	 � Incorrect lazy initialization and update of static fields
-49221	 � javax servlet http Cookie setDomain uses default charset
-49290	 � Using a JarScanner with scanAllDirectories true causes Tomcat 
-49340	 � Webapp unavailable after deploy then stop then start
-49721	 � Fail to access the resources such as jsp files
-50127	 � Possible NPEs in SimpleTCPCluster
-51641	 � Http NioProcessor not correct release
-51972	 � sendRedirect does not support protocol relative URLs
-54115	 � Minor enhancements to HttpClient test helper class
+33356	 Incorrect parsing tag attributes
+37326	 error reported jsp include existent target
+38553	 Wrong HTTP code failed CLIENT CERT authentication
+41059	 WebAppClassLoader clearReferences code break running threads
+42039	 Tomcat doesn output stack trace UnavailableException
+42503	 ServletContext getResourceAsStream returns stale data
+42693	 JSP Generation error recursive tagfile structure
+43706	 litmus warning WebdavServlet
+43868	 MBeanServer invoke issue
+46105	 URIEncoding doesn affect form authentication redirect
+46915	 Unable ResourceBundle Tomcat
+47111	 caching resources docu StringManager
+47378	 file ignores servlet mapping
+47413	 difference composite expressions
+47568	 TestTomcat fails delete work directory
+47744	 Memory leak SSL Java security manager
+47820	 Static utility methods Tomcat instance methods
+48113	 Member hostname components printed signed bits
+48117	 misspellings javadoc class org apache catalina startup ContextConfig
+48139	 Tomcat Javadoc unthrown exception fixes
+48172	 JspRuntimeContext synch problems
+48387	 RemoteIpFilter parameters consistent RemoteIpValve
+49118	 Inefficient String concatenation loop
+49132	 JNDI working
+49144	 Incorrect lazy initialization update static fields
+49221	 javax servlet http Cookie setDomain default charset
+49290	 JarScanner scanAllDirectories true Tomcat start
+49340	 Webapp unavailable deploy start
+49721	 Fail access resources jsp files jar file supported servlet
+50127	 NPEs SimpleTCPCluster
+51641	 Http NioProcessor correct release
+51972	 sendRedirect support protocol relative URLs
+54115	 Minor enhancements HttpClient test helper class

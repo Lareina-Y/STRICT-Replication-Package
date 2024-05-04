@@ -1,18 +1,18 @@
-820	Locator is unset for HTML parser
-991	Mp Parser cannot extract the duration of an audio file
-992	OpenGraph meta tags to allow multiple values
-1012	Add additional fields to MimeType reader
-1014	Allow custom MimeTypesReader
-1047	Provide a JAX RS to detect only the mediatype
-1053	Upgrade Tika Parsers to use ASM   x
-1062	Add list detection to RTFParser
-1074	Extraction should continue if an exception is hit visiting an embedded document
-1109	Metadata not extracted before the content in OOXML  pptx
-1110	Incorrectly declared SUPPORTED TYPES in ChmParser
-1124	Nested documents not extracted if a PDF file is in the chain
-1126	text html procuder for tika server
-1130	docx text extract leaves out some portions of text
-1193	Allow access to HtmlParser s HtmlSchema
-1202	Refactor PDFParser to enable easier parameter setting
-1210	Address tika parsers o a t mime TestMimeTypes TODO  Need a test flash file
-1211	OpenDocument  ODF  parser produces multiple startDocument  events
+820	Locator unset HTML parser
+991	Parser extract duration audio file
+992	OpenGraph meta tags multiple values
+1012	Add additional fields MimeType reader
+1014	custom MimeTypesReader
+1047	Provide JAX detect mediatype
+1053	Upgrade Tika Parsers ASM
+1062	Add list detection RTFParser
+1074	Extraction continue exception hit visiting embedded document
+1109	Metadata extracted content OOXML pptx
+1110	Incorrectly declared SUPPORTED TYPES ChmParser
+1124	Nested documents extracted PDF file chain
+1126	text html procuder tika server
+1130	docx text extract leaves portions text
+1193	access HtmlParser HtmlSchema
+1202	Refactor PDFParser enable easier parameter setting
+1210	Address tika parsers mime TestMimeTypes TODO test flash file
+1211	OpenDocument ODF parser produces multiple startDocument events

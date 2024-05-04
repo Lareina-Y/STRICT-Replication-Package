@@ -1,21 +1,21 @@
-55	SubscribeReconnectRetryTask might retry subscription endlessly when another subscription is already successfully created previously
-247	Detection of under replication
-248	Rereplicating of under replicated data
-272	Provide automatic mechanism to know bookie failures
-299	Provide LedgerFragmentReplicator which should replicate the fragments found from LedgerChecker
+55	SubscribeReconnectRetryTask retry subscription endlessly subscription created
+247	Detection replication
+248	Rereplicating replicated data
+272	Provide automatic mechanism bookie failures
+299	Provide LedgerFragmentReplicator replicate fragments LedgerChecker
 300	Create Bookie format command
-318	Spelling mistake in MultiCallback log message
-326	DeadLock during ledger recovery
-330	System currentTimeMillis usage in Hedwig
-336	bookie readEntries is taking more time if the ensemble has failed bookie s
-337	Add entry fails with MetadataVersionException when last ensemble has morethan one bookie failures
-345	Detect IOExceptions on entrylogger and bookie should consider next ledger dir if any
-346	Detect IOExceptions in LedgerCache and bookie should look at next ledger dir if any
-347	Provide mechanism to detect r o bookie by the bookie clients
-355	Ledger recovery will mark ledger as closed with     in case of slow bookie is added to ensemble during recovery add
-431	Duplicate definition of COOKIES NODE
-447	Bookie can fail to recover if index pages flushed before ledger flush acknowledged
-472	Provide an option to start Autorecovery along with Bookie Servers
-491	Hedwig doc for configuration
+318	Spelling mistake MultiCallback log message
+326	DeadLock ledger recovery
+330	System currentTimeMillis usage Hedwig
+336	bookie readEntries time ensemble failed bookie
+337	Add entry fails MetadataVersionException ensemble morethan bookie failures
+345	Detect IOExceptions entrylogger bookie ledger dir
+346	Detect IOExceptions LedgerCache bookie ledger dir
+347	Provide mechanism detect bookie bookie clients
+355	Ledger recovery mark ledger closed case slow bookie ensemble recovery add
+431	Duplicate definition COOKIES NODE
+447	Bookie fail recover flushed ledger flush acknowledged
+472	Provide option start Autorecovery Bookie Servers
+491	Hedwig doc configuration
 498	BookieRecoveryTest tearDown NPE
-514	TestDeadLock hanging sometimes
+514	TestDeadLock hanging
